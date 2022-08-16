@@ -1,0 +1,30 @@
+@charset "UTF-8";
+th.alerts{
+    text-align: right;
+}
+td.alerts, td.actions{
+    text-align: right;
+}
+.ibutton-container{
+     float: left;
+ }
+.ibutton-container label {
+    display: inline;
+}
+td .ibutton-container{
+    float: right;
+}
+.pack h3 {
+    padding: 3px 0;
+    min-height: 30px;
+}
+.pack h3 > span {
+    float: left;
+    margin-right: 10px;
+}
+.pack .group-selector{
+    display: none;
+}
+.pack .group-selector.setted{
+    display: inline-table;
+}

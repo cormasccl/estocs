@@ -1,0 +1,1902 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: 2019-01-17 14:18+0100\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: en\n"
+
+#: Controller/ArticleNoveltiesController.php:55
+#: Controller/CataloguesController.php:247
+#: View/Elements/menu_disponible.ctp:169 View/Layouts/customer.ctp:250
+msgid "Novedades"
+msgstr "Neuheiten"
+
+#: Controller/ArticlesController.php:849
+#: Controller/ProductsController.php:69;732;867
+msgid "Producto inexistente"
+msgstr "Produkt ist nicht vorhanden"
+
+#: Controller/CashOrdersController.php:35
+msgid "Se ha finalizado correctamente el pedido y se ha enviado a su comercial. Le adjuntamos copia en pdf del pedido."
+msgstr "Der Auftrag wurde erfolgreich abgewickelt und an den zuständigen Mitarbeiter verschickt. Anbei senden wir Ihnen eine PDF-Kopie des Auftrags."
+
+#: Controller/CashOrdersController.php:37
+msgid "Ha ocurrido un error al finalizar el pedido. Contacte con su comercial"
+msgstr "Beim Abschließen des Bestellvorgang ist ein Fehler aufgetreten. Wenden Sie sich an Ihren Außendienstmitarbeiter"
+
+#: Controller/CashOrdersController.php:43
+msgid "Finalización de pedido"
+msgstr "Abschließen des Auftrags"
+
+#: Controller/CatalogueUsersController.php:34;37
+msgid "Listas comerciales"
+msgstr "Handelslisten"
+
+#: Controller/CataloguesController.php:241
+#: Controller/SeasonCataloguesController.php:87
+msgid "Plantas motoras (PRECIOS NETOS DEFINITIVOS)"
+msgstr "Selbstbewegende Pflanzen (DEFINITIVE NETTOPREISE)"
+
+#: Controller/CataloguesController.php:244
+#: Controller/SeasonCataloguesController.php:90
+#: Controller/UsersController.php:78 View/Elements/menu_disponible.ctp:183
+#: View/Elements/menu_superior_app_old.ctp:51 View/Layouts/customer.ctp:262
+#: View/Products/menu_disponible.ctp:145
+msgid "Sugerencias"
+msgstr "Vorschläge"
+
+#: Controller/CataloguesController.php:253
+#: View/Elements/menu_disponible.ctp:231 View/Layouts/customer.ctp:292
+#: View/Products/menu_disponible.ctp:192
+msgid "Composiciones Corma"
+msgstr "Corma-Kompositionen"
+
+#: Controller/CataloguesController.php:259
+#: Controller/SeasonCataloguesController.php:99
+#: Controller/UsersController.php:81 View/Elements/menu_disponible.ctp:139
+#: View/Elements/menu_superior_app_old.ctp:49 View/Layouts/customer.ctp:226
+#: View/Products/menu_disponible.ctp:120
+msgid "Ofertas"
+msgstr "Angebote"
+
+#: Controller/CataloguesController.php:262
+msgid "Resultados búsqueda"
+msgstr "Suchergebnisse"
+
+#: Controller/CataloguesController.php:265
+#: Controller/SeasonCataloguesController.php:102
+msgid "Artículos seleccionados"
+msgstr "Ausgewählte Artikel"
+
+#: Controller/CataloguesController.php:332
+msgid "Disponible semana"
+msgstr "Diese Woche vorrätig"
+
+#: Controller/CataloguesController.php:397
+msgid "Resultados busqueda"
+msgstr "Suchergebnisse"
+
+#: Controller/ContactsController.php:239;391
+#: Controller/ProvidersController.php:256;416
+#: Controller/UsersNewslettersController.php:354;608
+msgid "Email no encontrado."
+msgstr "E-Mail nicht gefunden."
+
+#: Controller/DetailsController.php:188 View/Details/index.ctp:38
+msgid "RESERVA"
+msgstr "RESERVIERUNG"
+
+#: Controller/PetitionsController.php:58
+msgid "Nueva solicitud de usuario web"
+msgstr "Neuer Webnutzerantrag"
+
+#: Controller/PetitionsController.php:62
+msgid "Su solicitud se ha registrado correctamente. Su comercial revisará los datos introducidos, en caso de ser correctos recibirá un correo electrónico con un usuario de acceso."
+msgstr "Ihr Webnutzerantrag ist bei uns eingegangen. Ihr Außendienstmitarbeiter wird die Angaben prüfen. Sollten diese korrekt sein, erhalten Sie eine E-Mail mit Ihren Zugangsdaten."
+
+#: Controller/PetitionsController.php:66
+msgid "Ha ocurrido un error al registrar su petición."
+msgstr "Bei Ihrer Anfrage ist ein Fehler aufgetreten."
+
+#: Controller/ProductsController.php:600
+msgid "No hay productos con los parámetros seleccionados"
+msgstr "Es gibt keine Produkte mit den ausgewählten Merkmalen"
+
+#: Controller/ProductsController.php:664;682 View/Elements/menu_corma.ctp:239
+#: View/Elements/menu_corma_mobile.ctp:187
+msgid "Buscador de plantas"
+msgstr "Pflanzensuche"
+
+#: Controller/ProductsController.php:838
+msgid "Nuestra gama"
+msgstr "Unsere Produktpalette"
+
+#: Controller/SeasonCataloguesController.php:143
+msgid "Catálogo - Área Privada - "
+msgstr "Katalog - Privatbereich - "
+
+#: Controller/StocksController.php:38
+msgid "Gestión de estocs Corma"
+msgstr "Inventarverwaltung Corma"
+
+#: Controller/UsersController.php:75 View/Elements/menu_cataleg.ctp:75
+#: View/Elements/menu_superior_app_old.ctp:50 View/Layouts/customer.ctp:237
+#: View/Products/menu_disponible.ctp:133
+msgid "Plantas motoras"
+msgstr "Selbstbewegende Pflanzen"
+
+#: Controller/UsersController.php:86
+msgid "Disponible - Área Privada - "
+msgstr "Vorrätig - Privatbereich - "
+
+#: Controller/UsersController.php:128
+msgid "Nuevo usuario"
+msgstr "Neuer Nutzer"
+
+#: Controller/UsersController.php:217
+msgid "Gestión de usuarios"
+msgstr "Nutzerverwaltung"
+
+#: Controller/UsersController.php:329 View/Elements/menu_corma.ctp:382
+#: View/Elements/menu_corma_mobile.ctp:327
+msgid "Área privada de clientes"
+msgstr "Privater Kundenbereich"
+
+#: Controller/UsersController.php:366;372
+msgid "Usuario / contraseña incorrectos"
+msgstr "Nutzername / Passwort inkorrekt"
+
+#: Controller/UsersController.php:372
+msgid "Clique aquí para recuperar la contraseña"
+msgstr "Hier klicken um das Passwort zurückzusetzen"
+
+#: Controller/UsersController.php:452;473
+msgid "Se ha cerrado la sesión correctamente."
+msgstr "Die Sitzung wurde erfolgreich beendet."
+
+#: Controller/UsersController.php:475
+msgid "Cierre de sesión"
+msgstr "Sitzung schließen"
+
+#: Controller/UsersController.php:505
+msgid "La contraseña no coincide"
+msgstr "Passwort stimmt nicht überein"
+
+#: Controller/UsersController.php:509
+msgid "La anterior contraseña no es correcta"
+msgstr "Das erste Passwort ist nicht korrekt"
+
+#: Controller/UsersController.php:520
+msgid "Contraseña modificada correctamente"
+msgstr "Passwort erfolgreich geändert"
+
+#: Controller/UsersController.php:523;589
+msgid "Error al guardar la nueva contraseña.Por favor contacte con el administrador"
+msgstr "Fehler beim Speichern des neuen Passworts. Kontaktieren Sie bitte den Administrator"
+
+#: Controller/UsersController.php:531
+msgid "Recuperación de contraseña"
+msgstr "Passwort zurücksetzen"
+
+#: Controller/UsersController.php:587
+msgid "Contraseña modificada correctamente."
+msgstr "Passwort erfolgreich geändert."
+
+#: Controller/UsersController.php:618
+msgid "Corma  - Recuperar contraseña"
+msgstr "Corma - Passwort zurücksetzen"
+
+#: Controller/UsersController.php:648
+msgid "Verifica tu dirección de correo electrónico"
+msgstr "E-Mail-Adresse verifizieren"
+
+#: Controller/UsersController.php:653
+msgid "Hola %s, has solicitado reestablecer tu contraseña del portal de Corma. Por favor pulsa el siguiente enlace para poder cambiar su contraseña"
+msgstr "Hallo %s, Sie haben beantragt, Ihr Passwort für das Corma-Portal zurücksetzen zu lassen. Klicken Sie auf den folgenden Link, um das Passwort zu ändern"
+
+#: Controller/UsersController.php:658
+msgid "Cambiar mi contraseña"
+msgstr "Mein Passwort ändern"
+
+#: Controller/UsersController.php:662
+msgid "Si el botón no funciona, copia y pega este enlace en tu navegador <strong>%s</strong>"
+msgstr "Sollte der Link nicht funktionieren, kopieren Sie diesen Link in Ihre Browserzeile<strong>%s</strong>"
+
+#: Controller/UsersController.php:669
+msgid "Se ha enviado un correo electrónico a su cuenta con las instrucciones para cambiar su contraseña"
+msgstr "Es wurde eine E-Mail mit Anweisungen an Ihre Mailadresse verschickt, wie Sie Ihr Passwort ändern können"
+
+#: Controller/UsersController.php:671
+msgid "Ha habido algún error al enviar el correo electrónico."
+msgstr "Beim Versenden der E-Mail ist ein Fehler aufgetreten."
+
+#: Controller/UsersController.php:675
+msgid "El nombre de usuario proporcionado no existe en nuestra base de datos."
+msgstr "Der angegebene Nutzername ist nicht in unserer Datenbank gespeichert."
+
+#: Controller/UsersNewslettersController.php:137;140
+msgid "Hemos dado de baja correctamente su email."
+msgstr "Ihre E-Mail wurde erfolgreich abgemeldet."
+
+#: Controller/UsersNewslettersController.php:190;196
+msgid "Email subscrito correctamente"
+msgstr "Ihre E-Mail wurde erfolgreich hinzugefügt"
+
+#: Controller/UsersNewslettersController.php:193
+msgid "Este email ya está subscrito a la newsletter."
+msgstr "Diese Mailadresse ist bereits für den Newsletter angemeldet."
+
+#: Plugin/AclExtras/Lib/AclExtras.php:123
+msgid "<error>Plugin %s not found or not activated</error>"
+msgstr "<error>Plugin %s not found or not activated</error>"
+
+#: Plugin/AclExtras/Lib/AclExtras.php:181
+msgid "Deleted %s and all children"
+msgstr "Deleted %s and all children"
+
+#: Plugin/AclExtras/Lib/AclExtras.php:222
+msgid "Created Aco node: <success>%s</success>"
+msgstr "Created Aco node: <success>%s</success>"
+
+#: Plugin/AclExtras/Lib/AclExtras.php:275
+msgid "Unable to get methods for \"%s\""
+msgstr "Unable to get methods for \"%s\""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:296
+msgid "Deleted Aco node: <warning>%s</warning>"
+msgstr "Deleted Aco node: <warning>%s</warning>"
+
+#: View/Articles/view.ctp:20 View/Elements/ficha.ctp:88
+#: View/Products/ficha.ctp:171 View/Products/lista.ctp:125
+#: View/Products/result.ctp:157 View/Products/results.ctp:195
+#: View/Products/search.ctp:204
+msgid "Exposición"
+msgstr "Standort"
+
+#: View/Articles/view.ctp:26 View/Elements/ficha.ctp:94
+#: View/Products/ficha.ctp:184 View/Products/lista.ctp:138
+#: View/Products/result.ctp:170 View/Products/results.ctp:208
+#: View/Products/search.ctp:217
+msgid "Riego"
+msgstr "Bewässerung"
+
+#: View/Articles/view.ctp:32 View/Elements/ficha.ctp:99
+#: View/Products/ficha.ctp:212 View/Products/lista.ctp:151
+#: View/Products/result.ctp:202 View/Products/results.ctp:221
+#: View/Products/search.ctp:230
+msgid "Temperatura"
+msgstr "Temperatur"
+
+#: View/CashOrderDetails/#view.ctp:8 View/CashOrderDetails/view.ctp:8
+msgid "Línea pedido"
+msgstr "Bestellhotline"
+
+#: View/CashOrderDetails/#view.ctp:9 View/CashOrderDetails/view.ctp:9
+#: View/Catalogues/cart.ctp:26 View/Catalogues/collection.ctp:61
+#: View/Catalogues/gamma.ctp:67 View/Catalogues/index.ctp:38
+#: View/Catalogues/preview.ctp:71 View/Catalogues/search.ctp:33
+#: View/Catalogues/send.ctp:27 View/InvoiceDetails/view.ctp:5
+#: View/SeasonCatalogues/collection.ctp:44 View/SeasonCatalogues/gamma.ctp:50
+#: View/SeasonCatalogues/index.ctp:27 View/Users/inicio.ctp:9
+msgid "Información planta"
+msgstr "Informationen zu Pflanzen"
+
+#: View/CashOrderDetails/#view.ctp:9 View/CashOrderDetails/view.ctp:9
+#: View/Catalogues/preview.ctp:71 View/Catalogues/send.ctp:27
+msgid "Sus comentarios"
+msgstr "Ihre Kommentare"
+
+#: View/CashOrderDetails/#view.ctp:10 View/CashOrderDetails/view.ctp:10
+#: View/Catalogues/preview.ctp:72 View/Catalogues/send.ctp:28
+msgid "Unidades (US)"
+msgstr "Einheiten (Stck.)"
+
+#: View/CashOrderDetails/#view.ctp:10;21 View/CashOrderDetails/view.ctp:10;27
+#: View/Catalogues/preview.ctp:72;83 View/Catalogues/send.ctp:28;39
+#: View/Elements/fila.ctp:210;219 View/InvoiceDetails/view.ctp:6
+msgid "Unidades"
+msgstr "Einheiten"
+
+#: View/CashOrderDetails/#view.ctp:10 View/CashOrderDetails/view.ctp:10
+#: View/Catalogues/preview.ctp:72 View/Catalogues/send.ctp:28
+#: View/InvoiceDetails/view.ctp:6 View/Stocks/home.ctp:80
+#: View/Stocks/index.ctp:48
+msgid "Precio"
+msgstr "Preis"
+
+#: View/CashOrderDetails/#view.ctp:11 View/CashOrderDetails/view.ctp:11
+#: View/Catalogues/preview.ctp:73 View/Catalogues/send.ctp:29
+#: View/Payments/view.ctp:64
+msgid "Importe"
+msgstr "Summe"
+
+#: View/CashOrderDetails/#view.ctp:24 View/CashOrderDetails/view.ctp:30
+#: View/Catalogues/preview.ctp:86 View/Catalogues/send.ctp:42
+#: View/Elements/fila.ctp:213
+msgid "Cajas"
+msgstr "Kisten"
+
+#: View/CashOrderDetails/#view.ctp:27 View/CashOrderDetails/view.ctp:33
+#: View/Catalogues/preview.ctp:89 View/Catalogues/send.ctp:45
+#: View/Elements/fila.ctp:215
+msgid "Pisos"
+msgstr "Etagen"
+
+#: View/CashOrderDetails/#view.ctp:30 View/CashOrderDetails/view.ctp:36
+#: View/Catalogues/preview.ctp:92 View/Catalogues/send.ctp:48
+#: View/Elements/fila.ctp:216
+msgid "Carris"
+msgstr "Karren"
+
+#: View/CashOrderDetails/summary.ctp:9
+msgid "Se ha duplicado correctamente el pedido."
+msgstr "Der Auftrag wurde erfolgreich vervielfältigt."
+
+#: View/CashOrderDetails/summary.ctp:17
+msgid "Los siguientes artículos no se han añadido debido a que esta semana ya no están disponibles:"
+msgstr "Die folgenden Artikel wurden nicht hinzugefügt, da sie diese Woche nicht vorrätig sind:"
+
+#: View/CashOrderDetails/summary.ctp:29
+msgid "Continuar"
+msgstr "Fortfahren"
+
+#: View/CashOrderDetails/view.ctp:53
+msgid "Duplicar pedido"
+msgstr "Auftrag vervielfältigen"
+
+#: View/CashOrderDetails/view.ctp:55
+msgid "(Se añadirán todos los artículos que tengan disponibilidad esta semana)"
+msgstr "(Es werden sämtliche Artikel hinzugefügt, die diese Woche vorrätig sind.)"
+
+#: View/CashOrders/selection.ctp:31
+msgid "Selecciona una lista de Disponible"
+msgstr "Liste verfügbarer Artikel wählen"
+
+#: View/CashOrders/selection.ctp:72 View/Invoices/view.ctp:147
+#: View/Partners/selection.ctp:67 View/Stocks/home.ctp:180
+#: View/Stocks/index.ctp:121
+msgid "Siguiente página"
+msgstr "Nächste Seite"
+
+#: View/CashOrders/send.ctp:29
+msgid "Volver al disponible semanal"
+msgstr "Zurück zu vorrätigen Artikeln für diese Woche"
+
+#: View/CashOrders/view.ctp:24 View/Elements/menu_left_agent.ctp:27
+#: View/Elements/menu_left_old.ctp:7
+msgid "Consulta de pedidos"
+msgstr "Bestellungsanfrage"
+
+#: View/CashOrders/view.ctp:32
+msgid "Nº pedido:"
+msgstr "Bestellnummer:"
+
+#: View/CashOrders/view.ctp:36
+msgid "Fecha pedido desde:"
+msgstr "Bestelldatum ab dem:"
+
+#: View/CashOrders/view.ctp:40
+msgid "Fecha pedido hasta:"
+msgstr "Bestelldatum bis zum:"
+
+#: View/CashOrders/view.ctp:43 View/Customers/view.ctp:43
+#: View/Invoices/#view.ctp:39 View/Invoices/view.ctp:64
+#: View/Payments/view.ctp:46 View/Products/results.ctp:506
+#: View/Products/search.ctp:532 View/Products/view.ctp:341
+#: View/Stocks/detail.ctp:104;114 View/Stocks/home.ctp:29;65
+#: View/Stocks/index.ctp:12;29
+msgid "Buscar"
+msgstr "Suchen"
+
+#: View/CashOrders/view.ctp:64
+msgid "Nº Pedido"
+msgstr "Bestellnummer"
+
+#: View/CashOrders/view.ctp:65
+msgid "Fecha del pedido"
+msgstr "Bestelldatum"
+
+#: View/CashOrders/view.ctp:66 View/Payments/view.ctp:67
+msgid "Estado"
+msgstr "Status"
+
+#: View/CashOrders/view.ctp:67 View/Invoices/view.ctp:84;92
+msgid "Importe total"
+msgstr "Gesamtsumme"
+
+#: View/CashOrders/view.ctp:68 View/Customers/view.ctp:82
+#: View/Invoices/#view.ctp:59 View/Invoices/view.ctp:85;93
+#: View/Partners/index.ctp:29 View/Users/index.ctp:1662
+#: View/UsersNewsletters/index.ctp:16
+msgid "Acciones"
+msgstr "Aktionen"
+
+#: View/CashOrders/view.ctp:89
+msgid " - "
+msgstr " - "
+
+#: View/CashOrders/view.ctp:96 View/Invoices/#view.ctp:77
+msgid "Ver detalle"
+msgstr "Details anzeigen"
+
+#: View/CashOrders/view.ctp:98
+msgid "Ver detalle / duplicar pedido"
+msgstr "Details anzeigen / Auftrag vervielfältigen"
+
+#: View/CatalogueUsers/add.ctp:9
+msgid "Lista comercial"
+msgstr "Handelsliste"
+
+#: View/CatalogueUsers/add.ctp:15 View/Users/add.ctp:16 View/Users/login.ctp:40
+msgid "Usuario"
+msgstr "Nutzer"
+
+#: View/CatalogueUsers/add.ctp:19 View/Details/add.ctp:235
+#: View/Details/edit.ctp:204 View/Partners/add.ctp:30 View/Partners/edit.ctp:26
+#: View/Users/add.ctp:118
+msgid "Guardar"
+msgstr "Speichern"
+
+#: View/Catalogues/cart.ctp:25 View/Catalogues/collection.ctp:60
+#: View/Catalogues/gamma.ctp:66 View/Catalogues/index.ctp:37
+#: View/Catalogues/search.ctp:32 View/SeasonCatalogues/collection.ctp:43
+#: View/SeasonCatalogues/gamma.ctp:49 View/SeasonCatalogues/index.ctp:26
+#: View/Users/inicio.ctp:9
+msgid "Fotografía / Estado actual"
+msgstr "Foto / Aktueller Status"
+
+#: View/Catalogues/cart.ctp:27 View/Catalogues/collection.ctp:62
+#: View/Catalogues/gamma.ctp:68 View/Catalogues/index.ctp:39
+#: View/Catalogues/search.ctp:34 View/SeasonCatalogues/collection.ctp:45
+#: View/SeasonCatalogues/gamma.ctp:51 View/SeasonCatalogues/index.ctp:28
+#: View/Users/inicio.ctp:9
+msgid "Observaciones Corma"
+msgstr "Bemerkungen Corma"
+
+#: View/Catalogues/cart.ctp:28 View/Catalogues/collection.ctp:63
+#: View/Catalogues/gamma.ctp:69 View/Catalogues/index.ctp:41
+#: View/Catalogues/search.ctp:36 View/Users/inicio.ctp:9
+msgid "Su pedido / Sus comentarios"
+msgstr "Ihr Auftrag /Ihre Kommentare"
+
+#: View/Catalogues/preview.ctp:36
+msgid "Atención! Si no finalizan su pedido no se enviará a su comercial. "
+msgstr "Achtung! Wenn Sie den Auftrag nicht abschließen, kann er nicht an Ihren Außendienstmitarbeiter geschickt werden"
+
+#: View/Catalogues/preview.ctp:43 View/Elements/box_carris_mobile.ctp:54
+#: View/Elements/menu_disponible.ctp:91 View/Products/menu_disponible.ctp:73
+msgid "Finalizar y enviar pedido"
+msgstr "Abschließen und Bestellung abschicken"
+
+#: View/Catalogues/preview.ctp:50 View/Catalogues/send.ctp:10
+msgid "A continuación encontrará el resumen de su pedido listo para enviar a su comercial. Revise todos los artículos. Si desea modificar alguno puede pulsar en el botón \"Modificar / visualizar\". Si todo su pedido es correcto puede añadir a continuación las observaciones que desee dirigidas a su comercial referente a este pedido. Para que su comercial procese correctamente su pedido debe pulsar en el botón \"Finalizar y enviar pedido\". Muchas gracias por su compra."
+msgstr "Weiter unten finden Sie eine Zusammenfassung der kompletten Bestellung, die Sie dann an Ihren Außendienstmitarbeiter weiterleiten können. Sollten Sie noch Änderungen vornehmen wollen, klicken Sie auf „Ändern / Darstellen“. Wenn die Bestellung korrekt ist, können Sie noch Bemerkungen an Ihren Außendienstmitarbeiter hinzufügen. Damit der Mitarbeiter die Bestellung korrekt bearbeiten kann, klicken Sie „Bestellung abschließen und abschicken.“ Vielen Dank für Ihren Einkauf."
+
+#: View/Catalogues/preview.ctp:57 View/Catalogues/send.ctp:17
+msgid "Observaciones pedido:"
+msgstr "Bemerkungen zur Bestellung:"
+
+#: View/Catalogues/select.ctp:13
+msgid "Bienvenido a la área privada, seleccione lo que quiere hacer"
+msgstr "Willkommen im Privatbereich. Was möchten Sie tun"
+
+#: View/Catalogues/select.ctp:15
+msgid "QUIERO<br />COMPRAR"
+msgstr "EINKAUFEN<br />"
+
+#: View/Catalogues/select.ctp:17
+msgid "QUIERO CONSULTAR<br />CATÁLOGO"
+msgstr "IM KATALOG<br />BLÄTTERN"
+
+#: View/Catalogues/selection.ctp:32
+msgid "Selecciona una lista comercial"
+msgstr "Handelsliste auswählen"
+
+#: View/Catalogues/selection.ctp:135 View/Partners/selection.ctp:140
+msgid "Mostrar más socios..."
+msgstr "Mehr Partner anzeigen..."
+
+#: View/Customers/index.ctp:14
+msgid "Bienvenido a la área privada de Corma, seleccione la opción que desee realizar"
+msgstr "Herzlich willkommen im Privatbereich von Corma. Wählen Sie aus, was Sie als nächstes tun möchten"
+
+#: View/Customers/index.ctp:21
+msgid "QUIERO COMPRAR (DISPONIBLE SEMANAL)"
+msgstr "EINKAUFEN (DIESE WOCHE VORRÄTIG)"
+
+#: View/Customers/index.ctp:31
+msgid "QUIERO CONSULTAR EL CATÁLOGO"
+msgstr "IM KATALOG BLÄTTERN"
+
+#: View/Customers/view.ctp:14
+msgid "Tipo de usuario"
+msgstr "Nutzertyp"
+
+#: View/Customers/view.ctp:28
+msgid "Código de cliente"
+msgstr "Kundennummer"
+
+#: View/Customers/view.ctp:33
+msgid "Nombre de cliente"
+msgstr "Kundenname"
+
+#: View/Customers/view.ctp:38;78 View/Users/login.ctp:109
+msgid "Nombre de usuario"
+msgstr "Nutzername"
+
+#: View/Customers/view.ctp:77
+msgid "Tipo usuario"
+msgstr "Nutzertyp"
+
+#: View/Customers/view.ctp:79 View/Users/add.ctp:65
+msgid "Código cliente"
+msgstr "Kundennummer"
+
+#: View/Customers/view.ctp:80 View/Partners/add.ctp:15
+#: View/Partners/edit.ctp:23 View/Stocks/home.ctp:217 View/Users/add.ctp:26
+msgid "Nombre"
+msgstr "Name"
+
+#: View/Customers/view.ctp:81 View/Users/add.ctp:36
+msgid "Email"
+msgstr "E-Mail"
+
+#: View/Customers/view.ctp:97 View/Elements/menu_left.ctp:55
+#: View/Elements/menu_left_admin.ctp:29 View/Elements/menu_left_agent.ctp:29
+#: View/Layouts/admin.ctp:186 View/Layouts/adminOld.ctp:161
+#: View/Users/changepassword.ctp:8
+msgid "Cambiar contraseña"
+msgstr "Passwort ändern"
+
+#: View/Details/add.ctp:170 View/Details/edit.ctp:133 View/Stocks/home.ctp:79
+#: View/Stocks/index.ctp:48;153
+msgid "Artículo"
+msgstr "Artikel"
+
+#: View/Details/add.ctp:172
+msgid "Estoc"
+msgstr "Inventar"
+
+#: View/Details/add.ctp:178 View/Details/edit.ctp:141
+msgid "Crecimiento"
+msgstr "Wuchs"
+
+#: View/Details/add.ctp:197 View/Details/edit.ctp:146
+msgid "Floración"
+msgstr "Blüte"
+
+#: View/Details/add.ctp:212 View/Details/index.ctp:27;160
+#: View/Stocks/index.ctp:48;153
+msgid "Estoc físico"
+msgstr "Vor Ort vorhandener Bestand"
+
+#: View/Details/add.ctp:217 View/Details/edit.ctp:186
+msgid "Observaciones"
+msgstr "Bemerkungen Corma"
+
+#: View/Details/add.ctp:231 View/Details/edit.ctp:221
+#: View/Details/index.ctp:81;173 View/Galleries/#index.ctp:178
+#: View/Galleries/index.ctp:188 View/Stocks/detail.ctp:226
+msgid "Volver"
+msgstr "Zurück"
+
+#: View/Details/edit.ctp:155;160
+msgid "Estoc <br />físico"
+msgstr "Vor Ort vorhandener <br /> Bestand"
+
+#: View/Details/edit.ctp:168
+msgid "Estoc <br />comprometido"
+msgstr "Knapper <br /> Bestand"
+
+#: View/Details/edit.ctp:172
+msgid "Estoc <br />disponible"
+msgstr "Verfügbarer <br /> Bestand"
+
+#: View/Details/edit.ctp:180
+msgid "El estoc disponible no puede ser negativo"
+msgstr "Die verfügbare Anzahl darf nicht negativ sein"
+
+#: View/Details/index.ctp:26;159
+msgid "Calidad"
+msgstr "Qualität"
+
+#: View/Details/index.ctp:28;161
+msgid "Imagen"
+msgstr "Image"
+
+#: View/Details/index.ctp:86;177
+msgid "Nueva calidad"
+msgstr "Neue Qualität"
+
+#: View/Elements/box_carris_mobile.ctp:10 View/Elements/menu_disponible.ctp:48
+#: View/Products/menu_disponible.ctp:39
+msgid "Total €"
+msgstr "Gesamt €"
+
+#: View/Elements/box_carris_mobile.ctp:20 View/Elements/menu_disponible.ctp:59
+#: View/Products/menu_disponible.ctp:49
+msgid "Total carris teóricos"
+msgstr "Gesamte Karren virtuell"
+
+#: View/Elements/box_carris_mobile.ctp:41 View/Elements/menu_disponible.ctp:81
+#: View/Products/menu_disponible.ctp:63
+msgid "Descargar disponible en pdf"
+msgstr "Verfügbaren Bestand als PDF herunterladen"
+
+#: View/Elements/box_carris_mobile.ctp:44 View/Elements/menu_disponible.ctp:84
+#: View/Products/menu_disponible.ctp:66
+msgid "Modificar / Visualizar"
+msgstr "Abändern / Visuell darstellen"
+
+#: View/Elements/box_carris_mobile.ctp:63 View/Elements/menu_disponible.ctp:100
+#: View/Products/menu_disponible.ctp:82
+msgid "Continuar compra"
+msgstr "Einkauf fortsetzen"
+
+#: View/Elements/ficha.ctp:48
+msgid "Ficha técnica"
+msgstr "Technische Daten"
+
+#: View/Elements/ficha.ctp:55 View/Products/ficha.ctp:136
+#: View/Products/lista.ctp:89 View/Products/result.ctp:122
+#: View/Products/results.ctp:159 View/Products/search.ctp:168
+msgid "Nombre popular"
+msgstr "Populärname"
+
+#: View/Elements/ficha.ctp:61 View/Products/ficha.ctp:145
+#: View/Products/lista.ctp:99 View/Products/result.ctp:131
+#: View/Products/results.ctp:169 View/Products/search.ctp:178
+msgid "Tipología"
+msgstr "Typologie"
+
+#: View/Elements/ficha.ctp:65
+msgid "Utilizaciones"
+msgstr "Verwendung"
+
+#: View/Elements/ficha.ctp:76
+msgid "Características especiales"
+msgstr "Besondere Merkmale"
+
+#: View/Elements/ficha.ctp:105 View/Products/ficha.ctp:231
+#: View/Products/lista.ctp:164 View/Products/result.ctp:221
+#: View/Products/results.ctp:234 View/Products/search.ctp:243
+msgid "Fragancia"
+msgstr "Duft"
+
+#: View/Elements/ficha.ctp:108 View/Products/ficha.ctp:236
+#: View/Products/lista.ctp:169 View/Products/result.ctp:226
+#: View/Products/results.ctp:239;500 View/Products/search.ctp:248;526
+#: View/Products/view.ctp:335
+msgid "Si"
+msgstr "Ja"
+
+#: View/Elements/ficha.ctp:110 View/Products/ficha.ctp:238
+#: View/Products/lista.ctp:171 View/Products/result.ctp:228
+#: View/Products/results.ctp:241;500 View/Products/search.ctp:250;526
+#: View/Products/view.ctp:335
+msgid "No"
+msgstr "Nein"
+
+#: View/Elements/ficha.ctp:117 View/Products/ficha.ctp:254
+#: View/Products/lista.ctp:181 View/Products/result.ctp:244
+#: View/Products/results.ctp:251 View/Products/search.ctp:260
+msgid "Desarrollo máximo"
+msgstr "Maximale Entfaltung"
+
+#: View/Elements/ficha.ctp:126 View/Products/ficha.ctp:277
+#: View/Products/lista.ctp:195 View/Products/result.ctp:267
+#: View/Products/results.ctp:265 View/Products/search.ctp:274
+msgid "Meses floración"
+msgstr "Blütemonate"
+
+#: View/Elements/ficha.ctp:132 View/Products/ficha.ctp:297
+#: View/Products/lista.ctp:208 View/Products/result.ctp:287
+#: View/Products/results.ctp:278 View/Products/search.ctp:287
+msgid "Coloración flor"
+msgstr "Blütenfarbe"
+
+#: View/Elements/ficha.ctp:144 View/Products/ficha.ctp:323
+#: View/Products/lista.ctp:225 View/Products/result.ctp:313
+#: View/Products/results.ctp:298 View/Products/search.ctp:307
+msgid "Coloración hoja"
+msgstr "Blattfarbe"
+
+#: View/Elements/fila.ctp:71
+msgid "Ver ficha técnica"
+msgstr "Technische Daten ansehen"
+
+#: View/Elements/fila.ctp:92
+msgid "caixa"
+msgstr "Kiste"
+
+#: View/Elements/fila.ctp:96
+msgid "pis"
+msgstr "Etage"
+
+#: View/Elements/fila.ctp:96
+msgid "carri"
+msgstr "Karren"
+
+#: View/Elements/fila.ctp:132
+msgid "Exposición: "
+msgstr "Standort: "
+
+#: View/Elements/fila.ctp:136
+msgid "Riego: "
+msgstr "Bewässerung: "
+
+#: View/Elements/fila.ctp:140
+msgid "Temperatura: "
+msgstr "Temperatur: "
+
+#: View/Elements/menu_cataleg.ctp:88 View/Layouts/customer.ctp:275
+#: View/Products/menu_disponible.ctp:158
+msgid "Colecciones exclusivas"
+msgstr "Exklusive Sammlungen"
+
+#: View/Elements/menu_cataleg.ctp:118 View/Elements/menu_disponible.ctp:247
+#: View/Layouts/customer.ctp:307 View/Products/menu_disponible.ctp:211
+msgid "Gama"
+msgstr "Sortiment"
+
+#: View/Elements/menu_corma.ctp:65
+msgid "Cultivamos confianza"
+msgstr "Wir sähen Vertrauen"
+
+#: View/Elements/menu_corma.ctp:81
+msgid "Corma"
+msgstr "Corma"
+
+#: View/Elements/menu_corma.ctp:105 View/Elements/menu_corma_mobile.ctp:54
+msgid "La cooperativa"
+msgstr "Die Kooperative"
+
+#: View/Elements/menu_corma.ctp:128 View/Elements/menu_corma_mobile.ctp:76
+msgid "Corma didáctica"
+msgstr "Corma didaktisch"
+
+#: View/Elements/menu_corma.ctp:149 View/Elements/menu_corma_mobile.ctp:97
+msgid "Región de cultivo"
+msgstr "Anbauregion"
+
+#: View/Elements/menu_corma.ctp:171 View/Elements/menu_corma_mobile.ctp:119
+msgid "Nuestros productores"
+msgstr "Unsere Produzenten"
+
+#: View/Elements/menu_corma.ctp:194 View/Elements/menu_corma_mobile.ctp:142
+msgid "Medioambiente"
+msgstr "Umwelt"
+
+#: View/Elements/menu_corma.ctp:219 View/Elements/menu_corma_mobile.ctp:167
+msgid "Servicio"
+msgstr "Service"
+
+#: View/Elements/menu_corma.ctp:228 View/Elements/menu_corma_mobile.ctp:176
+msgid "Productos"
+msgstr "Produkte"
+
+#: View/Elements/menu_corma.ctp:261 View/Elements/menu_corma_mobile.ctp:209
+msgid "Nuestras colecciones"
+msgstr "Unsere Kollektionen"
+
+#: View/Elements/menu_corma.ctp:283;312
+#: View/Elements/menu_corma_mobile.ctp:230;257
+msgid "Catálogo jardinería"
+msgstr "Gartenkatalog"
+
+#: View/Elements/menu_corma.ctp:323 View/Elements/menu_corma_mobile.ctp:268
+#: View/Petitions/add.ctp:36
+msgid "Contacto"
+msgstr "Kontakt"
+
+#: View/Elements/menu_corma.ctp:347 View/Elements/menu_corma_mobile.ctp:292
+msgid "Direcciones"
+msgstr "Adresse"
+
+#: View/Elements/menu_corma.ctp:369 View/Elements/menu_corma_mobile.ctp:314
+msgid "Contáctanos"
+msgstr "Kontaktieren Sie uns"
+
+#: View/Elements/menu_corma.ctp:391 View/Elements/menu_corma_mobile.ctp:336
+#: View/Elements/menu_left.ctp:56 View/Elements/menu_left_admin.ctp:30
+#: View/Elements/menu_left_agent.ctp:30 View/Elements/menu_superior_app.ctp:47
+#: View/Elements/menu_superior_app_old.ctp:38;95 View/Layouts/admin.ctp:100
+#: View/Layouts/private.ctp:74
+msgid "Cerrar sesión"
+msgstr "Sitzung beenden"
+
+#: View/Elements/menu_disponible.ctp:154
+msgid "Plantes motores"
+msgstr "Selbstbewegende Pflanzen"
+
+#: View/Elements/menu_disponible.ctp:196
+msgid "Col·leccions exclusives"
+msgstr "Exklusive Kollektionen"
+
+#: View/Elements/menu_inferior_app.ctp:43
+#: View/Elements/menu_superior_app.ctp:39
+msgid "Seleccionar socio / almacén"
+msgstr "Vertriebspartner / Lager auswählen"
+
+#: View/Elements/menu_inferior_app.ctp:48;59;76
+msgid "Estocs"
+msgstr "Bestand"
+
+#: View/Elements/menu_inferior_app.ctp:64;80
+msgid "Disponible"
+msgstr "Vorrätiger Bestand"
+
+#: View/Elements/menu_left.ctp:19
+msgid "Disponible semanal"
+msgstr "Diese Woche vorrätiger Bestand"
+
+#: View/Elements/menu_left.ctp:26
+msgid "Consultar catálogo"
+msgstr "Im Katalog nachschauen"
+
+#: View/Elements/menu_left.ctp:45 View/Elements/menu_left_admin.ctp:18
+#: View/Elements/menu_left_agent.ctp:19 View/Layouts/adminOld.ctp:152
+msgid "Menú"
+msgstr "Menü"
+
+#: View/Elements/menu_left.ctp:52
+msgid "Consultar / duplicar pedidos"
+msgstr "Nachschlagen / Bestellung vervielfältigen"
+
+#: View/Elements/menu_left.ctp:53 View/Elements/menu_left_old.ctp:9
+#: View/Invoices/#view.ctp:21 View/Invoices/view.ctp:37
+msgid "Consulta de facturas"
+msgstr "Rechnungsanfrage"
+
+#: View/Elements/menu_left.ctp:54 View/Elements/menu_left_old.ctp:11
+#: View/Payments/view.ctp:21
+msgid "Consulta de pagos"
+msgstr "Zahlungsanfrage"
+
+#: View/Elements/menu_left.ctp:63
+msgid "Agent comercial"
+msgstr "Handelspartner"
+
+#: View/Elements/menu_left_admin.ctp:25
+msgid "Gestión usuarios"
+msgstr "Nutzerverwaltung"
+
+#: View/Elements/menu_left_admin.ctp:26
+msgid "Consulta de disponibles"
+msgstr "Bestandsanfrage"
+
+#: View/Elements/menu_left_admin.ctp:27 View/Layouts/adminOld.ctp:160
+msgid "Gestión de permisos"
+msgstr "Genehmigungsverwaltung"
+
+#: View/Elements/menu_left_agent.ctp:28
+msgid "Consulta de clientes"
+msgstr "Kundenanfrage"
+
+#: View/Elements/menu_left_old.ctp:5 View/Layouts/admin.ctp:141
+#: View/Layouts/adminOld.ctp:159
+msgid "Gestión de pedidos"
+msgstr "Auftragsverwaltung"
+
+#: View/Elements/menu_left_old.ctp:17
+msgid "Agente comercial"
+msgstr "Handelspartner"
+
+#: View/Elements/menu_left_old.ctp:25;26
+msgid "Dato no rellenado"
+msgstr "Datum nicht ausgefüllt"
+
+#: View/Elements/menu_left_old.ctp:28
+msgid "Sus datos de cliente"
+msgstr "Ihre Kundendaten"
+
+#: View/Elements/menu_superior_app.ctp:41
+msgid "Gestión de estocs"
+msgstr "Inventarverwaltung"
+
+#: View/Elements/modal_subscribe.ctp:156
+msgid "Bienvenido/a,"
+msgstr "Guten Tag,"
+
+#: View/Elements/modal_subscribe.ctp:157
+msgid "Corma SCCL le informa que trata sus datos con el fin de informarles de sus productos y servicios."
+msgstr "Wir von Corma SCCL informieren Sie darüber, dass wir Ihre Daten verwenden, um Sie über Produkte und Dienstleistungen zu informieren."
+
+#: View/Elements/modal_subscribe.ctp:158
+msgid "¡Queremos seguir haciéndolo!"
+msgstr "Das wollen wir gerne auch weiterhin tun."
+
+#: View/Elements/modal_subscribe.ctp:160
+msgid "El nuevo Reglamento General de Protección de Datos (Reglamento (UE) 2016/679) exige disponer del consentimiento explícito para esta clase de tratamiento de datos. Por este motivo le solicitamos que, en caso de que estén interesados en seguir figurando en nuestra lista de distribución de información, nos lo confirme."
+msgstr "Die neue Datenschutzverordnung der EU (DSGVO, EU-Richtlinie 2016/679) erfordert die ausdrückliche Zustimmung zu dieser Form der Datenverarbeitung. Daher bitten wir Sie um eine Bestätigung, wenn Sie auch weiterhin auf unserer Verteilerliste bleiben wollen."
+
+#: View/Elements/modal_subscribe.ctp:164
+msgid "Información básica de protección de datos personales"
+msgstr "Allgemeine Informationen zum Schutz persönlicher Daten"
+
+#: View/Elements/modal_subscribe.ctp:167
+msgid "Responsable del tratamiento: Corma SCCL, Camí del mig, 20, de Premià de Dalt (CP 08338). Tel. 937549000, corma@corma.es."
+msgstr "Verantwortlich für die Verarbeitung: Corma SCCL, Camí del mig, 20, de Premià de Dalt (PLZ 08338) Tel. 937549000, corma@corma.es."
+
+#: View/Elements/modal_subscribe.ctp:168
+msgid "Finalidad: envío de información de Corma."
+msgstr "Zweck: Informationssendungen von Corma."
+
+#: View/Elements/modal_subscribe.ctp:169
+msgid "Legitimación: consentimiento de la persona interesada. La persona interesada puede revocar el consentimiento en cualquier momento."
+msgstr "Legitimation: Zustimmung des Interessenten. Der/die Interessent/in kann die Zustimmung jederzeit widerrufen."
+
+#: View/Elements/modal_subscribe.ctp:170
+msgid "Destinatarios: no se comunican datos a otras personas."
+msgstr "Datenweitergabe: Es werden keinerlei Daten an Dritte weitergegeben."
+
+#: View/Elements/modal_subscribe.ctp:171
+msgid "Derechos de las personas interesadas: puede ejercer los derechos de acceso, rectificación, supresión, oposición al tratamiento y solicitud de limitación, dirigiéndose a Corma."
+msgstr "Rechte der/des Interessenten/in: Interessenten haben gegenüber Corma ein Zugangsrecht, Recht auf Richtigstellung, Unterlassung, Einwand gegen die Verarbeitung der Daten und das Recht auf Begrenzung der Verarbeitung."
+
+#: View/Elements/modal_subscribe.ctp:179
+msgid "¡Suscríbete a nuestras newsletters para estar al dia de las últimas novedades y promociones!"
+msgstr "Bleiben Sie immer auf dem Laufenden, was Neuigkeiten und Angebote angeht und abonnieren Sie unseren Newsletter!"
+
+#: View/Elements/modal_subscribe.ctp:196
+msgid "  Acepto las condiciones"
+msgstr "Ich stimme den Bedingungen zu"
+
+#: View/Elements/modal_subscribe.ctp:199
+msgid "¡SUSCRÍBETE!"
+msgstr "JETZT ABONNIEREN!"
+
+#: View/Elements/modal_subscribe.ctp:205
+msgid "No quiero recibir información comercial de Corma"
+msgstr "Ich möchte keine Informationsmaterialien von Corma erhalten"
+
+#: View/Elements/modal_subscribe.ctp:209
+msgid "Descubre otras formas de conectar con Corma"
+msgstr "Weitere Arten, mit Corma in Verbindung zu bleiben"
+
+#: View/Elements/modal_subscribe.ctp:252
+msgid "POLÍTICA DE PROTECCIÓN DE DATOS"
+msgstr "DATENSCHUTZRICHTLINIEN"
+
+#: View/Elements/modal_subscribe.ctp:256
+msgid "Esta es la política de protección de datos de Cooperativa de Plantes Ornamentals del Maresme SCCL. Hace referencia a los datos que trata en el ejercicio de sus actividades comerciales dando cumplimiento al Reglamento General de Protección de Datos (Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016)."
+msgstr "Dies sind die Datenschutzrichtlinien der Zierpflanzenkooperative Maresme SCCL. Sie bezieht sich auf die Daten, die im Rahmen ihrer Handelsaktivitäten gemäß der EU-Datenschutzgrundverordnung (DSGVO 2016/679 des Europäischen Parlaments und des Europarats vom 27. April 2016) verarbeitet werden."
+
+#: View/Elements/modal_subscribe.ctp:258
+msgid "¿Quién es el responsable del tratamiento de los datos personales?"
+msgstr "Wer ist für die Verarbeitung der personenbezogenen Daten verantwortlich?"
+
+#: View/Elements/modal_subscribe.ctp:259
+msgid "El responsable del tratamiento de los datos personales es Cooperativa de Plantas Ornamentales del Maresme SCCL (en adelante, CORMA), con CIF F08668824 inscrita en el Registro de Cooperativas con el número BN-1212, domicilio en Premià de Dalt 08338 Barcelona, ​​teléfono 937549000, dirección electrónica corma@corma.es y página web www.corma.es"
+msgstr "Zuständig für die Verarbeitung personenbezogener Daten ist die Zierpflanzenkooperative Maresme SCCL (im Folgenden CORMA genannt) mit der Steuernummer F08668824, eingetragen im Kooperativen-Handelsregister unter der Nummer BN-1212 mit Sitz in Premia de Dalt, 08338 Barcelona, Tel.937549000, E-Mail: corma@corma.es und der Webseite www.corma.es"
+
+#: View/Elements/modal_subscribe.ctp:260
+msgid "CORMA es parte integrante del grupo CLADE del que forman parte también Abacus Cooperativa, Blanquerna-URL, Comunidad Minera Olesana, Cooperativa Plana de Vic, Escola Sant Gervasi, SOM, Lavola, Orquesta Sinfónica del Vallés y Suara Cooperativa (más información sobre el grupo a www.grupclade.com)."
+msgstr "CORMA ist teil der CLADE-Gruppe, zu deren weiteren Mitgliedern die Abacus Cooperativa, Blanquerna-URL, Comunidad Minera Olesana, Cooperativa Plana de Vic, Escola Sant Gervasi, SOM, Lavola, Orquesta Sinfónica del Vallés und Suara Cooperativa zählen. (Mehr Informationen über die Gruppe finden Sie unter www.grupclade.com)."
+
+#: View/Elements/modal_subscribe.ctp:262
+msgid "¿Con qué finalidad tratamos los datos?"
+msgstr "Zu welchen Zwecken verwenden wir die Daten?"
+
+#: View/Elements/modal_subscribe.ctp:263
+msgid "A CORMA tratamos los datos personales para las siguientes finalidades."
+msgstr "Bei CORMA verwenden wir die Daten zu den folgenden Zwecken:"
+
+#: View/Elements/modal_subscribe.ctp:264
+msgid "Contacto."
+msgstr "Kontaktaufnahme."
+
+#: View/Elements/modal_subscribe.ctp:265
+msgid "Atender las consultas de las personas que contactan con nosotros por medio de formularios de contacto de nuestra página web. Los utilizamos únicamente para esta finalidad."
+msgstr "Anfragen von Personen bearbeiten, die mit uns über die Kontaktformulare auf unsere Webseite Kontakt aufnehmen. Wir verwenden die Daten ausschließlich zu diesem Zweck."
+
+#: View/Elements/modal_subscribe.ctp:266
+msgid "Atención telefónica"
+msgstr "Telefonische Kontaktaufnahme"
+
+#: View/Elements/modal_subscribe.ctp:267
+msgid "Atender telefónicamente las personas que se ponen en contacto con nosotros por esta vía. Para ofrecer más calidad en el servicio las conversaciones pueden registrarse telefónicamente advirtiendo previamente a la persona con quien se comunicamos."
+msgstr "Wir setzen uns telefonisch mit Personen in Verbindung, die uns über diesen Weg kontaktieren. Um bessere Qualität beim Service zu bieten, können sich diese Personen im Voraus telefonisch bei Ihrem Gesprächspartner registrieren lassen."
+
+#: View/Elements/modal_subscribe.ctp:268
+msgid "Selección de personal"
+msgstr "Personalauswahl"
+
+#: View/Elements/modal_subscribe.ctp:269
+msgid "Recepción de currículum vitae que nos dirigen interesados ​​en trabajar con nosotros y gestión de los datos personales que se generan por la participación en los procesos de selección de personal, con el fin de analizar la adecuación del perfil de los candidatos en función de los lugares vacantes o de nueva creación. Nuestro criterio es conservar durante un plazo máximo de un año también los datos de las personas que no terminen siendo contratadas, por si a corto plazo se produce una nueva vacante o nuevo puesto de trabajo. No obstante, en este último caso, eliminamos inmediatamente los datos si el interesado nos lo pide."
+msgstr "Wir empfangen und verwalten Lebensläufe von Bewerbern und nutzen die Daten für den Auswahlprozess, in dem wir ein Profil der Kandidaten erstellen und ihre Eignung für die freien Stellen bzw. für neu zu schaffende Stellen überprüfen. Dabei speichern wir die Daten für maximal ein Jahr - dies gilt auch für Bewerber, die nicht erfolgreich sind, da es gegebenenfalls kurzfristig eine neue freie Stelle gibt. Auch in diesem letzteren Fall können wir die Daten auf ausdrücklichen Wunsch des Interessenten löschen."
+
+#: View/Elements/modal_subscribe.ctp:270
+msgid "Servicios a los clientes"
+msgstr "Kundendienst"
+
+#: View/Elements/modal_subscribe.ctp:271
+msgid "Registrar los nuevos clientes y los datos adicionales que se puedan generar como resultado de la relación comercial con los clientes. En el proceso de contratación se piden los datos imprescindibles, entre las que deben figurar datos bancarios (número de cuenta corriente o de tarjeta de crédito) que serán comunicados a entidades bancarias que gestionan el cobro (únicamente los pueden utilizar con este fin). La relación comercial conlleva otros tratamientos, como incorporar los datos a la contabilidad, la facturación o información a la administración tributaria. Accediendo al área de clientes de nuestra web es posible gestionar los datos propios, contratar productos, consultar el consumo y la facturación, acceder a promociones y descuentos o conocer el estado de consultas y reclamaciones que se hayan hecho por medio de este canal. El acceso al área de clientes nos proporciona información de la actividad del usuario de este servicio."
+msgstr "Registrierung neuer Kunden und zusätzliche Kundendaten, die sich aus der Geschäftsbeziehung ergeben. Bei der Erhebung der Kundendaten werden die unbedingt notwendigen Grunddaten erhoben, darunter Bankdaten (Konto- oder Kreditkartennummer), die dann an die Bankinstitute weitergeleitet werden, die für die Abbuchung zuständig sind (und die die Daten nur zu diesem Zweck nutzen können). Die Geschäftsbeziehung umfasst außerdem anderweitige Datenverarbeitung wie die Eingabe in die Buchführung, Erfassung für Rechnungen oder für Informationen für die Steuerbehörde. Im privaten Nutzerbereich unserer Webseite können Sie Ihre Daten verwalten, Produkte erwerben, Anfragen zum Kauf und zur Rechnungstellung senden, Aktionen und Rabatte nutzen, den Auftrags- oder Reklamationsstatus von Bestellungen abfragen, die über diesen Weg aufgegeben wurden. Mit dem Zugang zum privaten Kundenbereich erhalten wir Daten über die Aktivität und Nutzung dieses Services durch den Kunden."
+
+#: View/Elements/modal_subscribe.ctp:272
+msgid "Servicios a los socios"
+msgstr "Services für Handelspartner"
+
+#: View/Elements/modal_subscribe.ctp:273
+msgid "Registrar los datos de los socios de la cooperativa y los datos adicionales que se puedan generar como resultado de su participación en la cooperativa. Los datos se utilizan para organizar los servicios, para informar a los socios de las iniciativas de la cooperativa, convocarlos a actos o en las reuniones preceptivas e informarles de los productos o servicios."
+msgstr "Registrierung der Daten der Handelspartner der Kooperative und zusätzlicher Daten, die sich aus der Teilnahme an der Kooperative ergeben. Die Daten werden verwendet um Dienstleistungen zu organisieren, die Handelspartner über Initiativen der Kooperative zu informieren, sie zu Aktionen und Treffen einzuladen und sie über Produkte und Services zu informieren."
+
+#: View/Elements/modal_subscribe.ctp:274
+msgid "Información de nuestros productos y servicios"
+msgstr "Informationen zu unseren Produkten und Dienstleistungen"
+
+#: View/Elements/modal_subscribe.ctp:275
+msgid "Mientras existe relación contractual con sus clientes CORMA SCCL utiliza sus datos de contacto para comunicar información propia de esta relación, información que podrá circunstancialmente incluir referencias de nuestros productos o servicios, ya sean de carácter general o referidos más específicamente a las características y necesidades del cliente."
+msgstr "Solange ein vertragliches Verhältnis mit den Kunden besteht, verwendet CORMA SCCL deren Kontaktdaten um Informationen zu diesem Vertragsverhältnis mitzuteilen, dazu gehören Hinweise zu unseren Produkten und Dienstleistungen. Diese können allgemeiner Natur oder dem jeweiligen Kundenprofil und dessen Bedürfnissen angepasst sein."
+
+#: View/Elements/modal_subscribe.ctp:276
+msgid "Otra información de productos y servicios"
+msgstr "Sonstige Informationen zu Produkten und Dienstleistungen"
+
+#: View/Elements/modal_subscribe.ctp:277
+msgid "Con la autorización explícita de los clientes, terminada la relación contractual los datos de contacto se conservan para enviar publicidad relacionada con nuestros servicios o productos, información de carácter general o específica por las características del cliente. Esta información se hace llegar a quien, a pesar de no haber sido cliente, nos lo pide o lo acepta llenando nuestros formularios."
+msgstr "Mit der ausdrücklichen Zustimmung der Kunden werden auch nach Ende des Vertragsverhältnisses die Kontaktdaten gespeichert, um Informationsmaterialien zu unseren Services und Produkten zu versenden. Diese können allgemeiner Natur oder dem jeweiligen Kundenprofil angepasst sein. Diese Informationen werden an alle Personen gesendet, die uns ausdrücklich darum bitten oder die dem Versand durch das Ausfüllen unserer Formulare zustimmen. Dies gilt auch für Personen, die bislang keine Kunden waren."
+
+#: View/Elements/modal_subscribe.ctp:278
+msgid "Publicidad de productos y servicios de empresas de nuestro grupo"
+msgstr "Informationsmaterialien zu Produkten und Dienstleistungen der Firmen innerhalb der Gruppe"
+
+#: View/Elements/modal_subscribe.ctp:279
+msgid "Siempre con la autorización previa y explícita de las personas indicadas en el apartado anterior, los datos de contacto sirven para hacer llegar publicidad, tanto de carácter general como adaptada a las características de la persona, información de productos o servicios de las empresas del nuestro grupo. Asimismo, con el consentimiento explícito del interesado, los datos de contacto se podrán comunicar a estas empresas para que estas empresas puedan enviar directamente publicidad de sus productos o servicios."
+msgstr "Nach vorheriger ausdrücklicher Genehmigung der oben genannten Personen dienen die Kontaktdaten zum Versand von Informationsmaterialien zu Produkten und Dienstleistungen der Unternehmen unserer Gruppe, die entweder allgemeiner Natur oder auf das Kundenprofil abgestimmt sein können. Weiterhin werden mit ausdrücklicher Genehmigung des Interessenten dessen Kontaktdaten an diese Unternehmen weitergegeben, damit diese ihnen direkt Informationsmaterialien zu ihren Produkten und Dienstleistungen zusenden können."
+
+#: View/Elements/modal_subscribe.ctp:280
+msgid "Gestión de los datos de nuestros proveedores"
+msgstr "Verwaltung der Daten unserer Zulieferer"
+
+#: View/Elements/modal_subscribe.ctp:281
+msgid "Registramos y tratamos los datos de los proveedores de quien obtenemos servicios o bienes. Pueden ser los datos de personas que actúan como autónomos y también datos de representantes de personas jurídicas. Obtenemos los datos imprescindibles para mantener la relación comercial, los destinamos únicamente a este fin y hacemos el uso propio de esta clase de relación."
+msgstr "Wir registrieren und verarbeiten die Daten unserer Zulieferer, von denen wir Dienstleistungen oder Produkte erhalten. Dies kann Daten von Einzelpersonen sowie die Daten der Repräsentanten juristischer Personen umfassen. Wir erheben die notwendigen Daten im Rahmen der Handelspartnerschaft und nutzen sie nur zu diesem einen Zweck."
+
+#: View/Elements/modal_subscribe.ctp:282
+msgid "Videovigilancia"
+msgstr "Videoüberwachung"
+
+#: View/Elements/modal_subscribe.ctp:283
+msgid "En el acceso a nuestras instalaciones informa, cuando es el caso, de la existencia de cámaras de videovigilancia mediante los rótulos homologados. Las cámaras graban imágenes sólo de los puntos en los que es justificado para garantizar la seguridad de los bienes y de las personas y las imágenes se utilizan únicamente para esta finalidad."
+msgstr "Beim Betreten unseres Geländes informieren wir Sie auf amtlichen Hinweisschildern über eventuell vorhandene Überwachungskameras. Die Kameras zeichnen nur an solchen Punkten Bildmaterial auf, an denen dies für die Sicherheit der Güter und Personen erforderlich ist. Das Material wird allein zu diesem Zweck aufgezeichnet."
+
+#: View/Elements/modal_subscribe.ctp:284
+msgid "Usuarios de nuestra web"
+msgstr "Nutzer unserer Webseite"
+
+#: View/Elements/modal_subscribe.ctp:285
+msgid "El sistema de navegación y el software que posibilita el funcionamiento de nuestra web recogen los datos que ordinariamente se generan en el uso de los protocolos de Internet. En esta categoría de datos hay entre otros la dirección IP o nombre de dominio del ordenador utilizado por la persona que se conecta al sitio web. Nuestra web utiliza galletas (cookies) que permiten la identificación de personas físicas concretas, usuarias del sitio. Puede leer más información sobre el uso de las cookies desde este enlace."
+msgstr "Der Browser und die Software, die für das einwandfreie Funktionieren unserer Webseite sorgen, sammeln Daten, die durch die Nutzung der Internetprotokolle entstehen. Diese Datenkategorie umfasst unter anderem die IP-Adresse oder den Domainnamen des Computers, der zur Verbindung mit der Webseite genutzt wird. Unsere Webseite benutzt Cookies, die die Identifizierung konkreter Personen erlauben, die unsere Webseite nutzen. Mehr Informationen zu unserer Cookie-Policy erhalten Sie unter diesem Link."
+
+#: View/Elements/modal_subscribe.ctp:286
+msgid "Otros canales de obtención de datos"
+msgstr "Weitere Datenerhebungskanäle"
+
+#: View/Elements/modal_subscribe.ctp:287
+msgid "Obtenemos también datos por medio de relaciones presenciales y otros canales como la recepción de correos electrónicos o por medio de nuestros perfiles en las redes sociales. En todos los casos los datos se destinan sólo a los fines explícitas que justifican la recogida y tratamiento."
+msgstr "Wir erheben außerdem Daten bei Präsenzveranstaltungen und über andere Kanäle wie E-Mails oder Profile in den sozialen Netzwerken. In all diesen Fällen werden die Daten allein zu Zwecken verwendet, die ihre Erhebung und Verwaltung rechtfertigen."
+
+#: View/Elements/modal_subscribe.ctp:289
+msgid "¿Cuál es la legitimación legal para el tratamiento de los datos?"
+msgstr "Welches ist die rechtliche Grundlage der Datenverarbeitung?"
+
+#: View/Elements/modal_subscribe.ctp:290
+msgid "Los tratamientos de datos que llevamos a cabo tienen diferentes fundamentos legales, según la naturaleza de cada tratamiento."
+msgstr "Die Verarbeitung der erhobenen Daten fußt auf verschiedenen Rechtsgrundlagen, je nach Art der Verarbeitung."
+
+#: View/Elements/modal_subscribe.ctp:291
+msgid "En cumplimiento de una relación precontractual."
+msgstr "In Erfüllung einer vorvertraglichen Beziehung."
+
+#: View/Elements/modal_subscribe.ctp:292
+msgid "Caso de los datos de posibles clientes o proveedores con los que tenemos relaciones previas a la formalización de una relación contractual, como la elaboración o el estudio de presupuestos). Es también el caso del tratamiento de datos de personas que nos han hecho llegar sus currículum vitae o que participan en procesos selectivos."
+msgstr "Dies betrifft Daten potentieller Kunden oder Dienstleister, mit denen wir bereits vor Eingang einer formellen vertraglichen Beziehung eine Partnerschaft unterhalten haben (z.B. Ausarbeitungen oder Durchsicht von Kostenvoranschlägen). Das gilt auch für Daten von Bewerbern, die uns ihre Lebensläufe übersenden oder an Auswahlverfahren teilnehmen."
+
+#: View/Elements/modal_subscribe.ctp:293
+msgid "En cumplimiento de una relación contractual."
+msgstr "In Erfüllung einer vertraglichen Beziehung."
+
+#: View/Elements/modal_subscribe.ctp:294
+msgid "Caso de las relaciones con nuestros clientes y proveedores y todas las actuaciones y usos que estas relaciones conllevan."
+msgstr "Dies betrifft die Beziehung zu unseren Kunden und Dienstleistern und alle Handlungen und Nutzungsformen, die sich durch diese Beziehung ergeben."
+
+#: View/Elements/modal_subscribe.ctp:295
+msgid "En cumplimiento de obligaciones legales."
+msgstr "In Erfüllung rechtlicher Pflichten."
+
+#: View/Elements/modal_subscribe.ctp:296
+msgid "Las comunicaciones de datos a la administración tributaria viene establecida por normas reguladoras de las relaciones comerciales. Puede producirse el caso de tener que comunicar datos a órganos judiciales o en cuerpos y fuerzas de seguridad también en cumplimiento de normas legales que obligan a colaborar con estos estamentos públicos."
+msgstr "Die Weiterleitung von Daten an die zuständigen Behörden folgt den rechtlichen Normen von kommerziellen Beziehungen. Es kann der Fall eintreten, dass Daten an rechtliche Organe oder Sicherheitsorgane weitergeleitet werden müssen, da eine rechtliche Pflicht zur Zusammenarbeit mit diesen öffentlichen Organen besteht."
+
+#: View/Elements/modal_subscribe.ctp:297
+msgid "En base al consentimiento."
+msgstr "Auf Grundlage der Zustimmung."
+
+#: View/Elements/modal_subscribe.ctp:298
+msgid "Cuando hacemos envíos de información de nuestros productos o servicios tratamos los datos de contacto de los receptores con su autorización o consentimiento explícito. Los datos de navegación que podamos obtener mediante cookies los obtenemos con el consentimiento de la persona que visita nuestra web, consentimiento que puede revocar en cualquier momento desinstalando estas cookies. También es con el consentimiento previo de cada persona que comunicamos sus datos a otras empresas de nuestro grupo."
+msgstr "Wenn wir Informationen zu unseren Produkten oder Dienstleistungen verschicken, nutzen wir die Kontaktdaten der Empfänger nur mit deren expliziter Zustimmung und Genehmigung. Die Browserdaten, die wir durch die Nutzung von Cookies erhalten, werden mit der Zustimmung des Webseitenbesuchers erhoben, die jederzeit widerrufen werden kann. Die Cookies können ebenfalls jederzeit deinstalliert werden. Auch die Weitergabe der Daten an andere Unternehmen unserer Gruppe erfolgt nur nach vorheriger Zustimmung der betroffenen Personen."
+
+#: View/Elements/modal_subscribe.ctp:299
+msgid "Por interés legítimo."
+msgstr "Zum rechtmäßigen Eigenschutz."
+
+#: View/Elements/modal_subscribe.ctp:300
+msgid "Las imágenes que obtenemos con las cámaras de videovigilancia se tratan por el interés legítimo de nuestra empresa de preservar sus bienes e instalaciones. Nuestro interés legítimo justifica también el tratamiento de datos que obtenemos de los formularios de contacto, así como las de las personas que se registran para comentar en nuestras redes sociales."
+msgstr "Das Bildmaterial, das wir durch die Nutzung von Überwachungskameras erhalten, dient dem rechtmäßigen Eigenschutz unserer Anlagen und Güter. Dieser rechtmäßige Eigenschutz umfasst auch die Verarbeitung von Daten aus Kontaktformularen sowie von Personen, die sich in den sozialen Netzwerken für die Kommentarfunktion registrieren."
+
+#: View/Elements/modal_subscribe.ctp:302
+msgid "¿A quién se comunican los datos?"
+msgstr "An wen werden die Daten weitergegeben?"
+
+#: View/Elements/modal_subscribe.ctp:303
+msgid "Como criterio general únicamente comunicamos datos a administraciones o poderes públicos y siempre en cumplimientos de obligaciones legales. En la emisión de facturas a clientes los datos se pueden comunicar a entidades bancarias. En casos justificados comunicaremos los datos a los cuerpos y fuerzas de seguridad o los órganos judiciales competentes. Por otra parte, en caso de que se haya dado el consentimiento, los datos podrán ser comunicados a otras empresas de nuestro grupo para las finalidades indicadas anteriormente. No se hacen transferencias de datos fuera del ámbito de la Unión Europea (transferencia internacional)."
+msgstr "Allgemein werden Daten nur an Behörden oder öffentliche Organe weitergegeben. Dies geschieht nur, wenn dies rechtlich notwendig ist. Mit Versand der Rechnung an die Kunden werden gegebenenfalls Daten an die Banken weitergegeben. In berechtigten Fällen geben wir Daten an Sicherheitsorgane oder die zuständigen Rechtsbehörden weiter. Falls eine Zustimmung zur Weitergabe vorliegt, können Daten auch an andere Unternehmen unserer Gruppe weitergeleitet werden. Dies geschieht zu den oben aufgeführten Zwecken. Es werden keine Datenübertragungen außerhalb des EU-Rahmens vorgenommen (internationaler Transfer)."
+
+#: View/Elements/modal_subscribe.ctp:304
+msgid "En un otros sentido, para determinadas tareas obtenemos los servicios de empresas o personas que nos aportan su experiencia y especialización. En algunas ocasiones estas empresas externas deben acceder a datos personales de nuestra responsabilidad. No se trata propiamente de una cesión de datos sino de un encargo de tratamiento. Únicamente se contratan servicios de empresas que garantizan el cumplimiento de la normativa de protección de datos. En el momento de la contratación se formalizan sus obligaciones de confidencialidad y se hace un seguimiento de su actuación. Puede ser el caso de servicios de alojamiento, de servicios de soporte informático o de asesorías jurídicas, contables o fiscales."
+msgstr "Für einige Tätigkeiten sind wir auf die Dienstleistungen von erfahrenen und spezialisierten Unternehmen oder Einzelpersonen angewiesen. In manchen Fällen benötigen diese externen Unternehmen Zugang zu unseren persönlichen Daten. Dabei handelt es sich nicht um eine Datenweitergabe im eigentlichen Sinne, sondern um eine ausgelagerte Verarbeitung. Wir nehmen nur Dienstleistungen von Unternehmen in Anspruch, die für die Einhaltung der Datenschutzrichtlinien garantieren. Bei Vertragsabschluss erklären sie sich bereit, die Vertraulichkeitsvereinbarungen einzuhalten und es findet diesbezüglich eine Überprüfung statt. Dies betrifft Unterbringungsdienstleistungen, informatischen Support oder juristische, buchhalterische oder finanzielle Beratungen."
+
+#: View/Elements/modal_subscribe.ctp:306
+msgid "¿Cuánto tiempo conservamos los datos?"
+msgstr "Wie lange werden die Daten gespeichert?"
+
+#: View/Elements/modal_subscribe.ctp:307
+msgid "Cumplimos la obligación legal de limitar al máximo el plazo de conservación de los datos. Por este motivo se conservan sólo el tiempo necesario y justificado por la finalidad que motivó la obtención. En determinados casos, como los datos que figuran en la documentación contable y la facturación, la normativa fiscal obliga a conservarlas hasta que no prescriban las responsabilidades en esta materia. En el caso de los datos que se tratan en base al consentimiento de la persona interesada, se conservan hasta que esta persona no revoca este consentimiento. Las imágenes obtenidas por las cámaras de videovigilancia se conservan como máximo durante un mes, si bien en el caso de incidentes que lo justifiquen se conservarán el tiempo necesario para facilitar las actuaciones de los cuerpos y fuerzas de seguridad o de los órganos judiciales."
+msgstr "Wir folgen der rechtlichen Verpflichtung und begrenzen unsere maximale Speicherzeit für Daten. Die Daten werden dementsprechend nur so lange gespeichert, wie es zur Erfüllung ihres Zweckes nötig ist. In bestimmten Fällen, wie bei der Buchhaltung und im Rechnungswesen, geben uns die finanziellen Richtlinien gesonderte Speicherungsfristen vor. Daten, die mit der ausdrücklichen Zustimmung der Interessenten erfasst werden, werden bis zum Widerruf durch den Interessenten gespeichert. Bildmaterial aus den Überwachungskameras wird für maximal einen Monat gespeichert. Ausnahme sind rechtlich relevante Vorfälle, die eine Speicherung notwendig machen, bis entsprechende Sicherheitsorgane oder Rechtsorgane ihre Prozesse zu Ende geführt haben."
+
+#: View/Elements/modal_subscribe.ctp:309
+msgid "¿Qué derechos tienen las personas en relación a los datos que tratamos?"
+msgstr "Welche Rechte haben Personen in Bezug auf von uns verarbeitete Daten?"
+
+#: View/Elements/modal_subscribe.ctp:310
+msgid "Tal como prevé el Reglamento General de Protección de Datos, las personas de quienes tratamos datos tienen los siguientes derechos:"
+msgstr "Gemäß der Datenschutzgrundverordnung haben Personen, deren Daten wir verarbeiten, folgende Rechte:"
+
+#: View/Elements/modal_subscribe.ctp:312
+msgid "A saber si se tratan."
+msgstr "Recht aus Auskunft, ob die Daten verarbeitet werden."
+
+#: View/Elements/modal_subscribe.ctp:313
+msgid "Cualquier persona tiene, en primer lugar, derecho a saber si nosotros tratamos sus datos, con independencia de si ha existido una relación previa."
+msgstr "Jede Person hat das Recht zu erfahren, ob wir ihre Daten verarbeiten. Dies gilt unabhängig davon, ob bereits eine vorherige Geschäftsbeziehung bestand."
+
+#: View/Elements/modal_subscribe.ctp:315
+msgid "A ser informado en la recogida."
+msgstr "Recht auf Information zur Datensammlung."
+
+#: View/Elements/modal_subscribe.ctp:316
+msgid "Cuando los datos personales se obtienen del propio interesado, en el momento de proporcionarles las debe tener información clara de las finalidades a las que se destinarán, de quién será el responsable del tratamiento y del resto de aspectos derivados de este tratamiento."
+msgstr "Wenn die persönlichen Daten von Interessenten erhoben werden, müssen die Interessenten zu diesem Zeitpunkt deutlich über die Zwecke aufgeklärt werden, für die diese Daten erhoben werden, darüber, wer für die Verarbeitung zuständig ist und über sonstige Aspekte, die sich aus der Datenverarbeitung ergeben."
+
+#: View/Elements/modal_subscribe.ctp:318
+msgid "A acceder."
+msgstr "Recht auf Zugang."
+
+#: View/Elements/modal_subscribe.ctp:319
+msgid "Derecho muy amplio que incluye el de saber con precisión qué datos personales son objeto de tratamiento, cuál es la finalidad para la que se tratan, las comunicaciones a otras personas que se harán (en su caso) o el derecho a obtenerlo copia oa saber el plazo previsto de conservación."
+msgstr "Dieses umfassende Recht beinhaltet ein Anrecht, im Detail zu erfahren, welche Daten verarbeitet werden, zu welchen Zwecken sie verarbeitet werden, an wen sie (gegebenenfalls) weitergegeben werden, das Anrecht auf eine Kopie der Daten sowie das Wissen über die Speicherungsfristen."
+
+#: View/Elements/modal_subscribe.ctp:321
+msgid "A pedir su rectificación."
+msgstr "Recht auf Berichtigung."
+
+#: View/Elements/modal_subscribe.ctp:322
+msgid "Es el derecho a hacer rectificar los datos inexactos que sean objeto de tratamiento por parte nuestra."
+msgstr "Anrecht auf Berichtigung falscher Daten, die durch uns verarbeitet werden."
+
+#: View/Elements/modal_subscribe.ctp:324
+msgid "A pedir su supresión."
+msgstr "Recht auf Löschung."
+
+#: View/Elements/modal_subscribe.ctp:325
+msgid "En determinadas circunstancias existe el derecho a pedir la supresión de los datos cuando, entre otros motivos, ya no sean necesarias para los fines para los que fueron recogidos y justificaron el tratamiento."
+msgstr "Unter bestimmten Umständen gibt es ein Recht auf Löschung der Daten, falls diese unter anderem nicht mehr zu den Zwecken, zu denen sie erhoben wurden, benötigt werden und ihre Verarbeitung nicht mehr gerechtfertigt ist."
+
+#: View/Elements/modal_subscribe.ctp:327
+msgid "Pedir la limitación del tratamiento."
+msgstr "Recht auf Begrenzung der Verarbeitung."
+
+#: View/Elements/modal_subscribe.ctp:328
+msgid "También en determinadas circunstancias se reconoce el derecho a pedir la limitación del tratamiento de los datos. En este caso dejarán de ser tratadas y sólo se conservarán para el ejercicio o la defensa de reclamaciones, de acuerdo con el Reglamento General de Protección de Datos."
+msgstr "Unter bestimmten Umständen gilt außerdem ein Recht auf Begrenzung der Datenverarbeitung. In diesem Fall werden diese nicht weiterverarbeitet und nur zum Zwecke von Reklamationen im Sinne der Datenschutzgrundverordnung gespeichert."
+
+#: View/Elements/modal_subscribe.ctp:330
+msgid "En la portabilidad."
+msgstr "Recht auf Portabilität."
+
+#: View/Elements/modal_subscribe.ctp:331
+msgid "En los casos previstos en la normativa se reconoce el derecho a obtener los datos personales propios en un formato estructurado de uso común legible por máquina, y transmitirlas a otro responsable del tratamiento si así lo decide la persona interesada."
+msgstr "In Fällen, die in den Richtlinien dargelegt sind, hat der/die Interessent/in das Recht, die persönlichen Daten in einem strukturierten Format zu erhalten, das maschinenlesbar ist sowie das Rech auf Weitergabe der Daten an eine andere für die Datenverarbeitung zuständige Person."
+
+#: View/Elements/modal_subscribe.ctp:333
+msgid "A oponerse al tratamiento."
+msgstr "Recht auf Widerspruch bezüglich der Verarbeitung."
+
+#: View/Elements/modal_subscribe.ctp:334
+msgid "Una persona puede aducir motivos relacionados con su situación particular, motivos que comportarán que dejen de tratarse sus datos en el grado o medida que pueda suponer un perjuicio, excepto por motivos legítimos o el ejercicio o defensa ante reclamaciones."
+msgstr "Bei Vorliegen bestimmter persönlicher Motive können Einzelpersonen der Verarbeitung ihrer Daten widersprechen. Dies gilt, falls sich daraus für sie eine vermutete Benachteiligung ergibt. Es gilt nicht, falls wir unsererseits legitime Motive haben, sowie beim Schutz gegen Reklamationen unsererseits."
+
+#: View/Elements/modal_subscribe.ctp:336
+msgid "A no recibir información comercial."
+msgstr "Das Recht, keine Werbung zu erhalten."
+
+#: View/Elements/modal_subscribe.ctp:337
+msgid "Atenderemos inmediatamente las peticiones de no seguir enviando información comercial a las personas que previamente nos lo hubieran autorizado."
+msgstr "Auf Anfrage werden wir sofort das Versenden von Werbematerialien einstellen, auch bei Personen, die uns zuvor ihr Einverständnis erteilt haben."
+
+#: View/Elements/modal_subscribe.ctp:339
+msgid "¿Como se pueden ejercer o defender los derechos?"
+msgstr "Wie können diese Rechte ausgeübt oder eingefordert werden?"
+
+#: View/Elements/modal_subscribe.ctp:340
+msgid "Los derechos que acabamos de enumerar pueden ejercerse dirigiendo una solicitud escrita a CORMA SCCL a la dirección postal Camí del Mig, 20, de Premià de Dalt (CP 08338), o mediante el formulario electrónico disponible en www.corma.es, o bien enviando un correo electrónico a corma@corma.es, indicando en todos los casos “Protección de datos personales”."
+msgstr "Die oben aufgeführten Rechte können mittels einer schriftlichen Bitte an CORMA SCCL unter der Adresse Camí del Mig 20, Premià de Dalt (PLZ 08338), über das elektronische Formular auf www.corma.es oder über eine E-Mail an corma@corma.es eingefordert werden. In allen Fällen sollte der Betreff „Schutz der persönlichen Daten“ lauten."
+
+#: View/Elements/modal_subscribe.ctp:341
+msgid "Si no se ha obtenido respuesta satisfactoria en el ejercicio de los derechos es posible presentar una reclamación ante la Agencia Española de Protección de Datos, por medio de los formularios u otros canales accesibles desde su página www.agpd.es."
+msgstr "Sollten Sie auf diese Anfragen bezüglich der eigenen Rechte keine adäquate Antwort erhalten, kann eine Beschwerde bei der Spanischen Datenschutzbehörde, der Agencia Española de Protección de Datos, eingereicht werden. Die kann über die Formulare oder andere Kanäle über deren Webseite, www.agpd.es, erfolgen."
+
+#: View/Elements/presentacions.ctp:7 View/Products/lista.ctp:270
+#: View/Products/results.ctp:338 View/Products/search.ctp:347
+msgid "Presentaciones"
+msgstr "Präsentationen"
+
+#: View/Galleries/#index.ctp:104 View/Galleries/index.ctp:107
+msgid "Dep. Calidad"
+msgstr "Qualität"
+
+#: View/Galleries/#index.ctp:160 View/Galleries/index.ctp:169
+msgid "Selecciona una imagen ... "
+msgstr "Bild auswählen … "
+
+#: View/InvoiceDetails/view.ctp:4
+msgid "Línea factura"
+msgstr "Rechnungszeile"
+
+#: View/InvoiceDetails/view.ctp:6
+msgid "Total"
+msgstr "Gesamt"
+
+#: View/Invoices/#view.ctp:28 View/Payments/view.ctp:28
+msgid "Nº factura:"
+msgstr "Rechnungsnummer:"
+
+#: View/Invoices/#view.ctp:32 View/Invoices/view.ctp:53
+msgid "Fecha factura desde:"
+msgstr "Rechnungszeitraum von (Datum):"
+
+#: View/Invoices/#view.ctp:36 View/Invoices/view.ctp:59
+msgid "Fecha factura hasta:"
+msgstr "Rechnungszeitraum bis (Datum):"
+
+#: View/Invoices/#view.ctp:56 View/Invoices/view.ctp:81;89
+#: View/Payments/view.ctp:63
+msgid "Nº factura"
+msgstr "Rechnungsnummer"
+
+#: View/Invoices/#view.ctp:57 View/Invoices/view.ctp:82;90
+msgid "Fecha factura"
+msgstr "Rechnungsdatum"
+
+#: View/Invoices/#view.ctp:58
+msgid "Cargo / abono"
+msgstr "Posten / Abo"
+
+#: View/Invoices/#view.ctp:72
+msgid "Abono"
+msgstr "Abo"
+
+#: View/Invoices/#view.ctp:74
+msgid "Cargo"
+msgstr "Posten"
+
+#: View/Invoices/view.ctp:46
+msgid "Nº Factura:"
+msgstr "Rechnungsnummer:"
+
+#: View/Invoices/view.ctp:83;91
+msgid "Albarán / devolución"
+msgstr "Lieferschein / Rücklieferung"
+
+#: View/Invoices/view.ctp:106
+msgid "Albarán"
+msgstr "Lieferschein"
+
+#: View/Invoices/view.ctp:106
+msgid "Devolución"
+msgstr "Rücklieferung"
+
+#: View/Invoices/view.ctp:118
+msgid "Descargar factura en PDF"
+msgstr "Rechnung als PDF herunterladen"
+
+#: View/Invoices/view.ctp:123
+msgid "Descargar factura en Excel"
+msgstr "Rechnung in Excel herunterladen"
+
+#: View/Layouts/admin.ctp:79
+msgid "Administración web"
+msgstr "Webadministration"
+
+#: View/Layouts/admin.ctp:89
+msgid "Bienvenido, "
+msgstr "Guten Tag, "
+
+#: View/Layouts/admin.ctp:125
+msgid "Usuarios"
+msgstr "Nutzer"
+
+#: View/Layouts/admin.ctp:132
+msgid "Almacenes"
+msgstr "Lager"
+
+#: View/Layouts/admin.ctp:149
+msgid "ACL"
+msgstr "ACL"
+
+#: View/Layouts/admin.ctp:159
+msgid "Permisos"
+msgstr "Genehmigungen"
+
+#: View/Layouts/admin.ctp:167
+msgid "Act. AROS"
+msgstr "Act. AROS"
+
+#: View/Layouts/admin.ctp:175
+msgid "Act. ACOS"
+msgstr "Act. ACOS"
+
+#: View/Layouts/adminOld.ctp:158
+msgid "Gestión de clientes"
+msgstr "Kundenverwaltung"
+
+#: View/Layouts/default.ctp:322
+msgid "Aviso legal General"
+msgstr "Allgemeine rechtliche Hinweise"
+
+#: View/Layouts/default.ctp:344
+msgid "Política de protección de datos"
+msgstr "Datenschutzrichtlinien"
+
+#: View/Layouts/default.ctp:365
+msgid "Política de cookies"
+msgstr "Cookie-Policy"
+
+#: View/Layouts/private.ctp:41
+msgid "corma@corma.es"
+msgstr "corma@corma.es"
+
+#: View/Layouts/private.ctp:72
+msgid "Mi cuenta"
+msgstr "Mein Konto"
+
+#: View/Layouts/private.ctp:73
+msgid "Continuar con la compra"
+msgstr "Einkauf fortsetzen"
+
+#: View/Partners/add.ctp:10 View/Partners/edit.ctp:18
+msgid "Código"
+msgstr "Code"
+
+#: View/Partners/add.ctp:27
+msgid "Modificar estoc"
+msgstr "Bestand bearbeiten"
+
+#: View/Partners/edit.ctp:5
+msgid "Editar socio / almacén"
+msgstr "Vertriebspartner / Lager ändern"
+
+#: View/Partners/index.ctp:11
+msgid "Añadir almacén"
+msgstr "Lager hinzufügen"
+
+#: View/Partners/selection.ctp:32
+msgid "Selecciona un socio / almacén"
+msgstr "Vertriebspartner / Lager auswählen"
+
+#: View/Payments/view.ctp:32
+msgid "Fecha pago desde:"
+msgstr "Zahlungszeitraum von (Datum):"
+
+#: View/Payments/view.ctp:36
+msgid "Fecha pago hasta:"
+msgstr "Zahlungszeitraum bis (Datum):"
+
+#: View/Payments/view.ctp:40
+msgid "Pagado"
+msgstr "Bezahlt"
+
+#: View/Payments/view.ctp:40
+msgid "Pendiente de pago"
+msgstr "Ausstehende Zahlung"
+
+#: View/Payments/view.ctp:41
+msgid "Estado:"
+msgstr "Status:"
+
+#: View/Payments/view.ctp:65
+msgid "Fecha pago"
+msgstr "Zahlungsdatum"
+
+#: View/Payments/view.ctp:66
+msgid "Tipo"
+msgstr "Art"
+
+#: View/Petitions/add.ctp:13
+msgid "Si usted es cliente de Corma, rellene el siguiente formulario para solicitar usuario/contraseña."
+msgstr "Wenn Sie bereits Kunde bei Corma sind, geben Sie in dieses Formular den Nutzernamen und das Passwort ein."
+
+#: View/Petitions/add.ctp:15
+msgid "Nombre Solicitante (*)"
+msgstr "Bewerbernummer (*)"
+
+#: View/Petitions/add.ctp:16
+msgid "Correo electrónico (*)"
+msgstr "E-Mail (*)"
+
+#: View/Petitions/add.ctp:17
+msgid "Razón Social (*)"
+msgstr "Firmenname (*)"
+
+#: View/Petitions/add.ctp:18
+msgid "C.I.F. / N.I.F (*)"
+msgstr "C.I.F.-Nummer / N.I.F-Nummer (*)"
+
+#: View/Petitions/add.ctp:19
+msgid "Datos Validación"
+msgstr "Daten Bestätigung"
+
+#: View/Petitions/add.ctp:20
+msgid "Rellene los siguientes campos utilizando una factura de los últimos 12 meses."
+msgstr "Füllen Sie die folgenden Felder aus und wählen Sie eine Rechnung der letzten 12 Monate aus."
+
+#: View/Petitions/add.ctp:21
+msgid "Código Cliente (*)"
+msgstr "Kundennummer (*)"
+
+#: View/Petitions/add.ctp:22
+msgid "Número Factura (*)"
+msgstr "Rechnungsnummer (*)"
+
+#: View/Petitions/add.ctp:23
+msgid "Importe Factura (*)"
+msgstr "Rechnungsbetrag (*)"
+
+#: View/Petitions/add.ctp:27
+msgid "Enviar solicitud"
+msgstr "Antrag abschicken"
+
+#: View/Petitions/add.ctp:30
+msgid "(*): Campos Obligatorios"
+msgstr "(*): Pflichtfelder"
+
+#: View/Petitions/add.ctp:31
+msgid "Una vez nuestro departamento comercial haya validado los datos, Ud. recibirá un mensaje electrónico confirmando la activación del Usuario."
+msgstr "Sobald unsere Buchhaltung die Daten abgeglichen hat, erhalten sie elektronisch die Bestätigung, dass Ihr Nutzerkonto aktiviert wurde."
+
+#: View/Petitions/add.ctp:34
+msgid "Si Ud. aún no es Cliente, puede enviarnos su petición mediante el formulario existente en la opción"
+msgstr "Sollten Sie noch kein Kunde sein, können Sie uns Ihre Anfrage über das entsprechende Formular zusenden"
+
+#: View/PlantTypes/index.ctp:20
+msgid "Busca lo que te haga falta. Y hazlo como te sea más conveniente: por nombre, por tipología, por utilización…Escoge en función de lo que necesites. Seguro que lo encuentras. Pero si, a pesar de todo, no fuera así, estaremos a tu lado para lo que sea necesario.  "
+msgstr "Suchen Sie, was Ihnen noch fehlt. Suchen Sie einfach und bequem: nach Namen, Typologie, Verwendungszweck u.v.m. Wählen Sie aus, was Sie brauchen. Sie werden garantiert fündig. Sollten Sie trotzdem nicht das Gesuchte finden, helfen wir Ihnen gerne weiter. "
+
+#: View/PlantTypes/index.ctp:20
+msgid "Llama o envía un correo..."
+msgstr "Rufen Sie einfach an oder schreiben Sie uns."
+
+#: View/PlantTypes/index.ctp:20
+msgid "Te responderemos enseguida. Como te mereces."
+msgstr "Wir antworten umgehend. Weil Sie es uns wert sind."
+
+#: View/Products/ficha.ctp:154 View/Products/lista.ctp:108
+#: View/Products/result.ctp:140 View/Products/results.ctp:178
+#: View/Products/search.ctp:187
+msgid "Utilización"
+msgstr "Nutzung"
+
+#: View/Products/result.ctp:96
+msgid "Página %s de %s"
+msgstr "Seite %s von %s"
+
+#: View/Products/result.ctp:339
+msgid "No hay resultados para la búsqueda realizada"
+msgstr "Für diese Suche wurden keine Ergebnisse gefunden"
+
+#: View/Products/result.ctp:341
+msgid "Volver a Buscar"
+msgstr "Zurück zur Suche"
+
+#: View/Products/results.ctp:403 View/Products/search.ctp:412
+#: View/Products/view.ctp:221
+msgid "Nombre Botánico:"
+msgstr "Botanische Bezeichnung:"
+
+#: View/Products/results.ctp:404 View/Products/search.ctp:413
+#: View/Products/view.ctp:222
+msgid "Nombre Popular:"
+msgstr "Populärname:"
+
+#: View/Products/results.ctp:406 View/Products/search.ctp:415
+#: View/Products/view.ctp:224
+msgid "Tipología:"
+msgstr "Typologie:"
+
+#: View/Products/results.ctp:411 View/Products/search.ctp:420
+#: View/Products/view.ctp:229
+msgid "Utilización:"
+msgstr "Nutzung:"
+
+#: View/Products/results.ctp:412 View/Products/search.ctp:421
+#: View/Products/view.ctp:230
+msgid "Seleccione una utilización"
+msgstr "Wählen Sie eine Nutzung aus"
+
+#: View/Products/results.ctp:427 View/Products/search.ctp:453
+#: View/Products/view.ctp:262
+msgid "Riego:"
+msgstr "Bewässerung:"
+
+#: View/Products/results.ctp:428 View/Products/search.ctp:454
+#: View/Products/view.ctp:263
+msgid "Exposición:"
+msgstr "Standort:"
+
+#: View/Products/results.ctp:430 View/Products/search.ctp:456
+#: View/Products/view.ctp:265
+msgid "Floración:"
+msgstr "Blütezeit:"
+
+#: View/Products/results.ctp:432 View/Products/search.ctp:458
+#: View/Products/view.ctp:267
+msgid "Enero"
+msgstr "Januar"
+
+#: View/Products/results.ctp:433 View/Products/search.ctp:459
+#: View/Products/view.ctp:268
+msgid "Febrero"
+msgstr "Februar"
+
+#: View/Products/results.ctp:434 View/Products/search.ctp:460
+#: View/Products/view.ctp:269
+msgid "Marzo"
+msgstr "März"
+
+#: View/Products/results.ctp:435 View/Products/search.ctp:461
+#: View/Products/view.ctp:270
+msgid "Abril"
+msgstr "April"
+
+#: View/Products/results.ctp:436 View/Products/search.ctp:462
+#: View/Products/view.ctp:271
+msgid "Mayo"
+msgstr "Mai"
+
+#: View/Products/results.ctp:437 View/Products/search.ctp:463
+#: View/Products/view.ctp:272
+msgid "Junio"
+msgstr "Juni"
+
+#: View/Products/results.ctp:438 View/Products/search.ctp:464
+#: View/Products/view.ctp:273
+msgid "Julio"
+msgstr "Juli"
+
+#: View/Products/results.ctp:439 View/Products/search.ctp:465
+#: View/Products/view.ctp:274
+msgid "Agosto"
+msgstr "August"
+
+#: View/Products/results.ctp:440 View/Products/search.ctp:466
+#: View/Products/view.ctp:275
+msgid "Septiembre"
+msgstr "September"
+
+#: View/Products/results.ctp:441 View/Products/search.ctp:467
+#: View/Products/view.ctp:276
+msgid "Octubre"
+msgstr "Oktober"
+
+#: View/Products/results.ctp:442 View/Products/search.ctp:468
+#: View/Products/view.ctp:277
+msgid "Noviembre"
+msgstr "November"
+
+#: View/Products/results.ctp:443 View/Products/search.ctp:469
+#: View/Products/view.ctp:278
+msgid "Diciembre"
+msgstr "Dezember"
+
+#: View/Products/results.ctp:445;454 View/Products/search.ctp:471;480
+#: View/Products/view.ctp:280;289
+msgid "Seleccione meses"
+msgstr "Auswahl Monate"
+
+#: View/Products/results.ctp:452 View/Products/search.ctp:478
+#: View/Products/view.ctp:287
+msgid "Disponibilidad:"
+msgstr "Verfügbarkeit:"
+
+#: View/Products/results.ctp:461 View/Products/search.ctp:487
+#: View/Products/view.ctp:296
+msgid "Coloración flor:"
+msgstr "Blütenfarbe:"
+
+#: View/Products/results.ctp:462 View/Products/search.ctp:488
+#: View/Products/view.ctp:297
+msgid "Seleccione coloración flor"
+msgstr "Blütenfarbe auswählen"
+
+#: View/Products/results.ctp:479 View/Products/search.ctp:505
+#: View/Products/view.ctp:314
+msgid "Coloración hoja:"
+msgstr "Blattfarbe:"
+
+#: View/Products/results.ctp:480 View/Products/search.ctp:506
+#: View/Products/view.ctp:315
+msgid "Seleccione coloración hoja"
+msgstr "Blattfarbe auswählen"
+
+#: View/Products/results.ctp:498 View/Products/search.ctp:524
+#: View/Products/view.ctp:333
+msgid "Temperatura:"
+msgstr "Temperatur:"
+
+#: View/Products/results.ctp:502 View/Products/search.ctp:528
+#: View/Products/view.ctp:337
+msgid "Fragancia:"
+msgstr "Duft:"
+
+#: View/Products/results.ctp:505 View/Products/search.ctp:531
+#: View/Products/view.ctp:340
+msgid "Limpiar formulario"
+msgstr "Formular leeren"
+
+#: View/Products/search.ctp:437 View/Products/view.ctp:246
+msgid "Característica:"
+msgstr "Merkmale:"
+
+#: View/Products/search.ctp:438 View/Products/view.ctp:247
+msgid "Seleccione una característica"
+msgstr "Merkmal auswählen"
+
+#: View/Stocks/detail.ctp:76;204
+msgid "Estoc disponible"
+msgstr "Vorrätiger Bestand"
+
+#: View/Stocks/detail.ctp:108 View/Stocks/home.ctp:38 View/Stocks/index.ctp:18
+msgid "Todos los artículos"
+msgstr "Alle Artikel"
+
+#: View/Stocks/detail.ctp:109 View/Stocks/home.ctp:41 View/Stocks/index.ctp:21
+msgid "Artículos con estoc"
+msgstr "Vorrätige Artikel"
+
+#: View/Stocks/detail.ctp:110 View/Stocks/home.ctp:44 View/Stocks/index.ctp:24
+msgid "Artículos sin estoc"
+msgstr "Nicht vorrätige Artikel"
+
+#: View/Stocks/home.ctp:6
+msgid "Agrupar por artículo"
+msgstr "Nach Artikel sortieren"
+
+#: View/Stocks/home.ctp:7
+msgid "Agrupar por socio"
+msgstr "Nach Handelspartner sortieren"
+
+#: View/Stocks/home.ctp:54
+msgid "Todos los precios"
+msgstr "Alle Preise"
+
+#: View/Stocks/home.ctp:57
+msgid "Precios Premiá"
+msgstr "Preise Premià"
+
+#: View/Stocks/home.ctp:60
+msgid "Precios Madrid"
+msgstr "Preise Madrid"
+
+#: View/Stocks/home.ctp:81
+msgid "Estoc disp."
+msgstr "Vorrätiger Bestand"
+
+#: View/Users/add.ctp:21 View/Users/login.ctp:52;111
+msgid "Contraseña"
+msgstr "Passwort"
+
+#: View/Users/add.ctp:31
+msgid "Grupo"
+msgstr "Gruppe"
+
+#: View/Users/add.ctp:46
+msgid "Idioma"
+msgstr "Sprache"
+
+#: View/Users/add.ctp:58
+msgid "Datos cliente"
+msgstr "Kundendaten"
+
+#: View/Users/add.ctp:70
+msgid "Comercial"
+msgstr "Außendienstmitarbeiter"
+
+#: View/Users/add.ctp:107
+msgid "Datos socio"
+msgstr "Daten Handelspartner"
+
+#: View/Users/add.ctp:112
+msgid "Socio"
+msgstr "Partner"
+
+#: View/Users/add.ctp:133 View/Users/edit.ctp:8
+msgid "Tipo usuario:"
+msgstr "Nutzertyp:"
+
+#: View/Users/add.ctp:148 View/Users/edit.ctp:24
+msgid "Agente:"
+msgstr "Vermittler:"
+
+#: View/Users/add.ctp:162 View/Users/edit.ctp:38
+msgid "Usuario:"
+msgstr "Nutzer:"
+
+#: View/Users/add.ctp:169 View/Users/edit.ctp:45
+msgid "Password:"
+msgstr "Passwort:"
+
+#: View/Users/add.ctp:176 View/Users/edit.ctp:52
+msgid "Código cliente:"
+msgstr "Kundennummer:"
+
+#: View/Users/add.ctp:183 View/Users/edit.ctp:59
+msgid "Nombre:"
+msgstr "Name:"
+
+#: View/Users/add.ctp:190 View/Users/edit.ctp:66
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: View/Users/add.ctp:197 View/Users/edit.ctp:73
+msgid "Lista disponible:"
+msgstr "Liste des vorrätigen Bestands:"
+
+#: View/Users/admin_changepassword.ctp:8
+msgid "Cambiar contraseña de un usuario"
+msgstr "Nutzerpasswort ändern"
+
+#: View/Users/admin_changepassword.ctp:10 View/Users/changepassword.ctp:16
+msgid "Introduzca su nueva contraseña"
+msgstr "Geben Sie Ihr neues Passwort ein"
+
+#: View/Users/admin_changepassword.ctp:16 View/Users/changepassword.ctp:22
+msgid "Repita la nueva contraseña"
+msgstr "Wiederholen Sie Ihr neues Passwort"
+
+#: View/Users/changepassword.ctp:10
+msgid "Introduzca su actual contraseña"
+msgstr "Geben Sie Ihr aktuelles Passwort ein"
+
+#: View/Users/changepassworduser.ctp:36
+msgid "Hola %s"
+msgstr "Hallo %s"
+
+#: View/Users/changepassworduser.ctp:37
+msgid "A continuación puedes introducir una nueva contraseña para acceder a la área privada de Corma."
+msgstr "ab jetzt können Sie sich mit Ihrem neuen Passwort in den privaten Bereich von Corma einloggen."
+
+#: View/Users/changepassworduser.ctp:40
+msgid "Nueva contraseña:"
+msgstr "Neues Passwort:"
+
+#: View/Users/changepassworduser.ctp:41
+msgid "Repita la nueva contraseña:"
+msgstr "Wiederholen Sie Ihr neues Passwort:"
+
+#: View/Users/changepassworduser.ctp:44 View/Users/recovery_password.ctp:83
+msgid "Enviar"
+msgstr "Senden"
+
+#: View/Users/index.ctp:1646
+msgid "Nuevo"
+msgstr "Neu"
+
+#: View/Users/index.ctp:1704
+msgid "Página {:page} de {:pages}, mostrando {:current} registros de un total de {:count}, de {:start} a {:end}"
+msgstr "Seite {:page} von{:pages}, angezeigt {:current} Registrierung gesamt {:count}, von{:start} bis {:end}"
+
+#: View/Users/index.ctp:1713
+msgid "Anterior"
+msgstr "Vorherige"
+
+#: View/Users/index.ctp:1720
+msgid "Siguiente"
+msgstr "Nächste"
+
+#: View/Users/login.ctp:60
+msgid "Recordar contraseña"
+msgstr "Passwort speichern"
+
+#: View/Users/login.ctp:65
+msgid "Conectar"
+msgstr "Verbinden"
+
+#: View/Users/login.ctp:100
+msgid "Bienvenidos a la área privada de CORMA."
+msgstr "Herzlich Willkommen im privaten Bereich von CORMA."
+
+#: View/Users/login.ctp:101
+msgid "Introduzca su Usuario y Contraseña."
+msgstr "Nutzernamen und Passwort eingeben."
+
+#: View/Users/login.ctp:102
+msgid "(Usted es quien tiene que crear su contraseña la primera vez que entra en el sistema. Nosotros no se lo podemos facilitar porque es personal e intransferible.)"
+msgstr "(Bei der ersten Anmeldung im System legen Sie Ihr eigenes Passwort fest. Diesen Schritt können wir nicht für Sie übernehmen, da Ihr Passwort persönlich und nicht übertragbar ist.)"
+
+#: View/Users/login.ctp:113
+msgid "Iniciar sesión"
+msgstr "Sitzung beginnen"
+
+#: View/Users/login.ctp:115
+msgid "He olvidado mi contraseña"
+msgstr "Ich habe mein Passwort vergessen"
+
+#: View/Users/login.ctp:119
+msgid "Si aún no dispone de Usuario registrado, "
+msgstr "Wenn Sie noch kein registrierter Nutzer sind, "
+
+#: View/Users/login.ctp:119
+msgid "solicítelo ahora"
+msgstr "Beantragen Sie Ihre Kennung hier"
+
+#: View/Users/recovery_password.ctp:80
+msgid "Recuperar su contraseña es muy fácil. Introduzca su <strong>nombre de usuario</strong> y recibirá un email con las instrucciones."
+msgstr "Sie können ganz einfach Ihr Passwort wiederherstellen. Geben Sie einfach Ihren <strong> Nutzernamen <strong> ein und Sie erhalten eine E-Mail mit weiteren Anweisungen."
+
+#: View/UsersNewsletters/index.ctp:2
+msgid "USUARIOS"
+msgstr "NUTZER"
+
+#: Model/ArticleNovelty.php:validation for field article_id
+#: Model/CatalogueArticle.php:validation catalogue_id;validation
+#: article_id;validation catalogue_classification_id
+#: Model/CatalogueClassification.php:validation
+#: Model/CatalogueUser.php:validation user_id
+#: Model/InvoiceDetail.php:validation invoice_id;validation
+#: invoice_line;validation Model/Payment.php:validation
+#: Model/Programming.php:validation Model/User.php:validation group_id
+msgid "numeric"
+msgstr "numeric"
+
+#: Model/CatalogueClassification.php:validation for field description
+#: Model/Contact.php:validation idioma;validation hash
+#: Model/Group.php:validation name Model/Petition.php:validation
+#: name;validation company_name;validation nif;validation customer;validation
+#: bill;validation amount_bill Model/Provider.php:validation
+#: codigo_proveedor;validation Model/User.php:validation password
+#: Model/Usersnewsletter.php:validation codigo_cliente;validation idioma
+msgid "notEmpty"
+msgstr "notEmpty"
+
+#: Model/Contact.php:validation for field email Model/Petition.php:validation
+#: Model/Provider.php:validation Model/Usersnewsletter.php:validation
+msgid "email"
+msgstr "email"
+
+#: Model/Contact.php:validation for field notificado_rgpd;validation
+#: traspasar_oracle Model/Provider.php:validation notificado_rgpd
+#: Model/Usersnewsletter.php:validation
+msgid "boolean"
+msgstr "boolean"

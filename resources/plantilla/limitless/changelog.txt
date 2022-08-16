@@ -1,0 +1,31 @@
+There has been big changes after version 1.8 due to changes in wordpress core. If you are 
+using old version , then follow these steps -
+
+1. Upload latest limitless theme
+2. In the zip file you have downloaded from themeforest, there is a plugin in plugin folder limitless 
+compatibility , upload it. Activate the plugin.
+3. Once activated there will be a admin menu limitless compatibility , click on it and once the page has
+been opened , click run.
+4. Now content will be updated to latest version of limitless.
+
+Version 2.5.1 - Maintainence Update
+
+Updated revslider.zip
+
+Version 2.5.1 - 
+
+Builder Column selector bug fixed - file changed Limitless/ backend / css / rad_page_builder.css
+
+Version 2.5 - 08-03-15
+
+1. Woo Commerce 2.3.5 compatibility 
+2. Live Styler bug fixes
+3. Minor bug fixes
+
+Version 2.4 - 22-1-15
+
+1. Better WPML Compatibility
+2. CSS Styling resetting bug fixed
+3. Latest Woo Commerce update
+4. Boxed layout bug fixed
+5. Latest revolution slider and layered slider added

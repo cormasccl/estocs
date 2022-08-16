@@ -1,0 +1,3049 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ArticleNoveltiesController.php:55
+#: Controller/CataloguesController.php:347
+#: Controller/backup_20190920/ArticleNoveltiesController.php:55
+#: Controller/backup_20190920/CataloguesController.php:347
+#: View/Elements/menu_disponible.ctp:184
+#: View/Elements/backup_20190920/_menu_disponible.ctp:169
+#: View/Elements/backup_20190920/menu_disponible.ctp:184
+#: View/Layouts/customer.ctp:260
+msgid "Novedades"
+msgstr ""
+
+#: Controller/ArticlesController.php:877
+#: Controller/ProductsController.php:69;732;867
+#: Controller/backup_20190920/ArticlesController.php:877
+#: Controller/backup_20190920/ProductsController.php:69;732;867
+msgid "Producto inexistente"
+msgstr ""
+
+#: Controller/ArticlesController.php:904
+#: Controller/ImagesQualitiesController.php:171;241;310
+msgid "Gestión de fotos de calidad Corma"
+msgstr ""
+
+#: Controller/CashOrdersController.php:35
+#: Controller/backup_20190920/CashOrdersController.php:35
+msgid "Se ha finalizado correctamente el pedido y se ha enviado a su comercial. Le adjuntamos copia en pdf del pedido."
+msgstr ""
+
+#: Controller/CashOrdersController.php:37
+#: Controller/backup_20190920/CashOrdersController.php:37
+msgid "Ha ocurrido un error al finalizar el pedido. Contacte con su comercial"
+msgstr ""
+
+#: Controller/CashOrdersController.php:43
+#: Controller/backup_20190920/CashOrdersController.php:43
+msgid "Finalización de pedido"
+msgstr ""
+
+#: Controller/CatalogueUsersController.php:34;37
+msgid "Listas comerciales"
+msgstr ""
+
+#: Controller/CataloguesController.php:341
+#: Controller/SeasonCataloguesController.php:87
+#: Controller/backup_20190920/CataloguesController.php:341
+#: Controller/backup_20190920/SeasonCataloguesController.php:87
+msgid "Plantas motoras (PRECIOS NETOS DEFINITIVOS)"
+msgstr ""
+
+#: Controller/CataloguesController.php:344
+#: Controller/SeasonCataloguesController.php:90
+#: Controller/UsersController.php:78
+#: Controller/backup_20190920/CataloguesController.php:344
+#: Controller/backup_20190920/SeasonCataloguesController.php:90
+#: Controller/backup_20190920/UsersController.php:78
+#: View/Elements/menu_disponible.ctp:198
+#: View/Elements/menu_superior_app_old.ctp:51
+#: View/Elements/backup_20190920/_menu_disponible.ctp:183
+#: View/Elements/backup_20190920/menu_disponible.ctp:198
+#: View/Layouts/customer.ctp:272
+msgid "Sugerencias"
+msgstr ""
+
+#: Controller/CataloguesController.php:353
+#: Controller/backup_20190920/CataloguesController.php:353
+#: View/Elements/menu_disponible.ctp:246
+#: View/Elements/backup_20190920/_menu_disponible.ctp:231
+#: View/Elements/backup_20190920/menu_disponible.ctp:246
+#: View/Layouts/customer.ctp:302
+msgid "Composiciones Corma"
+msgstr ""
+
+#: Controller/CataloguesController.php:356
+#: Controller/backup_20190920/CataloguesController.php:356
+#: View/Elements/menu_disponible.ctp:265
+#: View/Elements/backup_20190920/menu_disponible.ctp:265
+#: View/Layouts/customer.ctp:317
+msgid "Navidad"
+msgstr ""
+
+#: Controller/CataloguesController.php:362
+#: Controller/SeasonCataloguesController.php:99
+#: Controller/UsersController.php:81
+#: Controller/backup_20190920/CataloguesController.php:362
+#: Controller/backup_20190920/SeasonCataloguesController.php:99
+#: Controller/backup_20190920/UsersController.php:81
+#: View/Elements/menu_disponible.ctp:151
+#: View/Elements/menu_superior_app_old.ctp:49
+#: View/Elements/backup_20190920/menu_disponible.ctp:151
+#: View/Layouts/customer.ctp:233
+msgid "Ofertas"
+msgstr ""
+
+#: Controller/CataloguesController.php:365
+#: Controller/backup_20190920/CataloguesController.php:365
+msgid "Resultados búsqueda"
+msgstr ""
+
+#: Controller/CataloguesController.php:368
+#: Controller/backup_20190920/CataloguesController.php:368
+msgid "Distribución carris"
+msgstr ""
+
+#: Controller/CataloguesController.php:371
+#: Controller/SeasonCataloguesController.php:102
+#: Controller/backup_20190920/CataloguesController.php:371
+#: Controller/backup_20190920/SeasonCataloguesController.php:102
+msgid "Artículos seleccionados"
+msgstr ""
+
+#: Controller/CataloguesController.php:440
+#: Controller/backup_20190920/CataloguesController.php:440
+msgid "Disponible semana"
+msgstr ""
+
+#: Controller/CataloguesController.php:511
+#: Controller/backup_20190920/CataloguesController.php:511
+msgid "Resultados busqueda"
+msgstr ""
+
+#: Controller/ContactsController.php:239;391
+#: Controller/ProvidersController.php:256;416
+#: Controller/UsersNewslettersController.php:354;630
+#: Controller/backup_20190920/ContactsController.php:239;391
+#: Controller/backup_20190920/ProvidersController.php:258;418
+#: Controller/backup_20190920/UsersNewslettersController.php:354;630
+msgid "Email no encontrado."
+msgstr ""
+
+#: Controller/DetailsController.php:188
+#: Controller/backup_20190920/DetailsController.php:188
+#: View/Details/index.ctp:38
+msgid "RESERVA"
+msgstr ""
+
+#: Controller/ImagesQualitiesController.php:38;294
+msgid "Invalid images quality"
+msgstr ""
+
+#: Controller/ImagesQualitiesController.php:217
+msgid "The images quality has been saved."
+msgstr ""
+
+#: Controller/ImagesQualitiesController.php:220
+msgid "The images quality could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ImagesQualitiesController.php:298
+msgid "The images quality has been deleted."
+msgstr ""
+
+#: Controller/ImagesQualitiesController.php:300
+msgid "The images quality could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PetitionsController.php:58
+#: Controller/backup_20190920/PetitionsController.php:58
+msgid "Nueva solicitud de usuario web"
+msgstr ""
+
+#: Controller/PetitionsController.php:62
+#: Controller/backup_20190920/PetitionsController.php:62
+msgid "Su solicitud se ha registrado correctamente. Su comercial revisará los datos introducidos, en caso de ser correctos recibirá un correo electrónico con un usuario de acceso."
+msgstr ""
+
+#: Controller/PetitionsController.php:66
+#: Controller/backup_20190920/PetitionsController.php:66
+msgid "Ha ocurrido un error al registrar su petición."
+msgstr ""
+
+#: Controller/ProductsController.php:600
+#: Controller/backup_20190920/ProductsController.php:600
+msgid "No hay productos con los parámetros seleccionados"
+msgstr ""
+
+#: Controller/ProductsController.php:664;682
+#: Controller/backup_20190920/ProductsController.php:664;682
+#: View/Elements/menu_corma.ctp:281
+#: View/Elements/menu_corma_mobile.ctp:229
+#: View/Elements/backup_20190920/menu_corma.ctp:281
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:229
+msgid "Buscador de plantas"
+msgstr ""
+
+#: Controller/ProductsController.php:838
+#: Controller/backup_20190920/ProductsController.php:838
+msgid "Nuestra gama"
+msgstr ""
+
+#: Controller/SeasonCataloguesController.php:143
+#: Controller/backup_20190920/SeasonCataloguesController.php:143
+msgid "Catálogo - Área Privada - "
+msgstr ""
+
+#: Controller/StocksController.php:38
+#: Controller/backup_20190920/StocksController.php:38
+msgid "Gestión de estocs Corma"
+msgstr ""
+
+#: Controller/UsersController.php:75
+#: Controller/backup_20190920/UsersController.php:75
+#: View/Elements/menu_disponible.ctp:169
+#: View/Elements/backup_20190920/_menu_disponible.ctp:154
+#: View/Elements/backup_20190920/menu_cataleg.ctp:75
+#: View/Elements/backup_20190920/menu_disponible.ctp:169
+msgid "Plantes motores"
+msgstr ""
+
+#: Controller/UsersController.php:86
+#: Controller/backup_20190920/UsersController.php:86
+msgid "Disponible - Área Privada - "
+msgstr ""
+
+#: Controller/UsersController.php:116;161;194;231;267;296
+#: Controller/backup_20190920/UsersController.php:116;161;194;231;267;296
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:128
+#: Controller/backup_20190920/UsersController.php:128
+msgid "Nuevo usuario"
+msgstr ""
+
+#: Controller/UsersController.php:137;165;246;271
+#: Controller/backup_20190920/UsersController.php:137;165;246;271
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:140;168;249;274
+#: Controller/backup_20190920/UsersController.php:140;168;249;274
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:198;300
+#: Controller/backup_20190920/UsersController.php:198;300
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:200;302
+#: Controller/backup_20190920/UsersController.php:200;302
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:217
+#: Controller/backup_20190920/UsersController.php:217
+msgid "Gestión de usuarios"
+msgstr ""
+
+#: Controller/UsersController.php:329
+#: Controller/backup_20190920/UsersController.php:329
+#: View/Elements/menu_corma.ctp:454
+#: View/Elements/menu_corma_mobile.ctp:393
+#: View/Elements/backup_20190920/menu_corma.ctp:454
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:393
+msgid "Área privada de clientes"
+msgstr ""
+
+#: Controller/UsersController.php:335;688
+#: Controller/backup_20190920/UsersController.php:335;686
+#: View/Elements/menu_corma.ctp:87
+#: View/Elements/backup_20190920/menu_corma.ctp:87
+msgid "Corma"
+msgstr ""
+
+#: Controller/UsersController.php:368;374
+#: Controller/backup_20190920/UsersController.php:366;372
+msgid "Usuario / contraseña incorrectos"
+msgstr ""
+
+#: Controller/UsersController.php:374
+#: Controller/backup_20190920/UsersController.php:372
+msgid "Clique aquí para recuperar la contraseña"
+msgstr ""
+
+#: Controller/UsersController.php:454;475
+#: Controller/backup_20190920/UsersController.php:452;473
+msgid "Se ha cerrado la sesión correctamente."
+msgstr ""
+
+#: Controller/UsersController.php:477
+#: Controller/backup_20190920/UsersController.php:475
+msgid "Cierre de sesión"
+msgstr ""
+
+#: Controller/UsersController.php:507
+#: Controller/backup_20190920/UsersController.php:505
+msgid "La contraseña no coincide"
+msgstr ""
+
+#: Controller/UsersController.php:511
+#: Controller/backup_20190920/UsersController.php:509
+msgid "La anterior contraseña no es correcta"
+msgstr ""
+
+#: Controller/UsersController.php:522
+#: Controller/backup_20190920/UsersController.php:520
+msgid "Contraseña modificada correctamente"
+msgstr ""
+
+#: Controller/UsersController.php:525;609
+#: Controller/backup_20190920/UsersController.php:523;607
+msgid "Error al guardar la nueva contraseña.Por favor contacte con el administrador"
+msgstr ""
+
+#: Controller/UsersController.php:590
+#: Controller/backup_20190920/UsersController.php:588
+msgid "Recuperación de contraseña"
+msgstr ""
+
+#: Controller/UsersController.php:607
+#: Controller/backup_20190920/UsersController.php:605
+msgid "Contraseña modificada correctamente."
+msgstr ""
+
+#: Controller/UsersController.php:664
+#: Controller/backup_20190920/UsersController.php:662
+msgid "Corma  - Recuperar contraseña"
+msgstr ""
+
+#: Controller/UsersController.php:694
+#: Controller/backup_20190920/UsersController.php:692
+msgid "Verifica tu dirección de correo electrónico"
+msgstr ""
+
+#: Controller/UsersController.php:699
+#: Controller/backup_20190920/UsersController.php:697
+msgid "Hola %s, has solicitado reestablecer tu contraseña del portal de Corma. Por favor pulsa el siguiente enlace para poder cambiar su contraseña"
+msgstr ""
+
+#: Controller/UsersController.php:704
+#: Controller/backup_20190920/UsersController.php:702
+msgid "Cambiar mi contraseña"
+msgstr ""
+
+#: Controller/UsersController.php:708
+#: Controller/backup_20190920/UsersController.php:706
+msgid "Si el botón no funciona, copia y pega este enlace en tu navegador <strong>%s</strong>"
+msgstr ""
+
+#: Controller/UsersController.php:715
+#: Controller/backup_20190920/UsersController.php:713
+msgid "Se ha enviado un correo electrónico a su cuenta con las instrucciones para cambiar su contraseña"
+msgstr ""
+
+#: Controller/UsersController.php:717
+#: Controller/backup_20190920/UsersController.php:715
+msgid "Ha habido algún error al enviar el correo electrónico."
+msgstr ""
+
+#: Controller/UsersController.php:721
+#: Controller/backup_20190920/UsersController.php:719
+msgid "El nombre de usuario proporcionado no existe en nuestra base de datos."
+msgstr ""
+
+#: Controller/UsersNewslettersController.php:137;140
+#: Controller/backup_20190920/UsersNewslettersController.php:137;140
+msgid "Hemos dado de baja correctamente su email."
+msgstr ""
+
+#: Controller/UsersNewslettersController.php:190;196
+#: Controller/backup_20190920/UsersNewslettersController.php:190;196
+msgid "Email subscrito correctamente"
+msgstr ""
+
+#: Controller/UsersNewslettersController.php:193
+#: Controller/backup_20190920/UsersNewslettersController.php:193
+msgid "Este email ya está subscrito a la newsletter."
+msgstr ""
+
+#: Controller/backup_20190920/ArticleCollectionsController.php:38;73;101;131;166;194
+msgid "Invalid article collection"
+msgstr ""
+
+#: Controller/backup_20190920/ArticleCollectionsController.php:53;77;146;170
+msgid "The article collection has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/ArticleCollectionsController.php:56;80;149;173
+msgid "The article collection could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ArticleCollectionsController.php:105;198
+msgid "The article collection has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/ArticleCollectionsController.php:107;200
+msgid "The article collection could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ArticleNoveltiesController.php:69;103;130;160;194;221
+msgid "Invalid article novelty"
+msgstr ""
+
+#: Controller/backup_20190920/ArticleNoveltiesController.php:84;107;175;198
+msgid "The article novelty has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/ArticleNoveltiesController.php:87;110;178;201
+msgid "The article novelty could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ArticleNoveltiesController.php:134;225
+msgid "The article novelty has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/ArticleNoveltiesController.php:136;227
+msgid "The article novelty could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ArticlePhotosController.php:41;77;106
+msgid "Invalid article photo"
+msgstr ""
+
+#: Controller/backup_20190920/ArticlePhotosController.php:56;81
+msgid "The article photo has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/ArticlePhotosController.php:59;84
+msgid "The article photo could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ArticlePhotosController.php:110
+msgid "The article photo has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/ArticlePhotosController.php:112
+msgid "The article photo could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ContactsController.php:39;71;96
+msgid "Invalid contact"
+msgstr ""
+
+#: Controller/backup_20190920/ContactsController.php:54;75
+msgid "The contact has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/ContactsController.php:57;78
+msgid "The contact could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ContactsController.php:100
+msgid "The contact has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/ContactsController.php:102
+msgid "The contact could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/DetailsController.php:257;480;575
+msgid "Invalid detail"
+msgstr ""
+
+#: Controller/backup_20190920/DetailsController.php:289
+msgid "Ya existe esta calidad por este artículo."
+msgstr ""
+
+#: Controller/backup_20190920/DetailsController.php:385
+msgid "Calidad añadida correctamente."
+msgstr ""
+
+#: Controller/backup_20190920/DetailsController.php:388;502
+msgid "The detail could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/DetailsController.php:499
+msgid "Calidad actualizada correctamente."
+msgstr ""
+
+#: Controller/backup_20190920/DetailsController.php:579
+msgid "Calidad borrada correctamente"
+msgstr ""
+
+#: Controller/backup_20190920/DetailsController.php:581
+msgid "The detail could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ExpositionsController.php:39;71;96
+msgid "Invalid exposition"
+msgstr ""
+
+#: Controller/backup_20190920/ExpositionsController.php:54;75
+msgid "The exposition has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/ExpositionsController.php:57;78
+msgid "The exposition could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ExpositionsController.php:100
+msgid "The exposition has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/ExpositionsController.php:102
+msgid "The exposition could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/FamiliesController.php:39;71;96
+msgid "Invalid family"
+msgstr ""
+
+#: Controller/backup_20190920/FamiliesController.php:54;75
+msgid "The family has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/FamiliesController.php:57;78
+msgid "The family could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/FamiliesController.php:100
+msgid "The family has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/FamiliesController.php:102
+msgid "The family could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/FloweringsController.php:39;71;96
+msgid "Invalid flowering"
+msgstr ""
+
+#: Controller/backup_20190920/FloweringsController.php:54;75
+msgid "The flowering has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/FloweringsController.php:57;78
+msgid "The flowering could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/FloweringsController.php:100
+msgid "The flowering has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/FloweringsController.php:102
+msgid "The flowering could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/GroupsController.php:43;80;105;135;167;192
+msgid "Invalid group"
+msgstr ""
+
+#: Controller/backup_20190920/GroupsController.php:63;84;150;171
+msgid "The group has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/GroupsController.php:66;87;153;174
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/GroupsController.php:109;196
+msgid "The group has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/GroupsController.php:111;198
+msgid "The group could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/GrowingsController.php:39;71;96
+msgid "Invalid growing"
+msgstr ""
+
+#: Controller/backup_20190920/GrowingsController.php:54;75
+msgid "The growing has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/GrowingsController.php:57;78
+msgid "The growing could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/GrowingsController.php:100
+msgid "The growing has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/GrowingsController.php:102
+msgid "The growing could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/IrrigationsController.php:39;71;96
+msgid "Invalid irrigation"
+msgstr ""
+
+#: Controller/backup_20190920/IrrigationsController.php:54;75
+msgid "The irrigation has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/IrrigationsController.php:57;78
+msgid "The irrigation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/IrrigationsController.php:100
+msgid "The irrigation has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/IrrigationsController.php:102
+msgid "The irrigation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/PartnersController.php:48;85;110
+msgid "Invalid partner"
+msgstr ""
+
+#: Controller/backup_20190920/PartnersController.php:61
+msgid "Nuevo almacén"
+msgstr ""
+
+#: Controller/backup_20190920/PartnersController.php:66
+msgid "Soci creat correctament."
+msgstr ""
+
+#: Controller/backup_20190920/PartnersController.php:69;92
+msgid "The partner could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/PartnersController.php:89
+msgid "Soci actualitzat."
+msgstr ""
+
+#: Controller/backup_20190920/PartnersController.php:114
+msgid "Soci esborrat correctament."
+msgstr ""
+
+#: Controller/backup_20190920/PartnersController.php:116
+msgid "The partner could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/PaymentsController.php:112;136
+msgid "The payment has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/PaymentsController.php:115;139
+msgid "The payment could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/PaymentsController.php:132;160
+msgid "Invalid payment"
+msgstr ""
+
+#: Controller/backup_20190920/PaymentsController.php:164
+msgid "The payment has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/PaymentsController.php:166
+msgid "The payment could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/PetitionsController.php:45;80;105;135;167;192
+msgid "Invalid petition"
+msgstr ""
+
+#: Controller/backup_20190920/PetitionsController.php:84;150;171
+msgid "The petition has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/PetitionsController.php:87;153;174
+msgid "The petition could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/PetitionsController.php:109;196
+msgid "The petition has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/PetitionsController.php:111;198
+msgid "The petition could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/PlantTypesController.php:40;72;97;127;159;184
+msgid "Invalid plant type"
+msgstr ""
+
+#: Controller/backup_20190920/PlantTypesController.php:55;76;142;163
+msgid "The plant type has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/PlantTypesController.php:58;79;145;166
+msgid "The plant type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/PlantTypesController.php:101;188
+msgid "The plant type has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/PlantTypesController.php:103;190
+msgid "The plant type could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ProductsController.php:98;128;203;233
+msgid "The product has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/ProductsController.php:101;131;206;236
+msgid "The product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ProductsController.php:124;158;188;229;263
+msgid "Invalid product"
+msgstr ""
+
+#: Controller/backup_20190920/ProductsController.php:162;267
+msgid "The product has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/ProductsController.php:164;269
+msgid "The product could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ProgrammingGroupsController.php:39;71;96
+msgid "Invalid programming group"
+msgstr ""
+
+#: Controller/backup_20190920/ProgrammingGroupsController.php:54;75
+msgid "The programming group has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/ProgrammingGroupsController.php:57;78
+msgid "The programming group could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ProgrammingGroupsController.php:100
+msgid "The programming group has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/ProgrammingGroupsController.php:102
+msgid "The programming group could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ProvidersController.php:39;71;96
+msgid "Invalid provider"
+msgstr ""
+
+#: Controller/backup_20190920/ProvidersController.php:54;75
+msgid "The provider has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/ProvidersController.php:57;78
+msgid "The provider could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/ProvidersController.php:100
+msgid "The provider has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/ProvidersController.php:102
+msgid "The provider could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/SeasonCataloguesController.php:179;211;236
+msgid "Invalid season catalogue"
+msgstr ""
+
+#: Controller/backup_20190920/SeasonCataloguesController.php:194;215
+msgid "The season catalogue has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/SeasonCataloguesController.php:197;218
+msgid "The season catalogue could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/SeasonCataloguesController.php:240
+msgid "The season catalogue has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/SeasonCataloguesController.php:242
+msgid "The season catalogue could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/StocksController.php:907;942;970
+msgid "Invalid stock"
+msgstr ""
+
+#: Controller/backup_20190920/StocksController.php:922;946
+msgid "The stock has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/StocksController.php:925;949
+msgid "The stock could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/StocksController.php:974
+msgid "The stock has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/StocksController.php:976
+msgid "The stock could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/TemperaturesController.php:39;71;96
+msgid "Invalid temperature"
+msgstr ""
+
+#: Controller/backup_20190920/TemperaturesController.php:54;75
+msgid "The temperature has been saved."
+msgstr ""
+
+#: Controller/backup_20190920/TemperaturesController.php:57;78
+msgid "The temperature could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/backup_20190920/TemperaturesController.php:100
+msgid "The temperature has been deleted."
+msgstr ""
+
+#: Controller/backup_20190920/TemperaturesController.php:102
+msgid "The temperature could not be deleted. Please, try again."
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:123
+msgid "<error>Plugin %s not found or not activated</error>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:181
+msgid "Deleted %s and all children"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:222
+msgid "Created Aco node: <success>%s</success>"
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:275
+msgid "Unable to get methods for \"%s\""
+msgstr ""
+
+#: Plugin/AclExtras/Lib/AclExtras.php:296
+msgid "Deleted Aco node: <warning>%s</warning>"
+msgstr ""
+
+#: View/Articles/selection.ctp:12;29
+#: View/CashOrders/view.ctp:43
+#: View/Customers/view.ctp:43
+#: View/Invoices/#view.ctp:39
+#: View/Invoices/view.ctp:64
+#: View/Payments/view.ctp:46
+#: View/Products/results.ctp:506
+#: View/Products/search.ctp:532
+#: View/Products/view.ctp:341
+#: View/Stocks/detail.ctp:104;114
+#: View/Stocks/home.ctp:29;65
+#: View/Stocks/index.ctp:12;29
+msgid "Buscar"
+msgstr ""
+
+#: View/Articles/selection.ctp:18
+#: View/Stocks/detail.ctp:108
+#: View/Stocks/home.ctp:38
+#: View/Stocks/index.ctp:18
+msgid "Todos los artículos"
+msgstr ""
+
+#: View/Articles/selection.ctp:21
+#: View/Stocks/detail.ctp:109
+#: View/Stocks/home.ctp:41
+#: View/Stocks/index.ctp:21
+msgid "Artículos con estoc"
+msgstr ""
+
+#: View/Articles/selection.ctp:24
+#: View/Stocks/detail.ctp:110
+#: View/Stocks/home.ctp:44
+#: View/Stocks/index.ctp:24
+msgid "Artículos sin estoc"
+msgstr ""
+
+#: View/Articles/selection.ctp:52;157
+#: View/Details/add.ctp:171
+#: View/Details/edit.ctp:133
+#: View/ImagesQualities/add.ctp:177
+#: View/ImagesQualities/edit.ctp:136
+#: View/Stocks/home.ctp:79
+#: View/Stocks/index.ctp:48;153
+msgid "Artículo"
+msgstr ""
+
+#: View/Articles/selection.ctp:52
+#: View/CashOrderDetails/#view.ctp:10
+#: View/CashOrderDetails/view.ctp:10
+#: View/Catalogues/preview.ctp:72
+#: View/Catalogues/send.ctp:28
+#: View/InvoiceDetails/view.ctp:6
+#: View/Stocks/home.ctp:80
+#: View/Stocks/index.ctp:48
+msgid "Precio"
+msgstr ""
+
+#: View/Articles/selection.ctp:52;157
+#: View/Details/add.ctp:213
+#: View/Details/index.ctp:27;160
+#: View/Stocks/index.ctp:48;153
+msgid "Estoc físico"
+msgstr ""
+
+#: View/Articles/selection.ctp:125
+#: View/CashOrders/selection.ctp:72
+#: View/Invoices/view.ctp:147
+#: View/Partners/selection.ctp:67
+#: View/Stocks/home.ctp:180
+#: View/Stocks/index.ctp:121
+msgid "Siguiente página"
+msgstr ""
+
+#: View/Articles/view.ctp:20
+#: View/Elements/ficha.ctp:88
+#: View/Elements/backup_20190920/ficha.ctp:88
+#: View/Products/ficha.ctp:171
+#: View/Products/lista.ctp:125
+#: View/Products/result.ctp:157
+#: View/Products/results.ctp:195
+#: View/Products/search.ctp:204
+msgid "Exposición"
+msgstr ""
+
+#: View/Articles/view.ctp:26
+#: View/Elements/ficha.ctp:94
+#: View/Elements/backup_20190920/ficha.ctp:94
+#: View/Products/ficha.ctp:184
+#: View/Products/lista.ctp:138
+#: View/Products/result.ctp:170
+#: View/Products/results.ctp:208
+#: View/Products/search.ctp:217
+msgid "Riego"
+msgstr ""
+
+#: View/Articles/view.ctp:32
+#: View/Elements/ficha.ctp:99
+#: View/Elements/backup_20190920/ficha.ctp:99
+#: View/Products/ficha.ctp:212
+#: View/Products/lista.ctp:151
+#: View/Products/result.ctp:202
+#: View/Products/results.ctp:221
+#: View/Products/search.ctp:230
+msgid "Temperatura"
+msgstr ""
+
+#: View/CashOrderDetails/#view.ctp:8
+#: View/CashOrderDetails/view.ctp:8
+msgid "Línea pedido"
+msgstr ""
+
+#: View/CashOrderDetails/#view.ctp:9
+#: View/CashOrderDetails/view.ctp:9
+#: View/Catalogues/cart.ctp:26
+#: View/Catalogues/collection.ctp:61
+#: View/Catalogues/gamma.ctp:68
+#: View/Catalogues/index.ctp:38
+#: View/Catalogues/preview.ctp:71
+#: View/Catalogues/search.ctp:33
+#: View/Catalogues/send.ctp:27
+#: View/InvoiceDetails/view.ctp:5
+#: View/SeasonCatalogues/collection.ctp:44
+#: View/SeasonCatalogues/gamma.ctp:50
+#: View/SeasonCatalogues/index.ctp:27
+#: View/Users/inicio.ctp:9
+msgid "Información planta"
+msgstr ""
+
+#: View/CashOrderDetails/#view.ctp:9
+#: View/CashOrderDetails/view.ctp:9
+#: View/Catalogues/preview.ctp:71
+#: View/Catalogues/send.ctp:27
+msgid "Sus comentarios"
+msgstr ""
+
+#: View/CashOrderDetails/#view.ctp:10
+#: View/CashOrderDetails/view.ctp:10
+#: View/Catalogues/preview.ctp:72
+#: View/Catalogues/send.ctp:28
+msgid "Unidades (US)"
+msgstr ""
+
+#: View/CashOrderDetails/#view.ctp:10;21
+#: View/CashOrderDetails/view.ctp:10;27
+#: View/Catalogues/preview.ctp:72;83
+#: View/Catalogues/send.ctp:28;39
+#: View/Elements/fila.ctp:210;219
+#: View/Elements/backup_20190920/fila.ctp:210;219
+#: View/InvoiceDetails/view.ctp:6
+msgid "Unidades"
+msgstr ""
+
+#: View/CashOrderDetails/#view.ctp:11
+#: View/CashOrderDetails/view.ctp:11
+#: View/Catalogues/preview.ctp:73
+#: View/Catalogues/send.ctp:29
+#: View/Payments/view.ctp:64
+msgid "Importe"
+msgstr ""
+
+#: View/CashOrderDetails/#view.ctp:24
+#: View/CashOrderDetails/view.ctp:30
+#: View/Catalogues/preview.ctp:86
+#: View/Catalogues/send.ctp:42
+#: View/Elements/fila.ctp:213
+#: View/Elements/backup_20190920/fila.ctp:213
+msgid "Cajas"
+msgstr ""
+
+#: View/CashOrderDetails/#view.ctp:27
+#: View/CashOrderDetails/view.ctp:33
+#: View/Catalogues/preview.ctp:89
+#: View/Catalogues/send.ctp:45
+#: View/Elements/fila.ctp:215
+#: View/Elements/backup_20190920/fila.ctp:215
+msgid "Pisos"
+msgstr ""
+
+#: View/CashOrderDetails/#view.ctp:30
+#: View/CashOrderDetails/view.ctp:36
+#: View/Catalogues/preview.ctp:92
+#: View/Catalogues/send.ctp:48
+#: View/Elements/fila.ctp:216
+#: View/Elements/backup_20190920/fila.ctp:216
+msgid "Carris"
+msgstr ""
+
+#: View/CashOrderDetails/summary.ctp:9
+msgid "Se ha duplicado correctamente el pedido."
+msgstr ""
+
+#: View/CashOrderDetails/summary.ctp:17
+msgid "Los siguientes artículos no se han añadido debido a que esta semana ya no están disponibles:"
+msgstr ""
+
+#: View/CashOrderDetails/summary.ctp:29
+msgid "Continuar"
+msgstr ""
+
+#: View/CashOrderDetails/view.ctp:53
+msgid "Duplicar pedido"
+msgstr ""
+
+#: View/CashOrderDetails/view.ctp:55
+msgid "(Se añadirán todos los artículos que tengan disponibilidad esta semana)"
+msgstr ""
+
+#: View/CashOrders/selection.ctp:31
+msgid "Selecciona una lista de Disponible"
+msgstr ""
+
+#: View/CashOrders/send.ctp:29
+msgid "Volver al disponible semanal"
+msgstr ""
+
+#: View/CashOrders/view.ctp:24
+#: View/Elements/menu_left_agent.ctp:27
+#: View/Elements/menu_left_old.ctp:7
+#: View/Elements/backup_20190920/menu_left_agent.ctp:27
+#: View/Elements/backup_20190920/menu_left_old.ctp:7
+msgid "Consulta de pedidos"
+msgstr ""
+
+#: View/CashOrders/view.ctp:32
+msgid "Nº pedido:"
+msgstr ""
+
+#: View/CashOrders/view.ctp:36
+msgid "Fecha pedido desde:"
+msgstr ""
+
+#: View/CashOrders/view.ctp:40
+msgid "Fecha pedido hasta:"
+msgstr ""
+
+#: View/CashOrders/view.ctp:64
+msgid "Nº Pedido"
+msgstr ""
+
+#: View/CashOrders/view.ctp:65
+msgid "Fecha del pedido"
+msgstr ""
+
+#: View/CashOrders/view.ctp:66
+#: View/Payments/view.ctp:67
+msgid "Estado"
+msgstr ""
+
+#: View/CashOrders/view.ctp:67
+#: View/Invoices/view.ctp:84;92
+msgid "Importe total"
+msgstr ""
+
+#: View/CashOrders/view.ctp:68
+#: View/Customers/view.ctp:82
+#: View/Invoices/#view.ctp:59
+#: View/Invoices/view.ctp:85;93
+#: View/Partners/index.ctp:29
+#: View/Users/index.ctp:1662
+#: View/UsersNewsletters/index.ctp:16
+msgid "Acciones"
+msgstr ""
+
+#: View/CashOrders/view.ctp:89
+msgid " - "
+msgstr ""
+
+#: View/CashOrders/view.ctp:96
+#: View/Invoices/#view.ctp:77
+msgid "Ver detalle"
+msgstr ""
+
+#: View/CashOrders/view.ctp:98
+msgid "Ver detalle / duplicar pedido"
+msgstr ""
+
+#: View/CatalogueUsers/add.ctp:9
+msgid "Lista comercial"
+msgstr ""
+
+#: View/CatalogueUsers/add.ctp:15
+#: View/Users/add.ctp:16
+#: View/Users/login.ctp:40
+msgid "Usuario"
+msgstr ""
+
+#: View/CatalogueUsers/add.ctp:19
+#: View/Details/add.ctp:236
+#: View/Details/edit.ctp:204
+#: View/Groups/add.ctp:15
+#: View/Groups/admin_add.ctp:15
+#: View/ImagesQualities/add.ctp:210
+#: View/ImagesQualities/edit.ctp:175
+#: View/Partners/add.ctp:30
+#: View/Partners/edit.ctp:26
+#: View/Users/add.ctp:118
+msgid "Guardar"
+msgstr ""
+
+#: View/Catalogues/cart.ctp:25
+#: View/Catalogues/collection.ctp:60
+#: View/Catalogues/gamma.ctp:67
+#: View/Catalogues/index.ctp:37
+#: View/Catalogues/search.ctp:32
+#: View/SeasonCatalogues/collection.ctp:43
+#: View/SeasonCatalogues/gamma.ctp:49
+#: View/SeasonCatalogues/index.ctp:26
+#: View/Users/inicio.ctp:9
+msgid "Fotografía / Estado actual"
+msgstr ""
+
+#: View/Catalogues/cart.ctp:27
+#: View/Catalogues/collection.ctp:62
+#: View/Catalogues/gamma.ctp:69
+#: View/Catalogues/index.ctp:39
+#: View/Catalogues/search.ctp:34
+#: View/SeasonCatalogues/collection.ctp:45
+#: View/SeasonCatalogues/gamma.ctp:51
+#: View/SeasonCatalogues/index.ctp:28
+#: View/Users/inicio.ctp:9
+msgid "Observaciones Corma"
+msgstr ""
+
+#: View/Catalogues/cart.ctp:28
+#: View/Catalogues/collection.ctp:63
+#: View/Catalogues/gamma.ctp:70
+#: View/Catalogues/index.ctp:41
+#: View/Catalogues/search.ctp:36
+#: View/Users/inicio.ctp:9
+msgid "Su pedido / Sus comentarios"
+msgstr ""
+
+#: View/Catalogues/distribution.ctp:27
+msgid "Sin artículos seleccionados"
+msgstr ""
+
+#: View/Catalogues/preview.ctp:36
+msgid "Atención! Si no finalizan su pedido no se enviará a su comercial. "
+msgstr ""
+
+#: View/Catalogues/preview.ctp:43
+#: View/Elements/box_carris_mobile.ctp:54
+#: View/Elements/menu_disponible.ctp:100
+#: View/Elements/backup_20190920/_menu_disponible.ctp:91
+#: View/Elements/backup_20190920/box_carris_mobile.ctp:54
+#: View/Elements/backup_20190920/menu_disponible.ctp:100
+msgid "Finalizar y enviar pedido"
+msgstr ""
+
+#: View/Catalogues/preview.ctp:50
+#: View/Catalogues/send.ctp:10
+msgid "A continuación encontrará el resumen de su pedido listo para enviar a su comercial. Revise todos los artículos. Si desea modificar alguno puede pulsar en el botón \"Modificar / visualizar\". Si todo su pedido es correcto puede añadir a continuación las observaciones que desee dirigidas a su comercial referente a este pedido. Para que su comercial procese correctamente su pedido debe pulsar en el botón \"Finalizar y enviar pedido\". Muchas gracias por su compra."
+msgstr ""
+
+#: View/Catalogues/preview.ctp:57
+#: View/Catalogues/send.ctp:17
+msgid "Observaciones pedido:"
+msgstr ""
+
+#: View/Catalogues/select.ctp:13
+msgid "Bienvenido a la área privada, seleccione lo que quiere hacer"
+msgstr ""
+
+#: View/Catalogues/select.ctp:15
+msgid "QUIERO<br />COMPRAR"
+msgstr ""
+
+#: View/Catalogues/select.ctp:17
+msgid "QUIERO CONSULTAR<br />CATÁLOGO"
+msgstr ""
+
+#: View/Catalogues/selection.ctp:32
+msgid "Selecciona una lista comercial"
+msgstr ""
+
+#: View/Catalogues/selection.ctp:135
+#: View/Partners/selection.ctp:140
+msgid "Mostrar más socios..."
+msgstr ""
+
+#: View/Customers/index.ctp:14
+msgid "Bienvenido a la área privada de Corma, seleccione la opción que desee realizar"
+msgstr ""
+
+#: View/Customers/index.ctp:21
+msgid "QUIERO COMPRAR (DISPONIBLE SEMANAL)"
+msgstr ""
+
+#: View/Customers/index.ctp:31
+msgid "QUIERO CONSULTAR EL CATÁLOGO"
+msgstr ""
+
+#: View/Customers/view.ctp:14
+msgid "Tipo de usuario"
+msgstr ""
+
+#: View/Customers/view.ctp:28
+msgid "Código de cliente"
+msgstr ""
+
+#: View/Customers/view.ctp:33
+msgid "Nombre de cliente"
+msgstr ""
+
+#: View/Customers/view.ctp:38;78
+#: View/Users/login.ctp:109
+#: View/Users/recovery_password.ctp:82
+msgid "Nombre de usuario"
+msgstr ""
+
+#: View/Customers/view.ctp:77
+msgid "Tipo usuario"
+msgstr ""
+
+#: View/Customers/view.ctp:79
+#: View/Users/add.ctp:65
+msgid "Código cliente"
+msgstr ""
+
+#: View/Customers/view.ctp:80
+#: View/Groups/add.ctp:10
+#: View/Groups/admin_add.ctp:10
+#: View/Partners/add.ctp:15
+#: View/Partners/edit.ctp:23
+#: View/Stocks/home.ctp:217
+#: View/Users/add.ctp:26
+msgid "Nombre"
+msgstr ""
+
+#: View/Customers/view.ctp:81
+#: View/Users/add.ctp:36
+msgid "Email"
+msgstr ""
+
+#: View/Customers/view.ctp:97
+#: View/Elements/menu_left.ctp:55
+#: View/Elements/menu_left_admin.ctp:29
+#: View/Elements/menu_left_agent.ctp:29
+#: View/Elements/backup_20190920/menu_left.ctp:55
+#: View/Elements/backup_20190920/menu_left_admin.ctp:29
+#: View/Elements/backup_20190920/menu_left_agent.ctp:29
+#: View/Layouts/admin.ctp:186
+#: View/Layouts/adminOld.ctp:161
+#: View/Users/changepassword.ctp:8
+msgid "Cambiar contraseña"
+msgstr ""
+
+#: View/Details/add.ctp:173
+msgid "Estoc"
+msgstr ""
+
+#: View/Details/add.ctp:179
+#: View/Details/edit.ctp:141
+#: View/ImagesQualities/add.ctp:184
+#: View/ImagesQualities/edit.ctp:144
+msgid "Crecimiento"
+msgstr ""
+
+#: View/Details/add.ctp:198
+#: View/Details/edit.ctp:146
+#: View/ImagesQualities/add.ctp:193
+#: View/ImagesQualities/edit.ctp:156
+msgid "Floración"
+msgstr ""
+
+#: View/Details/add.ctp:218
+#: View/Details/edit.ctp:186
+msgid "Observaciones"
+msgstr ""
+
+#: View/Details/add.ctp:232
+#: View/Details/edit.ctp:221
+#: View/Details/index.ctp:81;173
+#: View/Galleries/#index.ctp:178
+#: View/Galleries/index.ctp:188
+#: View/ImagesQualities/add.ctp:206
+#: View/ImagesQualities/edit.ctp:171
+#: View/ImagesQualities/show.ctp:103
+#: View/Stocks/detail.ctp:226
+msgid "Volver"
+msgstr ""
+
+#: View/Details/edit.ctp:155;160
+msgid "Estoc <br />físico"
+msgstr ""
+
+#: View/Details/edit.ctp:168
+msgid "Estoc <br />comprometido"
+msgstr ""
+
+#: View/Details/edit.ctp:172
+msgid "Estoc <br />disponible"
+msgstr ""
+
+#: View/Details/edit.ctp:180
+msgid "El estoc disponible no puede ser negativo"
+msgstr ""
+
+#: View/Details/index.ctp:26;159
+msgid "Calidad"
+msgstr ""
+
+#: View/Details/index.ctp:28;161
+msgid "Imagen"
+msgstr ""
+
+#: View/Details/index.ctp:86;177
+#: View/ImagesQualities/show.ctp:107
+msgid "Nueva calidad"
+msgstr ""
+
+#: View/Elements/box_carris_mobile.ctp:10
+#: View/Elements/menu_disponible.ctp:48
+#: View/Elements/backup_20190920/_menu_disponible.ctp:48
+#: View/Elements/backup_20190920/box_carris_mobile.ctp:10
+#: View/Elements/backup_20190920/menu_disponible.ctp:48
+msgid "Total €"
+msgstr ""
+
+#: View/Elements/box_carris_mobile.ctp:20
+#: View/Elements/menu_disponible.ctp:59
+#: View/Elements/backup_20190920/menu_disponible.ctp:59
+msgid "Total carris teóricos"
+msgstr ""
+
+#: View/Elements/box_carris_mobile.ctp:41
+#: View/Elements/menu_disponible.ctp:90
+#: View/Elements/backup_20190920/_menu_disponible.ctp:81
+#: View/Elements/backup_20190920/box_carris_mobile.ctp:41
+#: View/Elements/backup_20190920/menu_disponible.ctp:90
+msgid "Descargar disponible en pdf"
+msgstr ""
+
+#: View/Elements/box_carris_mobile.ctp:44
+#: View/Elements/menu_disponible.ctp:93
+#: View/Elements/backup_20190920/_menu_disponible.ctp:84
+#: View/Elements/backup_20190920/box_carris_mobile.ctp:44
+#: View/Elements/backup_20190920/menu_disponible.ctp:93
+msgid "Modificar / Visualizar"
+msgstr ""
+
+#: View/Elements/box_carris_mobile.ctp:63
+#: View/Elements/menu_disponible.ctp:109
+#: View/Elements/backup_20190920/_menu_disponible.ctp:100
+#: View/Elements/backup_20190920/box_carris_mobile.ctp:63
+#: View/Elements/backup_20190920/menu_disponible.ctp:109
+msgid "Continuar compra"
+msgstr ""
+
+#: View/Elements/ficha.ctp:48
+#: View/Elements/backup_20190920/ficha.ctp:48
+msgid "Ficha técnica"
+msgstr ""
+
+#: View/Elements/ficha.ctp:55
+#: View/Elements/backup_20190920/ficha.ctp:55
+#: View/Products/ficha.ctp:136
+#: View/Products/lista.ctp:89
+#: View/Products/result.ctp:122
+#: View/Products/results.ctp:159
+#: View/Products/search.ctp:168
+msgid "Nombre popular"
+msgstr ""
+
+#: View/Elements/ficha.ctp:61
+#: View/Elements/backup_20190920/ficha.ctp:61
+#: View/Products/ficha.ctp:145
+#: View/Products/lista.ctp:99
+#: View/Products/result.ctp:131
+#: View/Products/results.ctp:169
+#: View/Products/search.ctp:178
+msgid "Tipología"
+msgstr ""
+
+#: View/Elements/ficha.ctp:65
+#: View/Elements/backup_20190920/ficha.ctp:65
+msgid "Utilizaciones"
+msgstr ""
+
+#: View/Elements/ficha.ctp:76
+#: View/Elements/backup_20190920/ficha.ctp:76
+msgid "Características especiales"
+msgstr ""
+
+#: View/Elements/ficha.ctp:105
+#: View/Elements/backup_20190920/ficha.ctp:105
+#: View/Products/ficha.ctp:231
+#: View/Products/lista.ctp:164
+#: View/Products/result.ctp:221
+#: View/Products/results.ctp:234
+#: View/Products/search.ctp:243
+msgid "Fragancia"
+msgstr ""
+
+#: View/Elements/ficha.ctp:108
+#: View/Elements/backup_20190920/ficha.ctp:108
+#: View/Products/ficha.ctp:236
+#: View/Products/lista.ctp:169
+#: View/Products/result.ctp:226
+#: View/Products/results.ctp:239;500
+#: View/Products/search.ctp:248;526
+#: View/Products/view.ctp:335
+msgid "Si"
+msgstr ""
+
+#: View/Elements/ficha.ctp:110
+#: View/Elements/backup_20190920/ficha.ctp:110
+#: View/Products/ficha.ctp:238
+#: View/Products/lista.ctp:171
+#: View/Products/result.ctp:228
+#: View/Products/results.ctp:241;500
+#: View/Products/search.ctp:250;526
+#: View/Products/view.ctp:335
+msgid "No"
+msgstr ""
+
+#: View/Elements/ficha.ctp:117
+#: View/Elements/backup_20190920/ficha.ctp:117
+#: View/Products/ficha.ctp:254
+#: View/Products/lista.ctp:181
+#: View/Products/result.ctp:244
+#: View/Products/results.ctp:251
+#: View/Products/search.ctp:260
+msgid "Desarrollo máximo"
+msgstr ""
+
+#: View/Elements/ficha.ctp:126
+#: View/Elements/backup_20190920/ficha.ctp:126
+#: View/Products/ficha.ctp:277
+#: View/Products/lista.ctp:195
+#: View/Products/result.ctp:267
+#: View/Products/results.ctp:265
+#: View/Products/search.ctp:274
+msgid "Meses floración"
+msgstr ""
+
+#: View/Elements/ficha.ctp:132
+#: View/Elements/backup_20190920/ficha.ctp:132
+#: View/Products/ficha.ctp:297
+#: View/Products/lista.ctp:208
+#: View/Products/result.ctp:287
+#: View/Products/results.ctp:278
+#: View/Products/search.ctp:287
+msgid "Coloración flor"
+msgstr ""
+
+#: View/Elements/ficha.ctp:144
+#: View/Elements/backup_20190920/ficha.ctp:144
+#: View/Products/ficha.ctp:323
+#: View/Products/lista.ctp:225
+#: View/Products/result.ctp:313
+#: View/Products/results.ctp:298
+#: View/Products/search.ctp:307
+msgid "Coloración hoja"
+msgstr ""
+
+#: View/Elements/fila.ctp:71
+#: View/Elements/backup_20190920/fila.ctp:71
+msgid "Ver ficha técnica"
+msgstr ""
+
+#: View/Elements/fila.ctp:92
+#: View/Elements/backup_20190920/fila.ctp:92
+msgid "caixa"
+msgstr ""
+
+#: View/Elements/fila.ctp:96
+#: View/Elements/backup_20190920/fila.ctp:96
+msgid "pis"
+msgstr ""
+
+#: View/Elements/fila.ctp:96
+#: View/Elements/backup_20190920/fila.ctp:96
+msgid "carri"
+msgstr ""
+
+#: View/Elements/fila.ctp:132
+#: View/Elements/backup_20190920/fila.ctp:132
+msgid "Exposición: "
+msgstr ""
+
+#: View/Elements/fila.ctp:136
+#: View/Elements/backup_20190920/fila.ctp:136
+msgid "Riego: "
+msgstr ""
+
+#: View/Elements/fila.ctp:140
+#: View/Elements/backup_20190920/fila.ctp:140
+msgid "Temperatura: "
+msgstr ""
+
+#: View/Elements/menu_cataleg.ctp:75
+#: View/Elements/menu_superior_app_old.ctp:50
+#: View/Layouts/customer.ctp:247
+msgid "Plantas motoras"
+msgstr ""
+
+#: View/Elements/menu_cataleg.ctp:88
+#: View/Layouts/customer.ctp:285
+msgid "Colecciones exclusivas"
+msgstr ""
+
+#: View/Elements/menu_cataleg.ctp:118
+#: View/Elements/menu_disponible.ctp:289
+#: View/Elements/backup_20190920/menu_disponible.ctp:289
+#: View/Layouts/customer.ctp:334
+msgid "Gama"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:71
+#: View/Elements/backup_20190920/menu_corma.ctp:71
+msgid "Cultivamos confianza"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:117
+#: View/Elements/menu_corma_mobile.ctp:66
+#: View/Elements/backup_20190920/menu_corma.ctp:117
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:66
+msgid "La cooperativa"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:146
+#: View/Elements/menu_corma_mobile.ctp:94
+#: View/Elements/backup_20190920/menu_corma.ctp:146
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:94
+msgid "Corma didáctica"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:173
+#: View/Elements/menu_corma_mobile.ctp:121
+#: View/Elements/backup_20190920/menu_corma.ctp:173
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:121
+msgid "Región de cultivo"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:201
+#: View/Elements/menu_corma_mobile.ctp:149
+#: View/Elements/backup_20190920/menu_corma.ctp:201
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:149
+msgid "Nuestros productores"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:230
+#: View/Elements/menu_corma_mobile.ctp:178
+#: View/Elements/backup_20190920/menu_corma.ctp:230
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:178
+msgid "Medioambiente"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:261
+#: View/Elements/menu_corma_mobile.ctp:209
+#: View/Elements/backup_20190920/menu_corma.ctp:261
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:209
+msgid "Servicio"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:270
+#: View/Elements/menu_corma_mobile.ctp:218
+#: View/Elements/backup_20190920/menu_corma.ctp:270
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:218
+msgid "Productos"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:309
+#: View/Elements/menu_corma_mobile.ctp:257
+#: View/Elements/backup_20190920/menu_corma.ctp:309
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:257
+msgid "Nuestras colecciones"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:337;372
+#: View/Elements/menu_corma_mobile.ctp:278;311
+#: View/Elements/backup_20190920/menu_corma.ctp:337;372
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:278;311
+msgid "Catálogo jardinería"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:383
+#: View/Elements/menu_corma_mobile.ctp:322
+#: View/Elements/backup_20190920/menu_corma.ctp:383
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:322
+#: View/Petitions/add.ctp:36
+msgid "Contacto"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:413
+#: View/Elements/menu_corma_mobile.ctp:352
+#: View/Elements/backup_20190920/menu_corma.ctp:413
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:352
+msgid "Direcciones"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:441
+#: View/Elements/menu_corma_mobile.ctp:380
+#: View/Elements/backup_20190920/menu_corma.ctp:441
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:380
+msgid "Contáctanos"
+msgstr ""
+
+#: View/Elements/menu_corma.ctp:463
+#: View/Elements/menu_corma_mobile.ctp:402
+#: View/Elements/menu_left.ctp:56
+#: View/Elements/menu_left_admin.ctp:30
+#: View/Elements/menu_left_agent.ctp:30
+#: View/Elements/menu_superior_app.ctp:51
+#: View/Elements/menu_superior_app_old.ctp:38;95
+#: View/Elements/backup_20190920/menu_corma.ctp:463
+#: View/Elements/backup_20190920/menu_corma_mobile.ctp:402
+#: View/Elements/backup_20190920/menu_left.ctp:56
+#: View/Elements/backup_20190920/menu_left_admin.ctp:30
+#: View/Elements/backup_20190920/menu_left_agent.ctp:30
+#: View/Elements/backup_20190920/menu_superior_app.ctp:47
+#: View/Layouts/admin.ctp:100
+#: View/Layouts/private.ctp:74
+msgid "Cerrar sesión"
+msgstr ""
+
+#: View/Elements/menu_disponible.ctp:69
+#: View/Elements/backup_20190920/menu_disponible.ctp:69
+msgid "  Ver distribución"
+msgstr ""
+
+#: View/Elements/menu_disponible.ctp:211
+#: View/Elements/backup_20190920/_menu_disponible.ctp:196
+#: View/Elements/backup_20190920/menu_cataleg.ctp:88
+#: View/Elements/backup_20190920/menu_disponible.ctp:211
+msgid "Col·leccions exclusives"
+msgstr ""
+
+#: View/Elements/menu_disponible.ctp:287
+#: View/Elements/backup_20190920/menu_disponible.ctp:287
+msgid "Gama jardineria"
+msgstr ""
+
+#: View/Elements/menu_inferior_app.ctp:43
+#: View/Elements/menu_superior_app.ctp:39
+#: View/Elements/backup_20190920/menu_superior_app.ctp:39
+msgid "Seleccionar socio / almacén"
+msgstr ""
+
+#: View/Elements/menu_inferior_app.ctp:48;59;76
+msgid "Estocs"
+msgstr ""
+
+#: View/Elements/menu_inferior_app.ctp:64;80
+msgid "Disponible"
+msgstr ""
+
+#: View/Elements/menu_left.ctp:19
+#: View/Elements/backup_20190920/menu_left.ctp:19
+msgid "Disponible semanal"
+msgstr ""
+
+#: View/Elements/menu_left.ctp:26
+#: View/Elements/backup_20190920/menu_left.ctp:26
+msgid "Consultar catálogo"
+msgstr ""
+
+#: View/Elements/menu_left.ctp:45
+#: View/Elements/menu_left_admin.ctp:18
+#: View/Elements/menu_left_agent.ctp:19
+#: View/Elements/backup_20190920/menu_left.ctp:45
+#: View/Elements/backup_20190920/menu_left_admin.ctp:18
+#: View/Elements/backup_20190920/menu_left_agent.ctp:19
+#: View/Layouts/adminOld.ctp:152
+msgid "Menú"
+msgstr ""
+
+#: View/Elements/menu_left.ctp:52
+#: View/Elements/backup_20190920/menu_left.ctp:52
+msgid "Consultar / duplicar pedidos"
+msgstr ""
+
+#: View/Elements/menu_left.ctp:53
+#: View/Elements/menu_left_old.ctp:9
+#: View/Elements/backup_20190920/menu_left.ctp:53
+#: View/Elements/backup_20190920/menu_left_old.ctp:9
+#: View/Invoices/#view.ctp:21
+#: View/Invoices/view.ctp:37
+msgid "Consulta de facturas"
+msgstr ""
+
+#: View/Elements/menu_left.ctp:54
+#: View/Elements/menu_left_old.ctp:11
+#: View/Elements/backup_20190920/menu_left.ctp:54
+#: View/Elements/backup_20190920/menu_left_old.ctp:11
+#: View/Payments/view.ctp:21
+msgid "Consulta de pagos"
+msgstr ""
+
+#: View/Elements/menu_left.ctp:63
+#: View/Elements/backup_20190920/menu_left.ctp:63
+msgid "Agent comercial"
+msgstr ""
+
+#: View/Elements/menu_left_admin.ctp:25
+#: View/Elements/backup_20190920/menu_left_admin.ctp:25
+msgid "Gestión usuarios"
+msgstr ""
+
+#: View/Elements/menu_left_admin.ctp:26
+#: View/Elements/backup_20190920/menu_left_admin.ctp:26
+msgid "Consulta de disponibles"
+msgstr ""
+
+#: View/Elements/menu_left_admin.ctp:27
+#: View/Elements/backup_20190920/menu_left_admin.ctp:27
+#: View/Layouts/adminOld.ctp:160
+msgid "Gestión de permisos"
+msgstr ""
+
+#: View/Elements/menu_left_agent.ctp:28
+#: View/Elements/backup_20190920/menu_left_agent.ctp:28
+msgid "Consulta de clientes"
+msgstr ""
+
+#: View/Elements/menu_left_old.ctp:5
+#: View/Elements/backup_20190920/menu_left_old.ctp:5
+#: View/Layouts/admin.ctp:141
+#: View/Layouts/adminOld.ctp:159
+msgid "Gestión de pedidos"
+msgstr ""
+
+#: View/Elements/menu_left_old.ctp:17
+#: View/Elements/backup_20190920/menu_left_old.ctp:17
+msgid "Agente comercial"
+msgstr ""
+
+#: View/Elements/menu_left_old.ctp:25;26
+#: View/Elements/backup_20190920/menu_left_old.ctp:25;26
+msgid "Dato no rellenado"
+msgstr ""
+
+#: View/Elements/menu_left_old.ctp:28
+#: View/Elements/backup_20190920/menu_left_old.ctp:28
+msgid "Sus datos de cliente"
+msgstr ""
+
+#: View/Elements/menu_superior_app.ctp:41
+#: View/Elements/backup_20190920/menu_superior_app.ctp:41
+msgid "Gestión de estocs"
+msgstr ""
+
+#: View/Elements/menu_superior_app.ctp:44
+msgid "Fotos calidad"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:156
+#: View/Elements/backup_20190920/modal_subscribe.ctp:156
+msgid "Bienvenido/a,"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:157
+#: View/Elements/backup_20190920/modal_subscribe.ctp:157
+msgid "Corma SCCL le informa que trata sus datos con el fin de informarles de sus productos y servicios."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:158
+#: View/Elements/backup_20190920/modal_subscribe.ctp:158
+msgid "¡Queremos seguir haciéndolo!"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:160
+#: View/Elements/backup_20190920/modal_subscribe.ctp:160
+msgid "El nuevo Reglamento General de Protección de Datos (Reglamento (UE) 2016/679) exige disponer del consentimiento explícito para esta clase de tratamiento de datos. Por este motivo le solicitamos que, en caso de que estén interesados en seguir figurando en nuestra lista de distribución de información, nos lo confirme."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:164
+#: View/Elements/backup_20190920/modal_subscribe.ctp:164
+msgid "Información básica de protección de datos personales"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:167
+#: View/Elements/backup_20190920/modal_subscribe.ctp:167
+msgid "Responsable del tratamiento: Corma SCCL, Camí del mig, 20, de Premià de Dalt (CP 08338). Tel. 937549000, corma@corma.es."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:168
+#: View/Elements/backup_20190920/modal_subscribe.ctp:168
+msgid "Finalidad: envío de información de Corma."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:169
+#: View/Elements/backup_20190920/modal_subscribe.ctp:169
+msgid "Legitimación: consentimiento de la persona interesada. La persona interesada puede revocar el consentimiento en cualquier momento."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:170
+#: View/Elements/backup_20190920/modal_subscribe.ctp:170
+msgid "Destinatarios: no se comunican datos a otras personas."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:171
+#: View/Elements/backup_20190920/modal_subscribe.ctp:171
+msgid "Derechos de las personas interesadas: puede ejercer los derechos de acceso, rectificación, supresión, oposición al tratamiento y solicitud de limitación, dirigiéndose a Corma."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:179
+#: View/Elements/backup_20190920/modal_subscribe.ctp:179
+msgid "¡Suscríbete a nuestras newsletters para estar al dia de las últimas novedades y promociones!"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:196
+#: View/Elements/backup_20190920/modal_subscribe.ctp:196
+msgid "  Acepto las condiciones"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:199
+#: View/Elements/backup_20190920/modal_subscribe.ctp:199
+msgid "¡SUSCRÍBETE!"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:205
+#: View/Elements/backup_20190920/modal_subscribe.ctp:205
+msgid "No quiero recibir información comercial de Corma"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:209
+#: View/Elements/backup_20190920/modal_subscribe.ctp:209
+msgid "Descubre otras formas de conectar con Corma"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:252
+#: View/Elements/backup_20190920/modal_subscribe.ctp:252
+msgid "POLÍTICA DE PROTECCIÓN DE DATOS"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:256
+#: View/Elements/backup_20190920/modal_subscribe.ctp:256
+msgid "Esta es la política de protección de datos de Cooperativa de Plantes Ornamentals del Maresme SCCL. Hace referencia a los datos que trata en el ejercicio de sus actividades comerciales dando cumplimiento al Reglamento General de Protección de Datos (Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016)."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:258
+#: View/Elements/backup_20190920/modal_subscribe.ctp:258
+msgid "¿Quién es el responsable del tratamiento de los datos personales?"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:259
+#: View/Elements/backup_20190920/modal_subscribe.ctp:259
+msgid "El responsable del tratamiento de los datos personales es Cooperativa de Plantas Ornamentales del Maresme SCCL (en adelante, CORMA), con CIF F08668824 inscrita en el Registro de Cooperativas con el número BN-1212, domicilio en Premià de Dalt 08338 Barcelona, ​​teléfono 937549000, dirección electrónica corma@corma.es y página web www.corma.es"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:260
+#: View/Elements/backup_20190920/modal_subscribe.ctp:260
+msgid "CORMA es parte integrante del grupo CLADE del que forman parte también Abacus Cooperativa, Blanquerna-URL, Comunidad Minera Olesana, Cooperativa Plana de Vic, Escola Sant Gervasi, SOM, Lavola, Orquesta Sinfónica del Vallés y Suara Cooperativa (más información sobre el grupo a www.grupclade.com)."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:262
+#: View/Elements/backup_20190920/modal_subscribe.ctp:262
+msgid "¿Con qué finalidad tratamos los datos?"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:263
+#: View/Elements/backup_20190920/modal_subscribe.ctp:263
+msgid "A CORMA tratamos los datos personales para las siguientes finalidades."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:264
+#: View/Elements/backup_20190920/modal_subscribe.ctp:264
+msgid "Contacto."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:265
+#: View/Elements/backup_20190920/modal_subscribe.ctp:265
+msgid "Atender las consultas de las personas que contactan con nosotros por medio de formularios de contacto de nuestra página web. Los utilizamos únicamente para esta finalidad."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:266
+#: View/Elements/backup_20190920/modal_subscribe.ctp:266
+msgid "Atención telefónica"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:267
+#: View/Elements/backup_20190920/modal_subscribe.ctp:267
+msgid "Atender telefónicamente las personas que se ponen en contacto con nosotros por esta vía. Para ofrecer más calidad en el servicio las conversaciones pueden registrarse telefónicamente advirtiendo previamente a la persona con quien se comunicamos."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:268
+#: View/Elements/backup_20190920/modal_subscribe.ctp:268
+msgid "Selección de personal"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:269
+#: View/Elements/backup_20190920/modal_subscribe.ctp:269
+msgid "Recepción de currículum vitae que nos dirigen interesados ​​en trabajar con nosotros y gestión de los datos personales que se generan por la participación en los procesos de selección de personal, con el fin de analizar la adecuación del perfil de los candidatos en función de los lugares vacantes o de nueva creación. Nuestro criterio es conservar durante un plazo máximo de un año también los datos de las personas que no terminen siendo contratadas, por si a corto plazo se produce una nueva vacante o nuevo puesto de trabajo. No obstante, en este último caso, eliminamos inmediatamente los datos si el interesado nos lo pide."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:270
+#: View/Elements/backup_20190920/modal_subscribe.ctp:270
+msgid "Servicios a los clientes"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:271
+#: View/Elements/backup_20190920/modal_subscribe.ctp:271
+msgid "Registrar los nuevos clientes y los datos adicionales que se puedan generar como resultado de la relación comercial con los clientes. En el proceso de contratación se piden los datos imprescindibles, entre las que deben figurar datos bancarios (número de cuenta corriente o de tarjeta de crédito) que serán comunicados a entidades bancarias que gestionan el cobro (únicamente los pueden utilizar con este fin). La relación comercial conlleva otros tratamientos, como incorporar los datos a la contabilidad, la facturación o información a la administración tributaria. Accediendo al área de clientes de nuestra web es posible gestionar los datos propios, contratar productos, consultar el consumo y la facturación, acceder a promociones y descuentos o conocer el estado de consultas y reclamaciones que se hayan hecho por medio de este canal. El acceso al área de clientes nos proporciona información de la actividad del usuario de este servicio."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:272
+#: View/Elements/backup_20190920/modal_subscribe.ctp:272
+msgid "Servicios a los socios"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:273
+#: View/Elements/backup_20190920/modal_subscribe.ctp:273
+msgid "Registrar los datos de los socios de la cooperativa y los datos adicionales que se puedan generar como resultado de su participación en la cooperativa. Los datos se utilizan para organizar los servicios, para informar a los socios de las iniciativas de la cooperativa, convocarlos a actos o en las reuniones preceptivas e informarles de los productos o servicios."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:274
+#: View/Elements/backup_20190920/modal_subscribe.ctp:274
+msgid "Información de nuestros productos y servicios"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:275
+#: View/Elements/backup_20190920/modal_subscribe.ctp:275
+msgid "Mientras existe relación contractual con sus clientes CORMA SCCL utiliza sus datos de contacto para comunicar información propia de esta relación, información que podrá circunstancialmente incluir referencias de nuestros productos o servicios, ya sean de carácter general o referidos más específicamente a las características y necesidades del cliente."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:276
+#: View/Elements/backup_20190920/modal_subscribe.ctp:276
+msgid "Otra información de productos y servicios"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:277
+#: View/Elements/backup_20190920/modal_subscribe.ctp:277
+msgid "Con la autorización explícita de los clientes, terminada la relación contractual los datos de contacto se conservan para enviar publicidad relacionada con nuestros servicios o productos, información de carácter general o específica por las características del cliente. Esta información se hace llegar a quien, a pesar de no haber sido cliente, nos lo pide o lo acepta llenando nuestros formularios."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:278
+#: View/Elements/backup_20190920/modal_subscribe.ctp:278
+msgid "Publicidad de productos y servicios de empresas de nuestro grupo"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:279
+#: View/Elements/backup_20190920/modal_subscribe.ctp:279
+msgid "Siempre con la autorización previa y explícita de las personas indicadas en el apartado anterior, los datos de contacto sirven para hacer llegar publicidad, tanto de carácter general como adaptada a las características de la persona, información de productos o servicios de las empresas del nuestro grupo. Asimismo, con el consentimiento explícito del interesado, los datos de contacto se podrán comunicar a estas empresas para que estas empresas puedan enviar directamente publicidad de sus productos o servicios."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:280
+#: View/Elements/backup_20190920/modal_subscribe.ctp:280
+msgid "Gestión de los datos de nuestros proveedores"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:281
+#: View/Elements/backup_20190920/modal_subscribe.ctp:281
+msgid "Registramos y tratamos los datos de los proveedores de quien obtenemos servicios o bienes. Pueden ser los datos de personas que actúan como autónomos y también datos de representantes de personas jurídicas. Obtenemos los datos imprescindibles para mantener la relación comercial, los destinamos únicamente a este fin y hacemos el uso propio de esta clase de relación."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:282
+#: View/Elements/backup_20190920/modal_subscribe.ctp:282
+msgid "Videovigilancia"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:283
+#: View/Elements/backup_20190920/modal_subscribe.ctp:283
+msgid "En el acceso a nuestras instalaciones informa, cuando es el caso, de la existencia de cámaras de videovigilancia mediante los rótulos homologados. Las cámaras graban imágenes sólo de los puntos en los que es justificado para garantizar la seguridad de los bienes y de las personas y las imágenes se utilizan únicamente para esta finalidad."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:284
+#: View/Elements/backup_20190920/modal_subscribe.ctp:284
+msgid "Usuarios de nuestra web"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:285
+#: View/Elements/backup_20190920/modal_subscribe.ctp:285
+msgid "El sistema de navegación y el software que posibilita el funcionamiento de nuestra web recogen los datos que ordinariamente se generan en el uso de los protocolos de Internet. En esta categoría de datos hay entre otros la dirección IP o nombre de dominio del ordenador utilizado por la persona que se conecta al sitio web. Nuestra web utiliza galletas (cookies) que permiten la identificación de personas físicas concretas, usuarias del sitio. Puede leer más información sobre el uso de las cookies desde este enlace."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:286
+#: View/Elements/backup_20190920/modal_subscribe.ctp:286
+msgid "Otros canales de obtención de datos"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:287
+#: View/Elements/backup_20190920/modal_subscribe.ctp:287
+msgid "Obtenemos también datos por medio de relaciones presenciales y otros canales como la recepción de correos electrónicos o por medio de nuestros perfiles en las redes sociales. En todos los casos los datos se destinan sólo a los fines explícitas que justifican la recogida y tratamiento."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:289
+#: View/Elements/backup_20190920/modal_subscribe.ctp:289
+msgid "¿Cuál es la legitimación legal para el tratamiento de los datos?"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:290
+#: View/Elements/backup_20190920/modal_subscribe.ctp:290
+msgid "Los tratamientos de datos que llevamos a cabo tienen diferentes fundamentos legales, según la naturaleza de cada tratamiento."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:291
+#: View/Elements/backup_20190920/modal_subscribe.ctp:291
+msgid "En cumplimiento de una relación precontractual."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:292
+#: View/Elements/backup_20190920/modal_subscribe.ctp:292
+msgid "Caso de los datos de posibles clientes o proveedores con los que tenemos relaciones previas a la formalización de una relación contractual, como la elaboración o el estudio de presupuestos). Es también el caso del tratamiento de datos de personas que nos han hecho llegar sus currículum vitae o que participan en procesos selectivos."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:293
+#: View/Elements/backup_20190920/modal_subscribe.ctp:293
+msgid "En cumplimiento de una relación contractual."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:294
+#: View/Elements/backup_20190920/modal_subscribe.ctp:294
+msgid "Caso de las relaciones con nuestros clientes y proveedores y todas las actuaciones y usos que estas relaciones conllevan."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:295
+#: View/Elements/backup_20190920/modal_subscribe.ctp:295
+msgid "En cumplimiento de obligaciones legales."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:296
+#: View/Elements/backup_20190920/modal_subscribe.ctp:296
+msgid "Las comunicaciones de datos a la administración tributaria viene establecida por normas reguladoras de las relaciones comerciales. Puede producirse el caso de tener que comunicar datos a órganos judiciales o en cuerpos y fuerzas de seguridad también en cumplimiento de normas legales que obligan a colaborar con estos estamentos públicos."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:297
+#: View/Elements/backup_20190920/modal_subscribe.ctp:297
+msgid "En base al consentimiento."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:298
+#: View/Elements/backup_20190920/modal_subscribe.ctp:298
+msgid "Cuando hacemos envíos de información de nuestros productos o servicios tratamos los datos de contacto de los receptores con su autorización o consentimiento explícito. Los datos de navegación que podamos obtener mediante cookies los obtenemos con el consentimiento de la persona que visita nuestra web, consentimiento que puede revocar en cualquier momento desinstalando estas cookies. También es con el consentimiento previo de cada persona que comunicamos sus datos a otras empresas de nuestro grupo."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:299
+#: View/Elements/backup_20190920/modal_subscribe.ctp:299
+msgid "Por interés legítimo."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:300
+#: View/Elements/backup_20190920/modal_subscribe.ctp:300
+msgid "Las imágenes que obtenemos con las cámaras de videovigilancia se tratan por el interés legítimo de nuestra empresa de preservar sus bienes e instalaciones. Nuestro interés legítimo justifica también el tratamiento de datos que obtenemos de los formularios de contacto, así como las de las personas que se registran para comentar en nuestras redes sociales."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:302
+#: View/Elements/backup_20190920/modal_subscribe.ctp:302
+msgid "¿A quién se comunican los datos?"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:303
+#: View/Elements/backup_20190920/modal_subscribe.ctp:303
+msgid "Como criterio general únicamente comunicamos datos a administraciones o poderes públicos y siempre en cumplimientos de obligaciones legales. En la emisión de facturas a clientes los datos se pueden comunicar a entidades bancarias. En casos justificados comunicaremos los datos a los cuerpos y fuerzas de seguridad o los órganos judiciales competentes. Por otra parte, en caso de que se haya dado el consentimiento, los datos podrán ser comunicados a otras empresas de nuestro grupo para las finalidades indicadas anteriormente. No se hacen transferencias de datos fuera del ámbito de la Unión Europea (transferencia internacional)."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:304
+#: View/Elements/backup_20190920/modal_subscribe.ctp:304
+msgid "En un otros sentido, para determinadas tareas obtenemos los servicios de empresas o personas que nos aportan su experiencia y especialización. En algunas ocasiones estas empresas externas deben acceder a datos personales de nuestra responsabilidad. No se trata propiamente de una cesión de datos sino de un encargo de tratamiento. Únicamente se contratan servicios de empresas que garantizan el cumplimiento de la normativa de protección de datos. En el momento de la contratación se formalizan sus obligaciones de confidencialidad y se hace un seguimiento de su actuación. Puede ser el caso de servicios de alojamiento, de servicios de soporte informático o de asesorías jurídicas, contables o fiscales."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:306
+#: View/Elements/backup_20190920/modal_subscribe.ctp:306
+msgid "¿Cuánto tiempo conservamos los datos?"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:307
+#: View/Elements/backup_20190920/modal_subscribe.ctp:307
+msgid "Cumplimos la obligación legal de limitar al máximo el plazo de conservación de los datos. Por este motivo se conservan sólo el tiempo necesario y justificado por la finalidad que motivó la obtención. En determinados casos, como los datos que figuran en la documentación contable y la facturación, la normativa fiscal obliga a conservarlas hasta que no prescriban las responsabilidades en esta materia. En el caso de los datos que se tratan en base al consentimiento de la persona interesada, se conservan hasta que esta persona no revoca este consentimiento. Las imágenes obtenidas por las cámaras de videovigilancia se conservan como máximo durante un mes, si bien en el caso de incidentes que lo justifiquen se conservarán el tiempo necesario para facilitar las actuaciones de los cuerpos y fuerzas de seguridad o de los órganos judiciales."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:309
+#: View/Elements/backup_20190920/modal_subscribe.ctp:309
+msgid "¿Qué derechos tienen las personas en relación a los datos que tratamos?"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:310
+#: View/Elements/backup_20190920/modal_subscribe.ctp:310
+msgid "Tal como prevé el Reglamento General de Protección de Datos, las personas de quienes tratamos datos tienen los siguientes derechos:"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:312
+#: View/Elements/backup_20190920/modal_subscribe.ctp:312
+msgid "A saber si se tratan."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:313
+#: View/Elements/backup_20190920/modal_subscribe.ctp:313
+msgid "Cualquier persona tiene, en primer lugar, derecho a saber si nosotros tratamos sus datos, con independencia de si ha existido una relación previa."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:315
+#: View/Elements/backup_20190920/modal_subscribe.ctp:315
+msgid "A ser informado en la recogida."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:316
+#: View/Elements/backup_20190920/modal_subscribe.ctp:316
+msgid "Cuando los datos personales se obtienen del propio interesado, en el momento de proporcionarles las debe tener información clara de las finalidades a las que se destinarán, de quién será el responsable del tratamiento y del resto de aspectos derivados de este tratamiento."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:318
+#: View/Elements/backup_20190920/modal_subscribe.ctp:318
+msgid "A acceder."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:319
+#: View/Elements/backup_20190920/modal_subscribe.ctp:319
+msgid "Derecho muy amplio que incluye el de saber con precisión qué datos personales son objeto de tratamiento, cuál es la finalidad para la que se tratan, las comunicaciones a otras personas que se harán (en su caso) o el derecho a obtenerlo copia oa saber el plazo previsto de conservación."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:321
+#: View/Elements/backup_20190920/modal_subscribe.ctp:321
+msgid "A pedir su rectificación."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:322
+#: View/Elements/backup_20190920/modal_subscribe.ctp:322
+msgid "Es el derecho a hacer rectificar los datos inexactos que sean objeto de tratamiento por parte nuestra."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:324
+#: View/Elements/backup_20190920/modal_subscribe.ctp:324
+msgid "A pedir su supresión."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:325
+#: View/Elements/backup_20190920/modal_subscribe.ctp:325
+msgid "En determinadas circunstancias existe el derecho a pedir la supresión de los datos cuando, entre otros motivos, ya no sean necesarias para los fines para los que fueron recogidos y justificaron el tratamiento."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:327
+#: View/Elements/backup_20190920/modal_subscribe.ctp:327
+msgid "Pedir la limitación del tratamiento."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:328
+#: View/Elements/backup_20190920/modal_subscribe.ctp:328
+msgid "También en determinadas circunstancias se reconoce el derecho a pedir la limitación del tratamiento de los datos. En este caso dejarán de ser tratadas y sólo se conservarán para el ejercicio o la defensa de reclamaciones, de acuerdo con el Reglamento General de Protección de Datos."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:330
+#: View/Elements/backup_20190920/modal_subscribe.ctp:330
+msgid "En la portabilidad."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:331
+#: View/Elements/backup_20190920/modal_subscribe.ctp:331
+msgid "En los casos previstos en la normativa se reconoce el derecho a obtener los datos personales propios en un formato estructurado de uso común legible por máquina, y transmitirlas a otro responsable del tratamiento si así lo decide la persona interesada."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:333
+#: View/Elements/backup_20190920/modal_subscribe.ctp:333
+msgid "A oponerse al tratamiento."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:334
+#: View/Elements/backup_20190920/modal_subscribe.ctp:334
+msgid "Una persona puede aducir motivos relacionados con su situación particular, motivos que comportarán que dejen de tratarse sus datos en el grado o medida que pueda suponer un perjuicio, excepto por motivos legítimos o el ejercicio o defensa ante reclamaciones."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:336
+#: View/Elements/backup_20190920/modal_subscribe.ctp:336
+msgid "A no recibir información comercial."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:337
+#: View/Elements/backup_20190920/modal_subscribe.ctp:337
+msgid "Atenderemos inmediatamente las peticiones de no seguir enviando información comercial a las personas que previamente nos lo hubieran autorizado."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:339
+#: View/Elements/backup_20190920/modal_subscribe.ctp:339
+msgid "¿Como se pueden ejercer o defender los derechos?"
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:340
+#: View/Elements/backup_20190920/modal_subscribe.ctp:340
+msgid "Los derechos que acabamos de enumerar pueden ejercerse dirigiendo una solicitud escrita a CORMA SCCL a la dirección postal Camí del Mig, 20, de Premià de Dalt (CP 08338), o mediante el formulario electrónico disponible en www.corma.es, o bien enviando un correo electrónico a corma@corma.es, indicando en todos los casos “Protección de datos personales”."
+msgstr ""
+
+#: View/Elements/modal_subscribe.ctp:341
+#: View/Elements/backup_20190920/modal_subscribe.ctp:341
+msgid "Si no se ha obtenido respuesta satisfactoria en el ejercicio de los derechos es posible presentar una reclamación ante la Agencia Española de Protección de Datos, por medio de los formularios u otros canales accesibles desde su página www.agpd.es."
+msgstr ""
+
+#: View/Elements/presentacions.ctp:7
+#: View/Elements/backup_20190920/presentacions.ctp:7
+#: View/Products/lista.ctp:270
+#: View/Products/results.ctp:338
+#: View/Products/search.ctp:347
+msgid "Presentaciones"
+msgstr ""
+
+#: View/Elements/backup_20190920/_menu_disponible.ctp:59
+#: View/Elements/backup_20190920/box_carris_mobile.ctp:20
+msgid "Total carris teòrics"
+msgstr ""
+
+#: View/Elements/backup_20190920/_menu_disponible.ctp:139
+msgid "Ofertes"
+msgstr ""
+
+#: View/Elements/backup_20190920/_menu_disponible.ctp:247
+#: View/Elements/backup_20190920/menu_cataleg.ctp:118
+msgid "Gamma"
+msgstr ""
+
+#: View/Galleries/#index.ctp:104
+#: View/Galleries/index.ctp:107
+msgid "Dep. Calidad"
+msgstr ""
+
+#: View/Galleries/#index.ctp:160
+#: View/Galleries/index.ctp:169
+msgid "Selecciona una imagen ... "
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:2
+msgid "Images Qualities"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:13;56
+#: View/ImagesQualities/view.ctp:42
+msgid "Actions"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:33
+msgid "View"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:34
+msgid "Edit"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:35
+msgid "Delete"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:35
+#: View/ImagesQualities/view.ctp:45
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:44
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:49
+msgid "previous"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:51
+msgid "next"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:58
+#: View/ImagesQualities/view.ctp:47
+msgid "New Images Quality"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:59
+#: View/ImagesQualities/view.ctp:48
+msgid "List Articles"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:60
+#: View/ImagesQualities/view.ctp:49
+msgid "New Article"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:61
+#: View/ImagesQualities/view.ctp:50
+msgid "List Growings"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:62
+#: View/ImagesQualities/view.ctp:51
+msgid "New Growing"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:63
+#: View/ImagesQualities/view.ctp:52
+msgid "List Flowerings"
+msgstr ""
+
+#: View/ImagesQualities/index.ctp:64
+#: View/ImagesQualities/view.ctp:53
+msgid "New Flowering"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:2
+msgid "Images Quality"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:9
+msgid "Article"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:14
+msgid "Growing"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:19
+msgid "Flowering"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:24
+msgid "Image"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:29
+msgid "Created"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:34
+msgid "Modified"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:44
+msgid "Edit Images Quality"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:45
+msgid "Delete Images Quality"
+msgstr ""
+
+#: View/ImagesQualities/view.ctp:46
+msgid "List Images Qualities"
+msgstr ""
+
+#: View/InvoiceDetails/view.ctp:4
+msgid "Línea factura"
+msgstr ""
+
+#: View/InvoiceDetails/view.ctp:6
+msgid "Total"
+msgstr ""
+
+#: View/Invoices/#view.ctp:28
+#: View/Payments/view.ctp:28
+msgid "Nº factura:"
+msgstr ""
+
+#: View/Invoices/#view.ctp:32
+#: View/Invoices/view.ctp:53
+msgid "Fecha factura desde:"
+msgstr ""
+
+#: View/Invoices/#view.ctp:36
+#: View/Invoices/view.ctp:59
+msgid "Fecha factura hasta:"
+msgstr ""
+
+#: View/Invoices/#view.ctp:56
+#: View/Invoices/view.ctp:81;89
+#: View/Payments/view.ctp:63
+msgid "Nº factura"
+msgstr ""
+
+#: View/Invoices/#view.ctp:57
+#: View/Invoices/view.ctp:82;90
+msgid "Fecha factura"
+msgstr ""
+
+#: View/Invoices/#view.ctp:58
+msgid "Cargo / abono"
+msgstr ""
+
+#: View/Invoices/#view.ctp:72
+msgid "Abono"
+msgstr ""
+
+#: View/Invoices/#view.ctp:74
+msgid "Cargo"
+msgstr ""
+
+#: View/Invoices/view.ctp:46
+msgid "Nº Factura:"
+msgstr ""
+
+#: View/Invoices/view.ctp:83;91
+msgid "Albarán / devolución"
+msgstr ""
+
+#: View/Invoices/view.ctp:106
+msgid "Albarán"
+msgstr ""
+
+#: View/Invoices/view.ctp:106
+msgid "Devolución"
+msgstr ""
+
+#: View/Invoices/view.ctp:118
+msgid "Descargar factura en PDF"
+msgstr ""
+
+#: View/Invoices/view.ctp:123
+msgid "Descargar factura en Excel"
+msgstr ""
+
+#: View/Layouts/admin.ctp:79
+msgid "Administración web"
+msgstr ""
+
+#: View/Layouts/admin.ctp:89
+msgid "Bienvenido, "
+msgstr ""
+
+#: View/Layouts/admin.ctp:125
+msgid "Usuarios"
+msgstr ""
+
+#: View/Layouts/admin.ctp:132
+msgid "Almacenes"
+msgstr ""
+
+#: View/Layouts/admin.ctp:149
+msgid "ACL"
+msgstr ""
+
+#: View/Layouts/admin.ctp:159
+msgid "Permisos"
+msgstr ""
+
+#: View/Layouts/admin.ctp:167
+msgid "Act. AROS"
+msgstr ""
+
+#: View/Layouts/admin.ctp:175
+msgid "Act. ACOS"
+msgstr ""
+
+#: View/Layouts/adminOld.ctp:158
+msgid "Gestión de clientes"
+msgstr ""
+
+#: View/Layouts/default.ctp:322
+msgid "Aviso legal General"
+msgstr ""
+
+#: View/Layouts/default.ctp:344
+msgid "Política de protección de datos"
+msgstr ""
+
+#: View/Layouts/default.ctp:365
+msgid "Política de cookies"
+msgstr ""
+
+#: View/Layouts/private.ctp:41
+msgid "corma@corma.es"
+msgstr ""
+
+#: View/Layouts/private.ctp:72
+msgid "Mi cuenta"
+msgstr ""
+
+#: View/Layouts/private.ctp:73
+msgid "Continuar con la compra"
+msgstr ""
+
+#: View/Partners/add.ctp:10
+#: View/Partners/edit.ctp:18
+msgid "Código"
+msgstr ""
+
+#: View/Partners/add.ctp:27
+msgid "Modificar estoc"
+msgstr ""
+
+#: View/Partners/edit.ctp:5
+msgid "Editar socio / almacén"
+msgstr ""
+
+#: View/Partners/index.ctp:11
+msgid "Añadir almacén"
+msgstr ""
+
+#: View/Partners/selection.ctp:32
+msgid "Selecciona un socio / almacén"
+msgstr ""
+
+#: View/Payments/view.ctp:32
+msgid "Fecha pago desde:"
+msgstr ""
+
+#: View/Payments/view.ctp:36
+msgid "Fecha pago hasta:"
+msgstr ""
+
+#: View/Payments/view.ctp:40
+msgid "Pagado"
+msgstr ""
+
+#: View/Payments/view.ctp:40
+msgid "Pendiente de pago"
+msgstr ""
+
+#: View/Payments/view.ctp:41
+msgid "Estado:"
+msgstr ""
+
+#: View/Payments/view.ctp:65
+msgid "Fecha pago"
+msgstr ""
+
+#: View/Payments/view.ctp:66
+msgid "Tipo"
+msgstr ""
+
+#: View/Petitions/add.ctp:13
+msgid "Si usted es cliente de Corma, rellene el siguiente formulario para solicitar usuario/contraseña."
+msgstr ""
+
+#: View/Petitions/add.ctp:15
+msgid "Nombre Solicitante (*)"
+msgstr ""
+
+#: View/Petitions/add.ctp:16
+msgid "Correo electrónico (*)"
+msgstr ""
+
+#: View/Petitions/add.ctp:17
+msgid "Razón Social (*)"
+msgstr ""
+
+#: View/Petitions/add.ctp:18
+msgid "C.I.F. / N.I.F (*)"
+msgstr ""
+
+#: View/Petitions/add.ctp:19
+msgid "Datos Validación"
+msgstr ""
+
+#: View/Petitions/add.ctp:20
+msgid "Rellene los siguientes campos utilizando una factura de los últimos 12 meses."
+msgstr ""
+
+#: View/Petitions/add.ctp:21
+msgid "Código Cliente (*)"
+msgstr ""
+
+#: View/Petitions/add.ctp:22
+msgid "Número Factura (*)"
+msgstr ""
+
+#: View/Petitions/add.ctp:23
+msgid "Importe Factura (*)"
+msgstr ""
+
+#: View/Petitions/add.ctp:27
+msgid "Enviar solicitud"
+msgstr ""
+
+#: View/Petitions/add.ctp:30
+msgid "(*): Campos Obligatorios"
+msgstr ""
+
+#: View/Petitions/add.ctp:31
+msgid "Una vez nuestro departamento comercial haya validado los datos, Ud. recibirá un mensaje electrónico confirmando la activación del Usuario."
+msgstr ""
+
+#: View/Petitions/add.ctp:34
+msgid "Si Ud. aún no es Cliente, puede enviarnos su petición mediante el formulario existente en la opción"
+msgstr ""
+
+#: View/PlantTypes/index.ctp:20
+msgid "Busca lo que te haga falta. Y hazlo como te sea más conveniente: por nombre, por tipología, por utilización…Escoge en función de lo que necesites. Seguro que lo encuentras. Pero si, a pesar de todo, no fuera así, estaremos a tu lado para lo que sea necesario.  "
+msgstr ""
+
+#: View/PlantTypes/index.ctp:20
+msgid "Llama o envía un correo..."
+msgstr ""
+
+#: View/PlantTypes/index.ctp:20
+msgid "Te responderemos enseguida. Como te mereces."
+msgstr ""
+
+#: View/Products/ficha.ctp:154
+#: View/Products/lista.ctp:108
+#: View/Products/result.ctp:140
+#: View/Products/results.ctp:178
+#: View/Products/search.ctp:187
+msgid "Utilización"
+msgstr ""
+
+#: View/Products/result.ctp:96
+msgid "Página %s de %s"
+msgstr ""
+
+#: View/Products/result.ctp:339
+msgid "No hay resultados para la búsqueda realizada"
+msgstr ""
+
+#: View/Products/result.ctp:341
+msgid "Volver a Buscar"
+msgstr ""
+
+#: View/Products/results.ctp:403
+#: View/Products/search.ctp:412
+#: View/Products/view.ctp:221
+msgid "Nombre Botánico:"
+msgstr ""
+
+#: View/Products/results.ctp:404
+#: View/Products/search.ctp:413
+#: View/Products/view.ctp:222
+msgid "Nombre Popular:"
+msgstr ""
+
+#: View/Products/results.ctp:406
+#: View/Products/search.ctp:415
+#: View/Products/view.ctp:224
+msgid "Tipología:"
+msgstr ""
+
+#: View/Products/results.ctp:411
+#: View/Products/search.ctp:420
+#: View/Products/view.ctp:229
+msgid "Utilización:"
+msgstr ""
+
+#: View/Products/results.ctp:412
+#: View/Products/search.ctp:421
+#: View/Products/view.ctp:230
+msgid "Seleccione una utilización"
+msgstr ""
+
+#: View/Products/results.ctp:427
+#: View/Products/search.ctp:453
+#: View/Products/view.ctp:262
+msgid "Riego:"
+msgstr ""
+
+#: View/Products/results.ctp:428
+#: View/Products/search.ctp:454
+#: View/Products/view.ctp:263
+msgid "Exposición:"
+msgstr ""
+
+#: View/Products/results.ctp:430
+#: View/Products/search.ctp:456
+#: View/Products/view.ctp:265
+msgid "Floración:"
+msgstr ""
+
+#: View/Products/results.ctp:432
+#: View/Products/search.ctp:458
+#: View/Products/view.ctp:267
+msgid "Enero"
+msgstr ""
+
+#: View/Products/results.ctp:433
+#: View/Products/search.ctp:459
+#: View/Products/view.ctp:268
+msgid "Febrero"
+msgstr ""
+
+#: View/Products/results.ctp:434
+#: View/Products/search.ctp:460
+#: View/Products/view.ctp:269
+msgid "Marzo"
+msgstr ""
+
+#: View/Products/results.ctp:435
+#: View/Products/search.ctp:461
+#: View/Products/view.ctp:270
+msgid "Abril"
+msgstr ""
+
+#: View/Products/results.ctp:436
+#: View/Products/search.ctp:462
+#: View/Products/view.ctp:271
+msgid "Mayo"
+msgstr ""
+
+#: View/Products/results.ctp:437
+#: View/Products/search.ctp:463
+#: View/Products/view.ctp:272
+msgid "Junio"
+msgstr ""
+
+#: View/Products/results.ctp:438
+#: View/Products/search.ctp:464
+#: View/Products/view.ctp:273
+msgid "Julio"
+msgstr ""
+
+#: View/Products/results.ctp:439
+#: View/Products/search.ctp:465
+#: View/Products/view.ctp:274
+msgid "Agosto"
+msgstr ""
+
+#: View/Products/results.ctp:440
+#: View/Products/search.ctp:466
+#: View/Products/view.ctp:275
+msgid "Septiembre"
+msgstr ""
+
+#: View/Products/results.ctp:441
+#: View/Products/search.ctp:467
+#: View/Products/view.ctp:276
+msgid "Octubre"
+msgstr ""
+
+#: View/Products/results.ctp:442
+#: View/Products/search.ctp:468
+#: View/Products/view.ctp:277
+msgid "Noviembre"
+msgstr ""
+
+#: View/Products/results.ctp:443
+#: View/Products/search.ctp:469
+#: View/Products/view.ctp:278
+msgid "Diciembre"
+msgstr ""
+
+#: View/Products/results.ctp:445;454
+#: View/Products/search.ctp:471;480
+#: View/Products/view.ctp:280;289
+msgid "Seleccione meses"
+msgstr ""
+
+#: View/Products/results.ctp:452
+#: View/Products/search.ctp:478
+#: View/Products/view.ctp:287
+msgid "Disponibilidad:"
+msgstr ""
+
+#: View/Products/results.ctp:461
+#: View/Products/search.ctp:487
+#: View/Products/view.ctp:296
+msgid "Coloración flor:"
+msgstr ""
+
+#: View/Products/results.ctp:462
+#: View/Products/search.ctp:488
+#: View/Products/view.ctp:297
+msgid "Seleccione coloración flor"
+msgstr ""
+
+#: View/Products/results.ctp:479
+#: View/Products/search.ctp:505
+#: View/Products/view.ctp:314
+msgid "Coloración hoja:"
+msgstr ""
+
+#: View/Products/results.ctp:480
+#: View/Products/search.ctp:506
+#: View/Products/view.ctp:315
+msgid "Seleccione coloración hoja"
+msgstr ""
+
+#: View/Products/results.ctp:498
+#: View/Products/search.ctp:524
+#: View/Products/view.ctp:333
+msgid "Temperatura:"
+msgstr ""
+
+#: View/Products/results.ctp:502
+#: View/Products/search.ctp:528
+#: View/Products/view.ctp:337
+msgid "Fragancia:"
+msgstr ""
+
+#: View/Products/results.ctp:505
+#: View/Products/search.ctp:531
+#: View/Products/view.ctp:340
+msgid "Limpiar formulario"
+msgstr ""
+
+#: View/Products/search.ctp:437
+#: View/Products/view.ctp:246
+msgid "Característica:"
+msgstr ""
+
+#: View/Products/search.ctp:438
+#: View/Products/view.ctp:247
+msgid "Seleccione una característica"
+msgstr ""
+
+#: View/Stocks/detail.ctp:76;204
+msgid "Estoc disponible"
+msgstr ""
+
+#: View/Stocks/home.ctp:6
+msgid "Agrupar por artículo"
+msgstr ""
+
+#: View/Stocks/home.ctp:7
+msgid "Agrupar por socio"
+msgstr ""
+
+#: View/Stocks/home.ctp:54
+msgid "Todos los precios"
+msgstr ""
+
+#: View/Stocks/home.ctp:57
+msgid "Precios Premiá"
+msgstr ""
+
+#: View/Stocks/home.ctp:60
+msgid "Precios Madrid"
+msgstr ""
+
+#: View/Stocks/home.ctp:81
+msgid "Estoc disp."
+msgstr ""
+
+#: View/Users/add.ctp:21
+#: View/Users/login.ctp:52;111
+msgid "Contraseña"
+msgstr ""
+
+#: View/Users/add.ctp:31
+msgid "Grupo"
+msgstr ""
+
+#: View/Users/add.ctp:46
+msgid "Idioma"
+msgstr ""
+
+#: View/Users/add.ctp:58
+msgid "Datos cliente"
+msgstr ""
+
+#: View/Users/add.ctp:70
+msgid "Comercial"
+msgstr ""
+
+#: View/Users/add.ctp:107
+msgid "Datos socio"
+msgstr ""
+
+#: View/Users/add.ctp:112
+msgid "Socio"
+msgstr ""
+
+#: View/Users/add.ctp:133
+#: View/Users/edit.ctp:8
+msgid "Tipo usuario:"
+msgstr ""
+
+#: View/Users/add.ctp:148
+#: View/Users/edit.ctp:24
+msgid "Agente:"
+msgstr ""
+
+#: View/Users/add.ctp:162
+#: View/Users/edit.ctp:38
+msgid "Usuario:"
+msgstr ""
+
+#: View/Users/add.ctp:169
+#: View/Users/edit.ctp:45
+msgid "Password:"
+msgstr ""
+
+#: View/Users/add.ctp:176
+#: View/Users/edit.ctp:52
+msgid "Código cliente:"
+msgstr ""
+
+#: View/Users/add.ctp:183
+#: View/Users/edit.ctp:59
+msgid "Nombre:"
+msgstr ""
+
+#: View/Users/add.ctp:190
+#: View/Users/edit.ctp:66
+msgid "Email:"
+msgstr ""
+
+#: View/Users/add.ctp:197
+#: View/Users/edit.ctp:73
+msgid "Lista disponible:"
+msgstr ""
+
+#: View/Users/admin_changepassword.ctp:8
+msgid "Cambiar contraseña de un usuario"
+msgstr ""
+
+#: View/Users/admin_changepassword.ctp:10
+#: View/Users/changepassword.ctp:16
+msgid "Introduzca su nueva contraseña"
+msgstr ""
+
+#: View/Users/admin_changepassword.ctp:16
+#: View/Users/changepassword.ctp:22
+msgid "Repita la nueva contraseña"
+msgstr ""
+
+#: View/Users/changepassword.ctp:10
+msgid "Introduzca su actual contraseña"
+msgstr ""
+
+#: View/Users/changepassworduser.ctp:36
+msgid "Hola %s"
+msgstr ""
+
+#: View/Users/changepassworduser.ctp:37
+msgid "A continuación puedes introducir una nueva contraseña para acceder a la área privada de Corma."
+msgstr ""
+
+#: View/Users/changepassworduser.ctp:40
+msgid "Nueva contraseña:"
+msgstr ""
+
+#: View/Users/changepassworduser.ctp:41
+msgid "Repita la nueva contraseña:"
+msgstr ""
+
+#: View/Users/changepassworduser.ctp:44
+#: View/Users/recovery_password.ctp:83
+msgid "Enviar"
+msgstr ""
+
+#: View/Users/index.ctp:1646
+msgid "Nuevo"
+msgstr ""
+
+#: View/Users/index.ctp:1704
+msgid "Página {:page} de {:pages}, mostrando {:current} registros de un total de {:count}, de {:start} a {:end}"
+msgstr ""
+
+#: View/Users/index.ctp:1713
+msgid "Anterior"
+msgstr ""
+
+#: View/Users/index.ctp:1720
+msgid "Siguiente"
+msgstr ""
+
+#: View/Users/login.ctp:60
+msgid "Recordar contraseña"
+msgstr ""
+
+#: View/Users/login.ctp:65
+msgid "Conectar"
+msgstr ""
+
+#: View/Users/login.ctp:100
+msgid "Bienvenidos a la área privada de CORMA."
+msgstr ""
+
+#: View/Users/login.ctp:101
+msgid "Introduzca su Usuario y Contraseña."
+msgstr ""
+
+#: View/Users/login.ctp:102
+msgid "(Usted es quien tiene que crear su contraseña la primera vez que entra en el sistema. Nosotros no se lo podemos facilitar porque es personal e intransferible.)"
+msgstr ""
+
+#: View/Users/login.ctp:113
+msgid "Iniciar sesión"
+msgstr ""
+
+#: View/Users/login.ctp:115
+msgid "He olvidado mi contraseña"
+msgstr ""
+
+#: View/Users/login.ctp:119
+msgid "Si aún no dispone de Usuario registrado, "
+msgstr ""
+
+#: View/Users/login.ctp:119
+msgid "solicítelo ahora"
+msgstr ""
+
+#: View/Users/recovery_password.ctp:80
+msgid "Recuperar su contraseña es muy fácil. Introduzca su <strong>nombre de usuario</strong> y recibirá un email con las instrucciones."
+msgstr ""
+
+#: View/UsersNewsletters/index.ctp:2
+msgid "USUARIOS"
+msgstr ""
+
+#: Model/ArticleNovelty.php:validation for field article_id
+#: Model/CatalogueArticle.php:validation for field catalogue_id;validation for field article_id;validation for field catalogue_classification_id
+#: Model/CatalogueClassification.php:validation for field catalogue_id;validation for field catalogue_classification_id
+#: Model/CatalogueUser.php:validation for field catalogue_id;validation for field user_id
+#: Model/ImagesQuality.php:validation for field article_id;validation for field growing_id;validation for field flowering_id
+#: Model/InvoiceDetail.php:validation for field invoice_id;validation for field invoice_line;validation for field article_id
+#: Model/Payment.php:validation for field user_id
+#: Model/Programming.php:validation for field article_id
+#: Model/User.php:validation for field group_id
+msgid "numeric"
+msgstr ""
+
+#: Model/CatalogueClassification.php:validation for field description
+#: Model/Contact.php:validation for field idioma;validation for field hash
+#: Model/Group.php:validation for field name
+#: Model/ImagesQuality.php:validation for field image
+#: Model/Petition.php:validation for field name;validation for field company_name;validation for field nif;validation for field customer;validation for field bill;validation for field amount_bill
+#: Model/Provider.php:validation for field codigo_proveedor;validation for field idioma;validation for field hash
+#: Model/User.php:validation for field password
+#: Model/Usersnewsletter.php:validation for field codigo_cliente;validation for field idioma
+msgid "notEmpty"
+msgstr ""
+
+#: Model/Contact.php:validation for field email
+#: Model/Petition.php:validation for field email
+#: Model/Provider.php:validation for field email
+#: Model/Usersnewsletter.php:validation for field email
+msgid "email"
+msgstr ""
+
+#: Model/Contact.php:validation for field notificado_rgpd;validation for field traspasar_oracle
+#: Model/Provider.php:validation for field notificado_rgpd
+#: Model/Usersnewsletter.php:validation for field notificado_rgpd
+msgid "boolean"
+msgstr ""
+

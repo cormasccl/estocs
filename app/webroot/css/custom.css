@@ -1,0 +1,33 @@
+.actions ul li{
+	list-style: none;
+}
+
+.form-horizontal .controls select {
+    width: auto;
+}
+
+.model{
+    margin-bottom:20px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.texto_recharge {
+    font-size: 30px;
+}
+.center[class*="span"]:first-child,
+.center[class*="span"] {
+    float: none;
+    margin: 0 auto;
+}
+ul.inline{
+
+}
+ul.inline li{
+    display: inline;
+    list-style: none;
+}
+ul.inline li + li{
+
+}

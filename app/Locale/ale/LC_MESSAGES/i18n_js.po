@@ -1,0 +1,32 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: 2015-09-03 01:30+0200\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 1.8.4\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+
+#: Plugin/I18nJs/Console/Command/Task/CreateJsTask.php:38
+msgid "<error>Unable to determine language of PO file:</error>"
+msgstr ""
+
+#: Plugin/I18nJs/Console/Command/Task/CreateJsTask.php:73
+msgid "<info>%s created</info>"
+msgstr ""
+
+#: Plugin/I18nJs/Console/Command/Task/CreateJsTask.php:76
+msgid "<error>Unable to write: %s</error>"
+msgstr ""
+
+#: Plugin/I18nJs/Console/Command/Task/ExtractJsTask.php:78
+msgid "<info>I18nJs POT files created in %s</info>"
+msgstr ""

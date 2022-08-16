@@ -1,0 +1,62 @@
+.ui-datepicker .ui-datepicker-header{display: block!important;}
+.edit_formacion input {
+  height: 20px!important;
+  padding: 4px 6px!important;
+  border-radius: 4px!important;
+  border: 1px solid #799cb9;
+  color: #4d4d4d;
+}
+.accept {
+  text-shadow: 0 1px 1px rgba(0,0,0,.3);
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  background: #f78d1d;
+  background: -webkit-gradient(linear, left top, left bottom, from(#c5a653), to(#ddc079));
+  background: -moz-linear-gradient(top, #c5a653, #ddc079);
+  background-color: #C2A34E;
+  color: white!important;
+  /* margin-top: 20px; */
+  background-color: #C5A653;
+  text-shadow: 0 1px 1px rgba(0,0,0,.3);
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  box-shadow: 0 1px 2px rgba(0,0,0,.2);
+  background: #f78d1d;
+  background: -webkit-gradient(linear, left top, left bottom, from(#ddc079), to(#c5a653));
+  background: -moz-linear-gradient(top, #ddc079, #c5a653);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ddc079', endColorstr='#c5a653');
+  background-color: #C2A34E;
+  border: medium none;
+  width: 150px !important;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  font-size: 1.4em !important;
+  padding: 6px;
+  -webkit-box-shadow: 5px 6px 7px -3px #adadad;
+  -moz-box-shadow: 5px 6px 7px -3px #adadad;
+  box-shadow: 5px 6px 7px -3px #adadad;
+  margin: 20px auto 0;
+  display: block;
+}
+
+
+.edit_formacion p{
+  margin: 0px;
+  text-align: right;
+  padding-right: 18px;
+}
+.edit_formacion textarea{
+  height: 100px;
+  border-radius: 4px!important;
+  border: 1px solid #799cb9;
+  color: #4d4d4d;
+}
+.edit_formacion input{
+  height: 20px!important;
+  padding: 4px 6px!important;
+  border-radius: 4px!important;
+  border: 1px solid #799cb9 !important;
+  color: #4d4d4d !important;
+}

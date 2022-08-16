@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'AlefRegular';
+    src: url('alef-regular.eot');
+    src: url('alef-regular.eot') format('embedded-opentype'),
+         url('alef-regular.woff') format('woff'),
+         url('alef-regular.ttf') format('truetype'),
+         url('alef-regular.svg#AlefRegular') format('svg');
+}

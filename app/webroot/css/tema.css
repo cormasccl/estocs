@@ -1,0 +1,100 @@
+.logo img, .left img.carrusel, .right img{
+  width: 100%;
+  display: block;
+  height: auto;
+  margin-top: 20px;
+}
+.logo img{
+	margin-top: 0px;
+}
+.acceso .login-fields p{
+	font-weight: bold;
+}
+.acceso .social-buttons img{
+	margin-top: 16px;
+}
+.acceso .span{
+	margin-right: 15px;
+	margin-left: 0px;
+}
+.acceso #facebook_login{
+	margin-bottom: 25px;
+}
+.acceso #facebook_login img{
+	width: 165px;
+}
+.center_div .row-fluid {
+    text-align: center;
+}
+.center_div .row-fluid + .row-fluid{
+    margin-top: 0px;
+}
+
+#UserLoginForm input.span3{
+	width: 80%;
+}
+.entrar{
+	background: white;
+	padding-top: 20px;
+}
+.conexion{
+	background: white;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding-top: 15px;
+}
+.remember-button{
+	text-align: right;
+}
+.btn-remember{
+	background: transparent;
+	border: 0px;
+	padding: 0px;
+	color:#999;
+	font-size: 11px;
+	margin-bottom: 10px;
+	margin-right: 22px;
+}
+.btn-entrar{
+	background-color: #2f96b4;
+	color:white;
+	border: 0px;
+	padding: 5px 25px;
+}
+.acceso #footer{
+	margin-top: 10px;
+	padding: 10px;
+	background: white;
+}
+.acceso .btn-error-conexion{
+	background: transparent;
+	border: 0px;
+	color: rgb(233, 2, 2);
+	text-align: right;
+	margin-top: 7px;
+	font-size: 11px;
+}
+
+.promociones{
+	background: white;
+	padding: 20px;
+	margin-top: 20px;
+}
+.reportar-error{
+	text-align: right;
+}
+@media (max-width: 768px){
+	.acceso .entrar{
+		padding-bottom: 15px;
+	}
+	.acceso .conexion{
+		padding-bottom:15px; 
+	}
+	#UserLoginForm input{
+		display: table;
+		margin: 0 auto;
+		margin-top: 5px;
+	}	
+}
+}
+@media (min-width:1200px){  .acceso .container{width:940px;}}
