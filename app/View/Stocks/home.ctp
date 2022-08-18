@@ -1,3 +1,6 @@
+
+
+
 <style type="text/css">
 td a { display: block; width: 100%; height: 100%; }
 </style>
@@ -26,9 +29,16 @@ td a { display: block; width: 100%; height: 100%; }
                             ?>
                                 <div class="form-group">
                                     <!--<label for="StocksFilterName"></label>-->
+
+                                    <!--<a id="btnEAN"><i class="fa fa-barcode"></i></a>-->
+
                                     <input name="data[Stocks][filter_name]" placeholder="<?=__('Buscar');?>..." class="form-control form-stocks" type="text" id="StocksFilterName" value="<?=$filter_name;?>">
-                                
+                                    
                                 </div>
+
+
+                                
+                                
                                 <div class="form-group">
                                     <!--<label for="StocksFilterStock"></label>-->
                                     <select name="data[Stocks][filter_stock]" class="form-control form-stocks" id="StocksFilterStock">
@@ -63,12 +73,20 @@ td a { display: block; width: 100%; height: 100%; }
                                      
                                 </div>
                                 <button type="submit" class="btn btn-default"><?=__('Buscar');?></button>
+                                &nbsp;
+                                <button type="button" id="btnEAN" style ="float:right" class ="btn btn-default"><i class="fa fa-barcode fa-lg"></i>  Lectura EAN</button>
+                                    
+                                
                                 <?php 
                                 
                                     echo $this->Form->end();
                                 ?>
 
+                                
+
                         </div>
+
+                        <div id="interactive" class="viewport"></div>
                     </nav>
 
 
@@ -201,6 +219,82 @@ td a { display: block; width: 100%; height: 100%; }
   //ias.extension(new IASHistoryExtension({prev: '#pagination a.prev'}));
 </script>
 
+
+    <!-- Incluir la biblioteca image-diff -->
+    <script src="https://cdn.jsdelivr.net/gh/serratus/quaggaJS/dist/quagga.min.js"></script>
+
+    <script>
+        var _scannerIsRunning = false;
+
+
+        function startScanner() {
+
+            console.log('startScanner');
+
+
+            Quagga.init({
+                inputStream: {
+                    name: "Live",
+                    type: "LiveStream",
+                    constraints: {
+                        width: 640,
+                        height: 480,
+                        facingMode: "environment"
+                    }
+                },
+                locator: {
+                    patchSize: "medium",
+                    halfSample: true
+                },
+                numOfWorkers: 4,
+                locate: true,
+                decoder : {
+                    readers: ["ean_reader"]
+                }
+            }, function() {
+                Quagga.start();
+                // Establecer bandera en se está ejecutando
+                 _scannerIsRunning = true;
+
+
+
+                 console.log('start');
+
+                 var div = document.getElementById('interactive');
+                div.style.display = null;
+            });
+
+            Quagga.onDetected(function(result) {
+                var code = result.codeResult.code;
+
+                
+                //document.querySelector("#StocksFilterName").innerHTML = code;
+
+                document.getElementById("StocksFilterName").value = code;
+                stopScanner();
+            });
+            
+
+        }
+
+    function stopScanner() {
+
+        console.log('stopScanner');
+        Quagga.stop();
+        
+        _scannerIsRunning = false;
+        var div = document.getElementById('interactive');
+        div.style.display = 'none';
+    }
+    // Iniciar / detener el escáner
+        document.getElementById("btnEAN").addEventListener("click", function () {            
+            if (_scannerIsRunning) {
+                stopScanner();
+            } else {
+                startScanner();
+            }
+        }, false);             
+    </script>
 
 
 

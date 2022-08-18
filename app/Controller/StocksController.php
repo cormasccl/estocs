@@ -93,9 +93,9 @@ class StocksController extends AppController {
             
 
             if (isset($filter_name) && !empty($filter_name)) {
-                $query .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' ) " ;
+                $query .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' OR Articles.ean LIKE '%".$filter_name."%') " ;
 
-                $query_count .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' ) " ;
+                $query_count .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' OR Articles.ean LIKE '%".$filter_name."%') " ;
             }
 
             $param = "?data%5BStocks%5D%5Bfilter_name%5D=".$requestData['data']['Stocks']['filter_name']."&data%5BStocks%5D%5Bfilter_stock%5D=".$requestData['data']['Stocks']['filter_stock'];
@@ -211,7 +211,7 @@ class StocksController extends AppController {
             
 
             if (isset($filter_name) && !empty($filter_name)) {
-                $query .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' ) " ;
+                $query .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' OR Articles.ean LIKE '%".$filter_name."%' ) " ;
 
                 /*$query_count .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' ) " ;*/
             }
@@ -630,9 +630,11 @@ class StocksController extends AppController {
                 $filter_stock = $requestData['data']['Stocks']['filter_stock'];
 
                 if (isset($filter_name) && !empty($filter_name)) {
-                    $query .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' ) " ;
+                    $query .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' OR Articles.ean LIKE '%".$filter_name."%' ) " ;
 
-                    $query_count .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' ) " ;
+                    $query_count .= " AND ( Articles.name LIKE '%".$filter_name."%' OR Products.description LIKE '%".$filter_name."%' OR Articles.ean LIKE '%".$filter_name."%' ) " ;
+
+
                 }
 
                 
@@ -774,7 +776,7 @@ class StocksController extends AppController {
         if( isset($requestData['search']['value']) && !empty( $requestData['search']['value'] ) ){
             $search = $requestData['search']['value'];
             $cond.=" AND ( Stocks.id LIKE '".$search."%' OR  Articles.name LIKE '%".$search."%'
-            OR  Products.description LIKE '%".$search."%' ) AND Stocks.active =".$filter_active;
+            OR  Products.description LIKE '%".$search."%'  ) AND Stocks.active =".$filter_active;
         }
    
         $columns = array(
